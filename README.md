@@ -9,7 +9,7 @@ This file is still WIP, don't expect much :v
 - 💬 Ask me about: Advice for refactoring code, especially my main langs (JS & Automate)
 - 📫 How to reach me: My website has a bunch of contact info. The link is on my profile
 - ⚤ Pronouns: He/Him/They/Them/Whatever_IDK™
-- ⚡ Fun fact: 5 is one of the only Fibonacci numbers whose value is equal to its index.. Oh wait you were expecting a personal fact... I'm still thinking about it
+- ⚡ Fun fact: 5 is one of the only Fibonacci numbers whose value is equal to its index... Oh wait you were expecting a personal fact... I'm still thinking about it 🤔
 
 # About my GH posts
 (Here I'll explain stuff about repos, gists, etc...)
