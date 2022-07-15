@@ -12,12 +12,7 @@ This file is still WIP, don't expect much :v
 - ⚡ Fun fact: 5 is one of the only Fibonacci numbers whose value is equal to its index... Oh wait you were expecting a personal fact... I'm still thinking about it 🤔
 
 # About my GH posts
-<!--Here I'll explain stuff about repos, gists, etc...-->
-## Style & Formatting
-These are **global** rules, they apply to **all** my repos (unless otherwise specified). These rules don't apply to forks, obviously.
-1. **ALWAYS USE TABS** FOR INDENTATION. [This article explains better than me](https://dev.to/alexandersandberg/why-we-should-default-to-tabs-instead-of-spaces-for-an-accessible-first-environment-101f).
-2. Use single quotes (') because they look cleaner. Use double quotes (") if compression ratio is a concern (like HTML files served over HTTP with auto-GZip enabled).
-
+(Here I'll explain stuff about repos, gists, etc...)
 
 # Footer
 Oh wait this isn't HTML...
