@@ -1,4 +1,4 @@
-# About me
+# About
 - 🔭 I’m currently working on: Whatever thing I'm inspired to do at the moment. Usually my repos, but there's some stuff I haven't posted because those are unfinished projects, more on that below...
 - 🌱 I’m currently learning: Rust lang, some math and programming stuff. I wish I dedicated more time to music...
 - 👯 I’m looking to collaborate on: The [ByteAnim](https://github.com/Rudxain/Byte-Anim) project, because I believe this is something the Demoscene community would love. [`xorsum`](https://github.com/Rudxain/xorsum) because it's a simple checksum for the public domain. And I'm willing to contribute to innovative games that explore the concepts of non-Euclidean space/geometry, +3D games like 4D Miner, 1D and 0D games (for completeness lol)
@@ -7,9 +7,6 @@
 - 📫 How to reach me: My website has a bunch of contact info. The link is on my profile
 - ⚤ Pronouns: He/Him/They/Them/Whatever_IDK™
 - ⚡ Fun fact: 5 is one of the only Fibonacci numbers whose value is equal to its index... Oh wait you were expecting a personal fact... I'm still thinking about it 🤔
-
-# About my GH posts
-(Here I'll explain stuff about repos, gists, etc...)
 
 # Footer
 Oh wait this isn't HTML...
