@@ -1,4 +1,4 @@
-[![Rudxain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudxain&title_color=#000)](https://github.com/anuraghazra/github-readme-stats)
+[![Rudxain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudxain)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudxain)](https://github.com/anuraghazra/github-readme-stats)
 
 
