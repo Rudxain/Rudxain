@@ -41,6 +41,7 @@ When my PRs are merged, **I'll delete my corresponding fork**, so links to any o
 
 ## Langs
 Favorites:
+
 0. Rust
 1. Python
 2. TypeScript
@@ -48,6 +49,7 @@ Favorites:
 4. Llamalab Automate
 
 Expertise:
+
 0. JavaScript
 1. Llamalab Automate
 2. TypeScript
