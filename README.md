@@ -31,3 +31,5 @@
 [Get cards like these!](https://github.com/anuraghazra/github-readme-stats)
 
 I'm currently unemployed. Dedicating my time to maintain my repos, and to finish the "base" of some non-posted repos. I’m interested in cybersecurity and ethical hacking. I wish I dedicated more time to music, animation, and other forms of art. I’m looking to collaborate on almost anything. I'm willing to contribute to innovative games that explore the concepts of non-Euclidean space/geometry, +3D games like [4D Miner](https://mashpoe.com/4d-miner), 1D and 0D games (for completeness lol). I have an "unhealthy obsession" with code refactoring (it's obvious from my GH activity, lol)
+
+When my PRs are merged, **I'll delete my corresponding fork**, so links to any of my forks may be broken/dead in the future. The only exception to this rule is [.files](https://github.com/Rudxain/dotfiles)
