@@ -46,7 +46,9 @@ Favorites:
 1. Python
 2. TypeScript
 3. JavaScript
-4. Llamalab Automate
+4. POSIX shell
+5. Non-POSIX shells (MirBSD Korn Shell, Bash, Dash, etc...)
+6. Llamalab Automate
 
 Expertise:
 
@@ -54,4 +56,6 @@ Expertise:
 1. Llamalab Automate
 2. TypeScript
 3. Python
-4. Rust
+4. POSIX shell
+5. Rust
+6. Non-POSIX shells
