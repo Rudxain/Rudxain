@@ -1,3 +1,6 @@
+# Me
+
+## Stats
 <a href=https://github.com/Rudxain#gh-light-mode-only>
 	<img
 		src=https://github-readme-stats.vercel.app/api?username=Rudxain&show_icons=true&hide_rank=true#gh-light-mode-only
@@ -30,6 +33,23 @@
 
 [Get cards like these!](https://github.com/anuraghazra/github-readme-stats)
 
+## Personal
 I'm currently unemployed. Dedicating my time to maintain my repos, and to finish the "base" of some non-posted repos. I’m interested in cybersecurity and ethical hacking. I wish I dedicated more time to music, animation, and other forms of art. I’m looking to collaborate on almost anything. I'm willing to contribute to innovative games that explore the concepts of non-Euclidean space/geometry, +3D games like [4D Miner](https://mashpoe.com/4d-miner), 1D and 0D games (for completeness lol). I have an "unhealthy obsession" with code refactoring (it's obvious from my GH activity, lol)
 
+## Repos
 When my PRs are merged, **I'll delete my corresponding fork**, so links to any of my forks may be broken/dead in the future. The only exception to this rule is [.files](https://github.com/Rudxain/dotfiles)
+
+## Langs
+Favorites:
+0. Rust
+1. Python
+2. TypeScript
+3. JavaScript
+4. Llamalab Automate
+
+Expertise:
+0. JavaScript
+1. Llamalab Automate
+2. TypeScript
+3. Python
+4. Rust
