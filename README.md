@@ -48,12 +48,12 @@ All my repos use Semantic Versioning (except the ones that don't have any kind o
 1. Python
 2. TypeScript
 3. JavaScript: I just like its portability
-4. Llamalab Automate
-5. POSIX shell
+4. Llamalab Automate: I like the ease of access to Android APIs
+5. POSIX shell: portability
 
 🧠Expertise:
 
-0. JavaScript
+0. JavaScript: unfortunately
 1. Llamalab Automate
 2. TypeScript
 3. Python
@@ -61,6 +61,7 @@ All my repos use Semantic Versioning (except the ones that don't have any kind o
 5. Rust
 
 🤮Hated:
+
 0. Malbolge family/variants/dialects of esolangs. They are quite interesting, but I'm not a masochist
 1. COBOL
 2. PHP
