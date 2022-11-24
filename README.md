@@ -39,6 +39,8 @@ I'm currently unemployed. Dedicating my time to maintain my repos, and to finish
 ## Repos
 When my PRs are merged, **I'll delete my corresponding fork**, so links to any of my forks may be broken/dead in the future. The only exception to this rule is [.files](https://github.com/Rudxain/dotfiles)
 
+All my repos use Semantic Versioning (except the ones that don't have any kind of versioning).
+
 ## Langs
 Favorites:
 
