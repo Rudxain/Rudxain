@@ -37,27 +37,32 @@
 I'm currently unemployed. Dedicating my time to maintain my repos, and to finish the "base" of some non-posted repos. I’m interested in cybersecurity and ethical hacking. I wish I dedicated more time to music, animation, and other forms of art. I’m looking to collaborate on almost anything. I'm willing to contribute to innovative games that explore the concepts of non-Euclidean space/geometry, +3D games like [4D Miner](https://mashpoe.com/4d-miner), 1D and 0D games (for completeness lol). I have an "unhealthy obsession" with code refactoring (it's obvious from my GH activity, lol)
 
 ## Repos
-When my PRs are merged, **I'll delete my corresponding fork**, so links to any of my forks may be broken/dead in the future. The only exception to this rule is [.files](https://github.com/Rudxain/dotfiles)
+When my PRs are merged, **I'll delete my corresponding fork**. Thus, links to any of my forks may be broken/dead in the future. The only exception is [.files](https://github.com/Rudxain/dotfiles).
 
 All my repos use Semantic Versioning (except the ones that don't have any kind of versioning).
 
 ## Langs
-Favorites:
+❤Favorites:
 
 0. Rust
 1. Python
 2. TypeScript
-3. JavaScript
-4. POSIX shell
-5. Non-POSIX shells (MirBSD Korn Shell, Bash, Dash, etc...)
-6. Llamalab Automate
+3. JavaScript: I just like its portability
+4. Llamalab Automate
+5. POSIX shell
 
-Expertise:
+🧠Expertise:
 
 0. JavaScript
 1. Llamalab Automate
 2. TypeScript
 3. Python
-4. POSIX shell
+4. POSIX shell: despite using it rarely, it's simpler than Rust
 5. Rust
-6. Non-POSIX shells
+
+🤮Hated:
+0. Malbolge family/variants/dialects of esolangs. They are quite interesting, but I'm not a masochist
+1. COBOL
+2. PHP
+3. Java
+4. JavaScript: paradox lol
