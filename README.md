@@ -80,7 +80,7 @@ All my repos use Semantic Versioning (except the ones that don't have any kind o
 - Main: Visual Studio Code
 - Quick: Cinnamon Text Editor, MS Windows Notepad
 - Interested: Vim
-- Android: QuickEdit. Not my favorite, but has all the stuff I need. **The excessive ads are an absolute nightmare.** Don't download this {bloat|ad}ware unless you REALLY need it
+- Android: QuickEdit. Has all the stuff I need, and more. **The excessive ads are an absolute nightmare.** Don't download this {bloat|ad}ware unless you REALLY need it. I couldn't find an alternative on F-Droid. **Please help me**
 
 ## OS
 
