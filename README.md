@@ -67,3 +67,27 @@ All my repos use Semantic Versioning (except the ones that don't have any kind o
 2. PHP
 3. Java
 4. JavaScript: paradox lol
+
+👀Interested:
+
+0. Assembly
+1. Haskell
+2. Kotlin
+3. Ada
+
+## Editors
+
+- Main: Visual Studio Code
+- Quick: Cinnamon Text Editor, MS Windows Notepad
+- Interested: Vim
+- Android: QuickEdit. Has all the stuff I need, and more. **The excessive ads are an absolute nightmare.** Don't download this {bloat|ad}ware unless you REALLY need it. I couldn't find an alternative on F-Droid. **Please help me**
+
+## OS
+
+0. Linux Mint Cinnamon
+1. Android
+2. Windows
+
+## Browsers
+
+Anything, I don't care. I use Firefox on Linux, Chrome on Android, Edge on Windows.
