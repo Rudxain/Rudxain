@@ -75,19 +75,19 @@ All my repos use Semantic Versioning (except the ones that don't have any kind o
 2. Kotlin
 3. Ada
 
-# Editors
+## Editors
 
 - Main: Visual Studio Code
 - Quick: Cinnamon Text Editor, MS Windows Notepad
 - Interested: Vim
 - Android: QuickEdit. Not my favorite, but has all the stuff I need. **The excessive ads are an absolute nightmare.** Don't download this {bloat|ad}ware unless you REALLY need it
 
-# OS
+## OS
 
 0. Linux Mint Cinnamon
 1. Android
 2. Windows
 
-# Browsers
+## Browsers
 
 Anything, I don't care. I use Firefox on Linux, Chrome on Android, Edge on Windows.
