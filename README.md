@@ -60,14 +60,6 @@ All my repos use Semantic Versioning (except the ones that don't have any kind o
 4. POSIX shell. Despite using it rarely, it's simpler than Rust
 5. Rust
 
-🤮Hated:
-
-0. Malbolge family/variants/dialects of esolangs. They are quite interesting, but I ain't masochist
-1. COBOL
-2. PHP
-3. Java
-4. JavaScript. Paradox lol
-
 👀Interested:
 
 0. Assembly
