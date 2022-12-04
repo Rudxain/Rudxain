@@ -19,14 +19,14 @@
 <a href=https://github.com/Rudxain#gh-light-mode-only>
 	<img
 		src=https://github-readme-stats.vercel.app/api/top-langs/?username=Rudxain&langs_count=3#gh-light-mode-only
-		alt='Top langs'
+		alt='Top langs: JS, Rust, ...'
 		loading=lazy
 	>
 </a>
 <a href=https://github.com/Rudxain#gh-dark-mode-only>
 	<img
 		src=https://github-readme-stats.vercel.app/api/top-langs/?username=Rudxain&langs_count=3&theme=github_dark#gh-dark-mode-only
-		alt='Top langs'
+		alt='Top langs: JS, Rust, ...'
 		loading=lazy
 	>
 </a>
@@ -34,17 +34,17 @@
 [Get cards like these!](https://github.com/anuraghazra/github-readme-stats)
 
 ## Personal
-- I'm currently unemployed.
-- Dedicating my time to maintain my repos, and to finish the "base" of some non-posted repos.
-- I’m interested in cybersecurity and ethical hacking.
-- I wish I dedicated more time to music, animation, and other forms of art.
-- I'm willing to contribute to innovative games that explore the concepts of non-Euclidean space/geometry, +3D games like [4D Miner](https://mashpoe.com/4d-miner), 1D and 0D games (for completeness lol).
-- I have an "unhealthy obsession" with code refactoring (it's obvious from my GH activity, lol)
+- Currently unemployed
+- Dedicating my time to maintain my repos, and to finish the "base" of some non-posted repos
+- Interested in cybersecurity and ethical hacking
+- Wish I dedicated more time to music, animation, and other forms of art
+- Willing to contribute to innovative games that explore the concepts of non-Euclidean space/geometry, +3D games like [4D Miner](https://mashpoe.com/4d-miner), 1D and 0D games (for completeness)
+- Have an "unhealthy obsession" with code refactoring. It's obvious from my GH activity 😂
 
 ## Repos
-- When my PRs are merged, **I'll delete my corresponding fork**. Thus, links to any of my forks may be broken/dead in the future. The only exception is [.files](https://github.com/Rudxain/dotfiles).
-- All my repos use Semantic Versioning (except the ones that don't have versioning at all).
-- If I contribute to any of your repos, I hope you do the same for me (or other people)
+- When my PRs are merged, **I'll delete my corresponding fork**. Therefore, links to any of my forks may be [broken](https://en.wikipedia.org/wiki/Link_rot) (not dead, because it's not permanent) in the future. The exception is [.files](https://github.com/Rudxain/dotfiles)
+- All my repos have [semver](https://semver.org), except the ones that don't have versioning at all
+- If I contribute to any of your repos, I hope you do the same for me and/or other people
 
 ## Langs
 ❤Favorites:
@@ -88,4 +88,4 @@
 
 ## Browsers
 
-Anything, I don't care. I use Firefox on Linux, Chrome on Android, Edge on Windows.
+Anything, I don't care. I use Firefox on Linux, Chrome on Android, Edge on Windows
