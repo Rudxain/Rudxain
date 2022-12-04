@@ -86,6 +86,18 @@
 1. <img alt='Android logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=8% height=8% loading=lazy>Android 8.1 Oreo
 2. <img alt='MS Windows 10 logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=8% height=8% loading=lazy>Microsoft Windows 10
 
+🧠Expertise:
+
+0. <img alt='Android logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=8% height=8% loading=lazy>Android 8.1 Oreo
+1. <img alt='MS Windows 10 logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=8% height=8% loading=lazy>Microsoft Windows 10
+2. 🐧Linux <img alt='Linux Mint logo' src=https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg width=8% height=8% loading=lazy>Mint <img alt='LM Cinnamon logo' src=https://upload.wikimedia.org/wikipedia/commons/5/5a/Cinnamon-logo.svg width=8% height=8% loading=lazy>Cinnamon 21 "Vanessa"
+
+👀Interested:
+
+0. Arch Linux (I don't use it, BTW)
+1. Kali Linux. I've used it before, but only some minutes, on a bootable USB drive
+2. Google Fuchsia
+
 ## Browsers
 I have no special preferences. I just use them based on which OS I'm using.
 
