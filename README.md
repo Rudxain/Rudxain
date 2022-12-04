@@ -67,8 +67,8 @@
 👀Interested:
 
 0. 💾Assembly
-1. (Common Lisp)
-2. λ Haskell
+1. <img alt='Lisp logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg width=8% height=8%>(Common Lisp)
+2. <img alt='Haskell logo' src=https://evenmere.org/~bts/haskell-logo/logo-0.svg width=8% height=8%>Haskell
 4. 🕊Ada
 5. Go
 
