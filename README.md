@@ -69,7 +69,6 @@
 0. 💾Assembly
 1. (Common Lisp)
 2. λ Haskell
-3. Kotlin
 4. 🕊Ada
 5. Go
 
