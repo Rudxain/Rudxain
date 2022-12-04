@@ -1,9 +1,15 @@
 # Me
 
+<style>
+	img { width: 1em; height: 1em }
+	.c { width: 50%; height: 50% }
+</style>
+
 ## Stats
 
 <a href=https://github.com/Rudxain#gh-light-mode-only>
 	<img
+		class=c
 		src=https://github-readme-stats.vercel.app/api?username=Rudxain&show_icons=true&hide_rank=true#gh-light-mode-only
 		alt='My stats'
 		loading=lazy
@@ -11,6 +17,7 @@
 </a>
 <a href=https://github.com/Rudxain#gh-dark-mode-only>
 	<img
+		class=c
 		src=https://github-readme-stats.vercel.app/api?username=Rudxain&show_icons=true&hide_rank=true&theme=github_dark#gh-dark-mode-only
 		alt='My stats'
 		loading=lazy
@@ -19,6 +26,7 @@
 
 <a href=https://github.com/Rudxain#gh-light-mode-only>
 	<img
+		class=c
 		src=https://github-readme-stats.vercel.app/api/top-langs/?username=Rudxain&langs_count=3#gh-light-mode-only
 		alt='Top langs: JS, Rust, ...'
 		loading=lazy
@@ -26,6 +34,7 @@
 </a>
 <a href=https://github.com/Rudxain#gh-dark-mode-only>
 	<img
+		class=c
 		src=https://github-readme-stats.vercel.app/api/top-langs/?username=Rudxain&langs_count=3&theme=github_dark#gh-dark-mode-only
 		alt='Top langs: JS, Rust, ...'
 		loading=lazy
@@ -54,48 +63,48 @@
 ❤Favorites:
 
 0. 🦀Rust
-1. <img alt='Py logo' src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python
-2. <img alt='TS logo' src=https://raw.githubusercontent.com/microsoft/TypeScript-Website/f905e795350720b4a906b00155e95f370734f63c/packages/typescriptlang-org/static/branding/ts-logo-512.svg width=16em height=16em loading=lazy>TypeScript
-3. <img alt='JS logo' src=https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg width=16em height=16em loading=lazy>JavaScript. I just like its portability
-4. 🦙Llamalab <img alt='AM logo' src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em loading=lazy>Automate. I like the ease of access to Android APIs. I'm considering switching to Termux
+1. <img alt='Py logo' src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg loading=lazy>Python
+2. <img alt='TS logo' src=https://raw.githubusercontent.com/microsoft/TypeScript-Website/f905e795350720b4a906b00155e95f370734f63c/packages/typescriptlang-org/static/branding/ts-logo-512.svg loading=lazy>TypeScript
+3. <img alt='JS logo' src=https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg loading=lazy>JavaScript. I just like its portability
+4. 🦙Llamalab <img alt='AM logo' src=https://llamalab.com/img/automate/ic_launcher-128.png loading=lazy>Automate. I like the ease of access to Android APIs. I'm considering switching to Termux
 
 🧠Expertise:
 
-0. <img alt='JS logo' src=https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg width=16em height=16em loading=lazy>JavaScript. Unfortunately 😂
-1. 🦙Llamalab <img alt='AM logo' src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em loading=lazy>Automate. I know more about expressions than blocks
-2. <img alt='TS logo' src=https://raw.githubusercontent.com/microsoft/TypeScript-Website/f905e795350720b4a906b00155e95f370734f63c/packages/typescriptlang-org/static/branding/ts-logo-512.svg width=16em height=16em loading=lazy>TypeScript
-3. <img alt='Py logo' src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python
+0. <img alt='JS logo' src=https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg loading=lazy>JavaScript. Unfortunately 😂
+1. 🦙Llamalab <img alt='AM logo' src=https://llamalab.com/img/automate/ic_launcher-128.png loading=lazy>Automate. I know more about expressions than blocks
+2. <img alt='TS logo' src=https://raw.githubusercontent.com/microsoft/TypeScript-Website/f905e795350720b4a906b00155e95f370734f63c/packages/typescriptlang-org/static/branding/ts-logo-512.svg loading=lazy>TypeScript
+3. <img alt='Py logo' src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg loading=lazy>Python
 4. POSIX shell. Despite using it rarely, it's simpler than Rust
 5. 🦀Rust
 
 👀Interested:
 
 0. 💾Assembly
-1. <img alt='Lisp logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg width=16em height=16em loading=lazy>(Common Lisp)
-2. <img alt='Haskell logo' src=https://evenmere.org/~bts/haskell-logo/logo-0.svg width=16em height=16em loading=lazy>Haskell
+1. <img alt='Lisp logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg loading=lazy>(Common Lisp)
+2. <img alt='Haskell logo' src=https://evenmere.org/~bts/haskell-logo/logo-0.svg loading=lazy>Haskell
 3. 🕊Ada
-4. <img alt='Go logo' src=https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg width=16em height=16em loading=lazy>Golang
+4. <img alt='Go logo' src=https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg loading=lazy>Golang
 
 ## Editors
 
-- Main: Microsoft <img alt='MS VSC logo' src=https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg width=16em height=16em loading=lazy>Visual Studio Code
+- Main: Microsoft <img alt='MS VSC logo' src=https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg loading=lazy>Visual Studio Code
 - Quick: Xed, Microsoft Windows Notepad
 - 👀Interested: Vim
-- <img alt='Android logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em loading=lazy>Android: QuickEdit. Has all the stuff I need, and more. **The excessive ads are an absolute nightmare.** Don't download this {bloat|ad}ware unless you REALLY need it. I couldn't find an alternative on F-Droid. **Please help me**
+- <img alt='Android logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg loading=lazy>Android: QuickEdit. Has all the stuff I need, and more. **The excessive ads are an absolute nightmare.** Don't download this {bloat|ad}ware unless you REALLY need it. I couldn't find an alternative on F-Droid. **Please help me**
 
 ## OS
 
 ❤Favorites:
 
-0. 🐧Linux <img alt='Linux Mint logo' src=https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg width=16em height=16em loading=lazy>Mint <img alt='LM Cinnamon logo' src=https://upload.wikimedia.org/wikipedia/commons/5/5a/Cinnamon-logo.svg width=16em height=16em loading=lazy>Cinnamon 21 "Vanessa"
-1. <img alt='Android logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em loading=lazy>Android 8.1 Oreo
-2. <img alt='MS Windows 10 logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=16em height=16em loading=lazy>Microsoft Windows 10
+0. 🐧Linux <img alt='Linux Mint logo' src=https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg loading=lazy>Mint <img alt='LM Cinnamon logo' src=https://upload.wikimedia.org/wikipedia/commons/5/5a/Cinnamon-logo.svg loading=lazy>Cinnamon 21 "Vanessa"
+1. <img alt='Android logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg loading=lazy>Android 8.1 Oreo
+2. <img alt='MS Windows 10 logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg loading=lazy>Microsoft Windows 10
 
 🧠Expertise:
 
-0. <img alt='Android logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em loading=lazy>Android 8.1 Oreo
-1. <img alt='MS Windows 10 logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=16em height=16em loading=lazy>Microsoft Windows 10
-2. 🐧Linux <img alt='Linux Mint logo' src=https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg width=16em height=16em loading=lazy>Mint <img alt='LM Cinnamon logo' src=https://upload.wikimedia.org/wikipedia/commons/5/5a/Cinnamon-logo.svg width=16em height=16em loading=lazy>Cinnamon 21 "Vanessa"
+0. <img alt='Android logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg loading=lazy>Android 8.1 Oreo
+1. <img alt='MS Windows 10 logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg loading=lazy>Microsoft Windows 10
+2. 🐧Linux <img alt='Linux Mint logo' src=https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg loading=lazy>Mint <img alt='LM Cinnamon logo' src=https://upload.wikimedia.org/wikipedia/commons/5/5a/Cinnamon-logo.svg loading=lazy>Cinnamon 21 "Vanessa"
 
 👀Interested:
 
@@ -107,8 +116,8 @@
 
 I have no special preferences. I just use them based on which OS I'm using.
 
-- 🐧Linux: <img alt='Mozilla FF logo' src=https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg width=16em height=16em loading=lazy>Mozilla Firefox
-- <img alt='Android logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em loading=lazy>Android: <img alt='G Chrome logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg width=16em height=16em loading=lazy>Google Chrome
-- <img alt='MS Windows 10 logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=16em height=16em loading=lazy>Windows: <img alt='MS Edge' src=https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Edge_logo_%282019%29.svg width=16em height=16em loading=lazy>Microsoft Edge
+- 🐧Linux: <img alt='Mozilla FF logo' src=https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg loading=lazy>Mozilla Firefox
+- <img alt='Android logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg loading=lazy>Android: <img alt='G Chrome logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg loading=lazy>Google Chrome
+- <img alt='MS Windows 10 logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg loading=lazy>Windows: <img alt='MS Edge' src=https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Edge_logo_%282019%29.svg loading=lazy>Microsoft Edge
 
-<!-- template: <img alt='' src= width=16em height=16em loading=lazy> -->
+<!-- template: <img alt='' src= loading=lazy> -->
