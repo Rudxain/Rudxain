@@ -50,25 +50,25 @@
 ❤Favorites:
 
 0. 🦀Rust
-1. <img alt='Py logo' src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=8% height=8%>Python
-2. <img alt='TS logo' src=https://raw.githubusercontent.com/microsoft/TypeScript-Website/f905e795350720b4a906b00155e95f370734f63c/packages/typescriptlang-org/static/branding/ts-logo-512.svg width=8% height=8%>TypeScript
-3. <img alt='JS logo' src=https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg width=8% height=8%>JavaScript. I just like its portability
-4. 🦙Llamalab <img alt='AM logo' src=https://llamalab.com/img/automate/ic_launcher-128.png width=8% height=8%>Automate. I like the ease of access to Android APIs. I'm considering switching to Termux
+1. <img alt='Py logo' src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=8% height=8% loading=lazy>Python
+2. <img alt='TS logo' src=https://raw.githubusercontent.com/microsoft/TypeScript-Website/f905e795350720b4a906b00155e95f370734f63c/packages/typescriptlang-org/static/branding/ts-logo-512.svg width=8% height=8% loading=lazy>TypeScript
+3. <img alt='JS logo' src=https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg width=8% height=8% loading=lazy>JavaScript. I just like its portability
+4. 🦙Llamalab <img alt='AM logo' src=https://llamalab.com/img/automate/ic_launcher-128.png width=8% height=8% loading=lazy>Automate. I like the ease of access to Android APIs. I'm considering switching to Termux
 
 🧠Expertise:
 
-0. <img alt='JS logo' src=https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg width=8% height=8%>JavaScript. Unfortunately 😂
-1. 🦙Llamalab <img alt='AM logo' src=https://llamalab.com/img/automate/ic_launcher-128.png width=8% height=8%>Automate. I know more about expressions than blocks
-2. <img alt='TS logo' src=https://raw.githubusercontent.com/microsoft/TypeScript-Website/f905e795350720b4a906b00155e95f370734f63c/packages/typescriptlang-org/static/branding/ts-logo-512.svg width=8% height=8%>TypeScript
-3. <img alt='Py logo' src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=8% height=8%>Python
+0. <img alt='JS logo' src=https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg width=8% height=8% loading=lazy>JavaScript. Unfortunately 😂
+1. 🦙Llamalab <img alt='AM logo' src=https://llamalab.com/img/automate/ic_launcher-128.png width=8% height=8% loading=lazy>Automate. I know more about expressions than blocks
+2. <img alt='TS logo' src=https://raw.githubusercontent.com/microsoft/TypeScript-Website/f905e795350720b4a906b00155e95f370734f63c/packages/typescriptlang-org/static/branding/ts-logo-512.svg width=8% height=8% loading=lazy>TypeScript
+3. <img alt='Py logo' src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=8% height=8% loading=lazy>Python
 4. POSIX shell. Despite using it rarely, it's simpler than Rust
 5. 🦀Rust
 
 👀Interested:
 
 0. 💾Assembly
-1. <img alt='Lisp logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg width=8% height=8%>(Common Lisp)
-2. <img alt='Haskell logo' src=https://evenmere.org/~bts/haskell-logo/logo-0.svg width=8% height=8%>Haskell
+1. <img alt='Lisp logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg width=8% height=8% loading=lazy>(Common Lisp)
+2. <img alt='Haskell logo' src=https://evenmere.org/~bts/haskell-logo/logo-0.svg width=8% height=8% loading=lazy>Haskell
 4. 🕊Ada
 5. Go
 
@@ -81,9 +81,9 @@
 
 ## OS
 
-0. 🐧Linux 🌿Mint Cinnamon 21 "Vanessa"
-1. <img alt='Android logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=8% height=8%>Android 8.1 Oreo
-2. <img alt='Windows 10 logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=8% height=8%>Windows 10
+0. 🐧Linux <img alt='Linux Mint logo' src=https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg width=8% height=8% loading=lazy>Mint <img alt='LM Cinnamon logo' src=https://upload.wikimedia.org/wikipedia/commons/5/5a/Cinnamon-logo.svg width=8% height=8% loading=lazy>Cinnamon 21 "Vanessa"
+1. <img alt='Android logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=8% height=8% loading=lazy>Android 8.1 Oreo
+2. <img alt='Windows 10 logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=8% height=8% loading=lazy>Windows 10
 
 ## Browsers
 
