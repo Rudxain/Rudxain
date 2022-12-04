@@ -70,14 +70,14 @@
 1. <img alt='Lisp logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg width=8% height=8% loading=lazy>(Common Lisp)
 2. <img alt='Haskell logo' src=https://evenmere.org/~bts/haskell-logo/logo-0.svg width=8% height=8% loading=lazy>Haskell
 4. 🕊Ada
-5. Go
+5. <img alt='Go logo' src=https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg width=8% height=8% loading=lazy>Golang
 
 ## Editors
 
-- Main: Visual Studio Code
+- Main: <img alt='VSCode logo' src=https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg width=8% height=8% loading=lazy> Visual Studio Code
 - Quick: Cinnamon Text Editor, MS Windows Notepad
-- Interested: Vim
-- Android: QuickEdit. Has all the stuff I need, and more. **The excessive ads are an absolute nightmare.** Don't download this {bloat|ad}ware unless you REALLY need it. I couldn't find an alternative on F-Droid. **Please help me**
+- 👀Interested: Vim
+- <img alt='Android logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=8% height=8% loading=lazy>Android: QuickEdit. Has all the stuff I need, and more. **The excessive ads are an absolute nightmare.** Don't download this {bloat|ad}ware unless you REALLY need it. I couldn't find an alternative on F-Droid. **Please help me**
 
 ## OS
 
@@ -87,4 +87,8 @@
 
 ## Browsers
 
-Anything, I don't care. I use Firefox on Linux, Chrome on Android, Edge on Windows
+- 🐧Linux: <img alt='Firefox logo' src=https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg width=8% height=8% loading=lazy>Firefox
+- <img alt='Android logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=8% height=8% loading=lazy>Android: <img alt='' src= width=8% height=8% loading=lazy>Chrome
+- <img alt='Windows 10 logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=8% height=8% loading=lazy>Windows: <img alt='' src= width=8% height=8% loading=lazy>Edge
+
+<!-- template: <img alt='' src= width=8% height=8% loading=lazy> -->
