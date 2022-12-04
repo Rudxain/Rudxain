@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg viewBox="0 0 16 16" style="background-color:#f7df1e" xmlns="http://www.w3.org/2000/svg">
 	<rect width="16" height="16" fill="#f7df1e"/>
-	<text x="6" y="14" style="font: bold 9px roboto; fill:#111">JS</text>
+	<text x="5" y="15" style="font: bold 9px roboto; fill:#111">JS</text>
 </svg>
