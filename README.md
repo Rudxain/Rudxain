@@ -82,8 +82,8 @@
 ## OS
 
 0. 🐧Linux 🌿Mint Cinnamon
-1. 🤖Android
-2. 🪟Windows
+1. <img alt='Android logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=8% height=8%>Android
+2. <img alt='Windows 10 logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=8% height=8%>Windows
 
 ## Browsers
 
