@@ -34,39 +34,44 @@
 [Get cards like these!](https://github.com/anuraghazra/github-readme-stats)
 
 ## Personal
-I'm currently unemployed. Dedicating my time to maintain my repos, and to finish the "base" of some non-posted repos. I’m interested in cybersecurity and ethical hacking. I wish I dedicated more time to music, animation, and other forms of art. I’m looking to collaborate on almost anything. I'm willing to contribute to innovative games that explore the concepts of non-Euclidean space/geometry, +3D games like [4D Miner](https://mashpoe.com/4d-miner), 1D and 0D games (for completeness lol). I have an "unhealthy obsession" with code refactoring (it's obvious from my GH activity, lol)
+- I'm currently unemployed.
+- Dedicating my time to maintain my repos, and to finish the "base" of some non-posted repos.
+- I’m interested in cybersecurity and ethical hacking.
+- I wish I dedicated more time to music, animation, and other forms of art.
+- I'm willing to contribute to innovative games that explore the concepts of non-Euclidean space/geometry, +3D games like [4D Miner](https://mashpoe.com/4d-miner), 1D and 0D games (for completeness lol).
+- I have an "unhealthy obsession" with code refactoring (it's obvious from my GH activity, lol)
 
 ## Repos
-When my PRs are merged, **I'll delete my corresponding fork**. Thus, links to any of my forks may be broken/dead in the future. The only exception is [.files](https://github.com/Rudxain/dotfiles).
-
-All my repos use Semantic Versioning (except the ones that don't have any kind of versioning).
+- When my PRs are merged, **I'll delete my corresponding fork**. Thus, links to any of my forks may be broken/dead in the future. The only exception is [.files](https://github.com/Rudxain/dotfiles).
+- All my repos use Semantic Versioning (except the ones that don't have versioning at all).
+- If I contribute to any of your repos, I hope you do the same for me (or other people)
 
 ## Langs
 ❤Favorites:
 
-0. Rust
-1. Python
+0. 🦀Rust
+1. 🐍Python
 2. TypeScript
 3. JavaScript. I just like its portability
-4. Llamalab Automate. I like the ease of access to Android APIs
-5. POSIX shell. Portability
+4. 🦙Llamalab 📱Automate. I like the ease of access to Android APIs. I'm considering switching to Termux
 
 🧠Expertise:
 
-0. JavaScript. Unfortunately
-1. Llamalab Automate
+0. JavaScript. Unfortunately 😂
+1. 🦙Llamalab 📱Automate. I know more about expressions than blocks
 2. TypeScript
-3. Python
+3. 🐍Python
 4. POSIX shell. Despite using it rarely, it's simpler than Rust
-5. Rust
+5. 🦀Rust
 
 👀Interested:
 
-0. Assembly
-1. Common Lisp
-2. Haskell
+0. 💾Assembly
+1. (Common Lisp)
+2. λ Haskell
 3. Kotlin
-4. Ada
+4. 🕊Ada
+5. Go
 
 ## Editors
 
@@ -77,9 +82,9 @@ All my repos use Semantic Versioning (except the ones that don't have any kind o
 
 ## OS
 
-0. Linux Mint Cinnamon
-1. Android
-2. Windows
+0. 🐧Linux 🌿Mint Cinnamon
+1. 🤖Android
+2. 🪟Windows
 
 ## Browsers
 
