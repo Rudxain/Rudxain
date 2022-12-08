@@ -47,7 +47,8 @@
 
 - When my PRs are merged, **I'll delete my corresponding fork**. Therefore, links to any of my forks may be [broken](https://en.wikipedia.org/wiki/Link_rot) (not dead, because it's not permanent) in the future. The exception is [.files](https://github.com/Rudxain/dotfiles)
 - All my repos have [semver](https://semver.org), except the ones that don't have versioning at all
-- If I contribute to any of your repos, I hope you do the same for me and/or other people
+- If I contribute to any of your repos, I hope you do the same for me and/or other people :)
+- I could **delete any of my Gists without warning**
 
 ## Langs
 
