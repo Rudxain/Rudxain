@@ -53,6 +53,7 @@
 ## Langs
 
 ❤Favorites (in practice):
+
 This takes into account all the stuff related to the langs (tools, std+community libraries, ecosystem, documentation, etc...)
 
 0. 🦀Rust
@@ -61,6 +62,7 @@ This takes into account all the stuff related to the langs (tools, std+community
 3. 🦙Llamalab <img alt='AM logo' src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em loading=lazy>Automate. I use it because it has fast-and-easy access to Android system APIs. I usually don't automate stuff because I would rather do some stuff manually than to have a background process using CPU and RAM. I'm considering switching to Termux
 
 ❤Favorites (in theory):
+
 This **only** takes into account the langs alone (syntax, grammar, stdlib, etc...)
 
 0. <img alt='Py logo' src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python. Its syntax is much more comfortable than Rust
