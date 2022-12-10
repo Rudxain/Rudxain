@@ -52,13 +52,24 @@
 
 ## Langs
 
-❤Favorites:
+❤Favorites (in practice):
+> This takes into account all the stuff related to the langs (tools, environment, std+community libraries, ecosystem, etc...)
 
 0. 🦀Rust
 1. <img alt='Py logo' src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python
 2. <img alt='TS logo' src=https://raw.githubusercontent.com/microsoft/TypeScript-Website/f905e795350720b4a906b00155e95f370734f63c/packages/typescriptlang-org/static/branding/ts-logo-512.svg width=16em height=16em loading=lazy>TypeScript
 3. <img alt='JS logo' src=https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg width=16em height=16em loading=lazy>JavaScript. I just like its portability
 4. 🦙Llamalab <img alt='AM logo' src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em loading=lazy>Automate. I like the ease of access to Android APIs. I'm considering switching to Termux
+
+❤Favorites (in theory):
+> This **only** takes into account the langs alone (syntax, grammar, stdlib, etc...)
+
+0. <img alt='Py logo' src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python. Its syntax is much more comfortable than Rust
+1. 🦀Rust. It feels bloated
+2. Go
+3. <img alt='TS logo' src=https://raw.githubusercontent.com/microsoft/TypeScript-Website/f905e795350720b4a906b00155e95f370734f63c/packages/typescriptlang-org/static/branding/ts-logo-512.svg width=16em height=16em loading=lazy>TypeScript
+4. CoffeeScript. If it had a type system, I would delete TS from this list
+5. BrainFuck and its dialects. It's like "international assembly", because of using symbols rather than words
 
 🧠Expertise:
 
@@ -86,6 +97,7 @@
 0. <img alt='Lisp logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg width=16em height=16em loading=lazy>(Common Lisp)
 1. <img alt='Haskell logo' src=https://evenmere.org/~bts/haskell-logo/logo-0.svg width=16em height=16em loading=lazy>Haskell
 2. 🕊Ada
+3. APL
 
 ## Editors
 
