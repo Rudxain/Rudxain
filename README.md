@@ -53,7 +53,7 @@
 ## Langs
 
 ❤Favorites (in practice):
-> This takes into account all the stuff related to the langs (tools, environment, std+community libraries, ecosystem, etc...)
+> This takes into account all the stuff related to the langs (tools, std+community libraries, ecosystem, documentation, etc...)
 
 0. 🦀Rust
 1. <img alt='Py logo' src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python
