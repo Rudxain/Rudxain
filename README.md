@@ -62,23 +62,24 @@
 
 🧠Expertise:
 
-0. <img alt='JS logo' src=https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg width=16em height=16em loading=lazy>JavaScript. Unfortunately 😂
-1. 🦙Llamalab <img alt='AM logo' src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em loading=lazy>Automate. I know more about expressions than blocks
-2. HTML
-3. <img alt='TS logo' src=https://raw.githubusercontent.com/microsoft/TypeScript-Website/f905e795350720b4a906b00155e95f370734f63c/packages/typescriptlang-org/static/branding/ts-logo-512.svg width=16em height=16em loading=lazy>TypeScript
-4. CSS
-5. YAML
-6. <img alt='Py logo' src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python
-7. POSIX shell. Despite using it rarely, it's simpler than Rust
-8. 🦀Rust
-9. Go
-10. C
-11. BrainFuck
-12. C++
-13. Java. I've used it more frequently than Kotlin
-14. Kotlin. I know it's supposed to be *easier* than Java, but that doesn't mean it's _less complex_
-15. 💾Assembly
+0. Regular Expressions (Java and JS flavors)
+1. <img alt='JS logo' src=https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg width=16em height=16em loading=lazy>JavaScript. Unfortunately 😂
+2. 🦙Llamalab <img alt='AM logo' src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em loading=lazy>Automate. I know more about expressions than blocks
+3. HTML
+4. <img alt='TS logo' src=https://raw.githubusercontent.com/microsoft/TypeScript-Website/f905e795350720b4a906b00155e95f370734f63c/packages/typescriptlang-org/static/branding/ts-logo-512.svg width=16em height=16em loading=lazy>TypeScript
+5. CSS
+6. YAML
+7. <img alt='Py logo' src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python
+8. POSIX shell. Despite using it rarely, it's simpler than Rust
+9. 🦀Rust
+10. Go
+11. C
+12. BrainFuck
+13. C++
+14. Java. I've used it more frequently than Kotlin
+15. Kotlin. I know it's supposed to be *easier* than Java, but that doesn't mean it's _less complex_
 16. SQL
+17. 💾Assembly
 
 👀Interested:
 
