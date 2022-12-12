@@ -65,8 +65,8 @@ This takes into account all the stuff related to the langs (tools, std+community
 
 This **only** takes into account the langs alone (syntax, grammar, stdlib, etc...)
 
-0. <img alt='Py logo' src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python. Its syntax is much more comfortable than Rust
-1. 🦀Rust. It feels bloated
+0. 🦀Rust
+1. <img alt='Py logo' src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python. Its syntax is much more comfortable than Rust
 2. Go
 3. <img alt='TS logo' src=https://raw.githubusercontent.com/microsoft/TypeScript-Website/f905e795350720b4a906b00155e95f370734f63c/packages/typescriptlang-org/static/branding/ts-logo-512.svg width=16em height=16em loading=lazy>TypeScript
 4. CoffeeScript. If it had a type system, I would delete TS from this list
