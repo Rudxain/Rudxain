@@ -73,7 +73,7 @@ This **only** takes into account the langs alone (syntax, grammar, stdlib, etc..
 🧠Expertise:
 
 This takes into account the knowledge of the lang (and everything related), and the experience making useful, efficient, and secure programs in it.
-Didn't include CSV, JSON, nor XML, because those are simple data formats
+Didn't include CSV, JSON, YAML, nor XML, because those are data formats
 
 0. Regular Expressions (Java and JS flavors)
 1. 🦙Llamalab <img alt='AM logo' src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em loading=lazy>Automate. I know more about expressions than blocks
@@ -81,7 +81,6 @@ Didn't include CSV, JSON, nor XML, because those are simple data formats
 3. HTML
 4. <img alt='TS logo' src=https://raw.githubusercontent.com/microsoft/TypeScript-Website/f905e795350720b4a906b00155e95f370734f63c/packages/typescriptlang-org/static/branding/ts-logo-512.svg width=16em height=16em loading=lazy>TypeScript
 5. CSS
-6. YAML
 7. POSIX shell. Despite using it rarely, it's simpler than Rust
 8. <img alt='Py logo' src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python
 9. 🦀Rust
