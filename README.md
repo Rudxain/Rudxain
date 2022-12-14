@@ -72,6 +72,8 @@ This **only** takes into account the langs alone (syntax, grammar, stdlib, etc..
 
 🧠Expertise:
 
+This takes into account the knowledge of the lang (and everything related), and the experience making useful, efficient, and secure programs in it
+
 0. Regular Expressions (Java and JS flavors)
 1. 🦙Llamalab <img alt='AM logo' src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em loading=lazy>Automate. I know more about expressions than blocks
 2. <img alt='JS logo' src=https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg width=16em height=16em loading=lazy>JavaScript
