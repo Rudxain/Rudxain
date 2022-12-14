@@ -40,7 +40,6 @@
 - Dedicating my time to maintain my repos, and to finish the "base" of some non-posted repos
 - Interested in cybersecurity and ethical hacking
 - Wish I dedicated more time to music, animation, and other forms of art
-- Willing to contribute to innovative games that explore the concepts of non-Euclidean space/geometry, +3D games like [4D Miner](https://mashpoe.com/4d-miner), 1D and 0D games (for completeness)
 - Have an "unhealthy obsession" with code refactoring. It's obvious from my GH activity 😂
 
 ## Repos
