@@ -38,7 +38,6 @@
 
 - Currently unemployed
 - Dedicating my time to maintain my repos, and to finish the "base" of some non-posted repos
-- Interested in cybersecurity and ethical hacking
 - Wish I dedicated more time to music, animation, and other forms of art
 - Have an "unhealthy obsession" with code refactoring. It's obvious from my GH activity 😂
 
