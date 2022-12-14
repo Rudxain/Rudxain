@@ -72,7 +72,7 @@ This **only** takes into account the langs alone (syntax, grammar, stdlib, etc..
 
 🧠Expertise:
 
-This takes into account the knowledge of the lang (and everything related), and the experience making useful, efficient, and secure programs in it
+This takes into account the knowledge of the lang (and everything related), and the experience making useful, efficient, and secure programs in it.
 Didn't include CSV, JSON, nor XML, because those are simple data formats
 
 0. Regular Expressions (Java and JS flavors)
