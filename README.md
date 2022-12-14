@@ -86,11 +86,11 @@ This takes into account the knowledge of the lang (and everything related), and 
 9. 🦀Rust
 10. Go
 11. C
-12. BrainFuck
-13. C++
-14. Java. I've used it more frequently than Kotlin
-15. Kotlin. I know it's supposed to be *easier* than Java, but that doesn't mean it's _less complex_
-16. SQL
+12. C++
+13. Java. I've used it more frequently than Kotlin
+14. Kotlin. I know it's supposed to be *easier* than Java, but that doesn't mean it's _less complex_
+15. SQL
+16. BrainFuck
 17. 💾Assembly
 
 👀Interested:
