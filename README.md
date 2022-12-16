@@ -48,6 +48,8 @@
 - If I contribute to any of your repos, I hope you do the same for me and/or other people :)
 - I could **delete any of my Gists without warning**
 
+BTW, remember to visit [my Gists](https://gist.github.com/Rudxain)! I also post stuff there
+
 ## Langs
 
 ❤Favorites (in practice):
