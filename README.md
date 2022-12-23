@@ -17,22 +17,7 @@
 	>
 </a>
 
-<a href=https://github.com/Rudxain#gh-light-mode-only>
-	<img
-		src=https://github-readme-stats.vercel.app/api/top-langs/?username=Rudxain&langs_count=3#gh-light-mode-only
-		alt='Top langs: JS, Rust, ...'
-		loading=lazy
-	>
-</a>
-<a href=https://github.com/Rudxain#gh-dark-mode-only>
-	<img
-		src=https://github-readme-stats.vercel.app/api/top-langs/?username=Rudxain&langs_count=3&theme=github_dark#gh-dark-mode-only
-		alt='Top langs: JS, Rust, ...'
-		loading=lazy
-	>
-</a>
-
-[Get cards like these!](https://github.com/anuraghazra/github-readme-stats)
+[Get cards like this one!](https://github.com/anuraghazra/github-readme-stats)
 
 ## Personal
 
