@@ -22,7 +22,7 @@
 ## Personal
 
 - Currently unemployed
-- Dedicating my time to maintain my repos, and to finish the "base" of some non-posted repos
+- Dedicating my spare time to maintain my repos
 - Wish I dedicated more time to music, animation, and other forms of art
 - Have an "unhealthy obsession" with code refactoring. It's obvious from my GH activity 😂
 
@@ -56,6 +56,9 @@ This **only** takes into account the langs alone (syntax, grammar, stdlib, etc..
 5. BrainFuck and its dialects. It's like "international assembly", because of using symbols rather than words
 
 🧠Expertise:
+
+> warning: this is subject to the [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) 😂
+> I'll try my best to list in an accurate order
 
 This takes into account the knowledge of the lang (and everything related), and the experience making useful, efficient, and secure programs in it.
 Didn't include CSV, JSON, YAML, nor XML, because those are data formats
