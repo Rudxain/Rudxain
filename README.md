@@ -93,7 +93,7 @@ Didn't include CSV, JSON, YAML, nor XML, because those are data formats
 - Main: <img alt='MS logo' src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em loading=lazy>Microsoft <img alt='MS VSC logo' src=https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg width=16em height=16em loading=lazy>Visual Studio Code
 - Quick: Xed, <img alt='MS logo' src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em loading=lazy>Microsoft <img alt='MS Windows 10 logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=16em height=16em loading=lazy>Windows Notepad
 - 👀Interested: Vim
-- <img alt='Android logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em loading=lazy>Android: QuickEdit. Has all the stuff I need, and more. **The excessive ads are an absolute nightmare.** Don't download this {bloat|ad}ware unless you REALLY need it. I couldn't find an alternative on F-Droid. **Please help me**
+- <img alt='Android logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em loading=lazy>Android: Jota+
 
 ## OS
 
