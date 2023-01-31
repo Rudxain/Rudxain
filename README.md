@@ -21,9 +21,7 @@
 
 ## Personal
 
-- Currently unemployed
 - Dedicating my spare time to maintain my repos
-- Wish I dedicated more time to music, animation, and other forms of art
 - Have an "unhealthy obsession" with code refactoring. It's obvious from my GH activity 😂
 
 ## Repos
