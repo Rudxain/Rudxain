@@ -48,10 +48,9 @@ This **only** takes into account the langs alone (syntax, grammar, stdlib, etc..
 
 0. 🦀Rust
 1. <img alt='Py logo' src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python. Its syntax is much more comfortable than Rust
-2. Go
-3. <img alt='TS logo' src=https://raw.githubusercontent.com/microsoft/TypeScript-Website/f905e795350720b4a906b00155e95f370734f63c/packages/typescriptlang-org/static/branding/ts-logo-512.svg width=16em height=16em loading=lazy>TypeScript
-4. CoffeeScript. If it had a type system, I would delete TS from this list
-5. BrainFuck and its dialects. It's like "international assembly", because of using symbols rather than words
+2. [Typed CoffeeScript](https://github.com/mizchi/TypedCoffeeScript)
+3. BrainFuck and its dialects. It's like "international assembly", because of using symbols rather than words
+4. APL. For the same reason as BF
 
 🧠Expertise:
 
@@ -84,7 +83,6 @@ Didn't include CSV, JSON, YAML, nor XML, because those are data formats
 0. <img alt='Lisp logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg width=16em height=16em loading=lazy>(Common Lisp)
 1. <img alt='Haskell logo' src=https://evenmere.org/~bts/haskell-logo/logo-0.svg width=16em height=16em loading=lazy>Haskell
 2. 🕊Ada
-3. APL
 
 ## Editors
 
@@ -98,25 +96,25 @@ Didn't include CSV, JSON, YAML, nor XML, because those are data formats
 ❤Favorites:
 
 0. <img alt='Android logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em loading=lazy>Android
-1. <img alt='Tux' src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em loading=lazy>Linux <img alt='Linux Mint logo' src=https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg width=16em height=16em loading=lazy>Mint <img alt='LM Cinnamon logo' src=https://upload.wikimedia.org/wikipedia/commons/5/5a/Cinnamon-logo.svg width=16em height=16em loading=lazy>Cinnamon
+1. <img alt=Tux src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em loading=lazy>Linux <img alt='Linux Mint logo' src=https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg width=16em height=16em loading=lazy>Mint <img alt='LM Cinnamon logo' src=https://upload.wikimedia.org/wikipedia/commons/5/5a/Cinnamon-logo.svg width=16em height=16em loading=lazy>Cinnamon
 2. <img alt='MS logo' src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em loading=lazy>Microsoft <img alt='MS Windows 10 logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=16em height=16em loading=lazy>Windows
 
 🧠Expertise:
 
-0. <img alt='Android logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em loading=lazy>Android 4 to 8.1, and 12. (0 experience with A[9-11])
+0. <img alt='Android logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em loading=lazy>Android 4 to 8.1, and 12. (0 experience with A\[9-11])
 1. <img alt='MS logo' src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em loading=lazy>Microsoft <img alt='MS Windows 10 logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=16em height=16em loading=lazy>Windows XP, 7, 8, 10
-2. <img alt='Tux' src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em loading=lazy>Linux <img alt='Linux Mint logo' src=https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg width=16em height=16em loading=lazy>Mint <img alt='LM Cinnamon logo' src=https://upload.wikimedia.org/wikipedia/commons/5/5a/Cinnamon-logo.svg width=16em height=16em loading=lazy>Cinnamon 20, 21.1
+2. <img alt=Tux src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em loading=lazy>Linux <img alt='Linux Mint logo' src=https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg width=16em height=16em loading=lazy>Mint <img alt='LM Cinnamon logo' src=https://upload.wikimedia.org/wikipedia/commons/5/5a/Cinnamon-logo.svg width=16em height=16em loading=lazy>Cinnamon 20, 21.1
 
 👀Interested:
 
-0. <img alt='Arch logo' src=https://archlinux.org/logos/archlinux-icon-crystal-64.svg width=16em height=16em loading=lazy>Arch <img alt='Tux' src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em loading=lazy>Linux (I don't use it, BTW)
+0. <img alt='Arch logo' src=https://archlinux.org/logos/archlinux-icon-crystal-64.svg width=16em height=16em loading=lazy>Arch <img alt=Tux src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em loading=lazy>Linux (I don't use it, BTW)
 1. <img alt='G logo' src=https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg width=16em height=16em loading=lazy>Google Fuchsia
 
 ## Browsers
 
 I have no special preferences. I just use them based on which OS I'm using.
 
-- <img alt='Tux' src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em loading=lazy>Linux: <img alt='MDN Dino logo' src=https://raw.githubusercontent.com/mdn/yari/2720d1f9998be94428a822dcc06946d6a53879d0/client/src/assets/dino.svg width=16em height=16em loading=lazy>Mozilla <img alt='Mozilla FF logo' src=https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg width=16em height=16em loading=lazy>Firefox
+- <img alt=Tux src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em loading=lazy>Linux: <img alt='MDN Dino logo' src=https://raw.githubusercontent.com/mdn/yari/2720d1f9998be94428a822dcc06946d6a53879d0/client/src/assets/dino.svg width=16em height=16em loading=lazy>Mozilla <img alt='Mozilla FF logo' src=https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg width=16em height=16em loading=lazy>Firefox
 - <img alt='Android logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em loading=lazy>Android: <img alt='G logo' src=https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg width=16em height=16em loading=lazy>Google <img alt='G Chrome logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg width=16em height=16em loading=lazy>Chrome
 - <img alt='MS Windows 10 logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=16em height=16em loading=lazy>Windows: <img alt='MS logo' src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em loading=lazy>Microsoft <img alt='MS Edge' src=https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Edge_logo_%282019%29.svg width=16em height=16em loading=lazy>Edge
 
