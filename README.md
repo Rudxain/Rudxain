@@ -27,9 +27,9 @@
 ## Repos
 
 - When my PRs are merged, **I'll delete my corresponding fork**. Therefore, links to any of my forks may be [broken](https://en.wikipedia.org/wiki/Link_rot) (not dead, because it's not permanent) in the future. The exception is [.files](https://github.com/Rudxain/dotfiles)
+- I could **delete any of [my Gists](https://gist.github.com/Rudxain) without warning**
 - All my repos use [semver](https://semver.org), except the ones that don't use versioning at all
 - If I contribute to any of your repos, I hope you do the same for me and/or other people :)
-- I could **delete any of [my Gists](https://gist.github.com/Rudxain) without warning**
 
 ## Langs
 
@@ -58,14 +58,14 @@ This **only** takes into account the langs alone (syntax, grammar, stdlib, etc..
 > I'll try my best to list in an accurate order
 
 This takes into account the knowledge of the lang (and everything related), and the experience making useful, efficient, and secure programs in it.
-Didn't include CSV, JSON, YAML, nor XML, because those are data formats
 
-0. Regular Expressions (Java and JS flavors)
-1. 🦙Llamalab <img alt='AM logo' src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em loading=lazy>Automate. I know more about expressions than blocks
-2. <img alt='JS logo' src=https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg width=16em height=16em loading=lazy>JavaScript
-3. HTML
+0. Regular Expressions (Java and JS flavors), CSV (any "dialect"), JSON
+1. YAML, XML.
+2. 🦙Llamalab <img alt='AM logo' src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em loading=lazy>Automate. I know more about expressions than blocks
+3. <img alt='JS logo' src=https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg width=16em height=16em loading=lazy>JavaScript
 4. <img alt='TS logo' src=https://raw.githubusercontent.com/microsoft/TypeScript-Website/f905e795350720b4a906b00155e95f370734f63c/packages/typescriptlang-org/static/branding/ts-logo-512.svg width=16em height=16em loading=lazy>TypeScript
-5. CSS
+5. HTML
+6. CSS
 7. POSIX shell. Despite using it rarely, it's simpler than Rust
 8. <img alt='Py logo' src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python
 9. 🦀Rust
@@ -74,8 +74,8 @@ Didn't include CSV, JSON, YAML, nor XML, because those are data formats
 12. C++
 13. Java. I've used it more frequently than Kotlin
 14. Kotlin. I know it's supposed to be *easier* than Java, but that doesn't mean it's _less complex_
-15. SQL
-16. BrainFuck
+15. BrainFuck
+16. SQL
 17. 💾Assembly
 
 👀Interested:
