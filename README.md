@@ -90,7 +90,7 @@ This takes into account the knowledge of the lang (and everything related), and 
 - Main: <img alt='MS logo' src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em loading=lazy>Microsoft <img alt='MS VSC logo' src=https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg width=16em height=16em loading=lazy>Visual Studio Code
 - Quick: Xed, <img alt='MS logo' src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em loading=lazy>Microsoft <img alt='MS Windows 10 logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=16em height=16em loading=lazy>Windows Notepad
 - 👀Interested: NeoVim
-- <img alt='Android logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em loading=lazy>Android: Nano (on Termux)
+- <img alt='Android logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em loading=lazy>Android: Nano (on Termux), [Acode](https://github.com/deadlyjack/Acode)
 
 ## OS
 
