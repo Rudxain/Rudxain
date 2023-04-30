@@ -61,7 +61,7 @@ This **only** takes into account the langs alone (syntax, grammar, stdlib, etc..
 This takes into account the knowledge of the lang (and everything related), and the experience making useful, efficient, and secure programs in it.
 
 0. Regular Expressions (Java and JS flavors), CSV (any "dialect"), JSON
-1. YAML, XML.
+1. XML.
 2. 🦙Llamalab <img alt='AM logo' src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em loading=lazy>Automate. I know more about expressions than blocks
 3. <img alt='JS logo' src=https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg width=16em height=16em loading=lazy>JavaScript
 4. <img alt='TS logo' src=https://raw.githubusercontent.com/microsoft/TypeScript-Website/f905e795350720b4a906b00155e95f370734f63c/packages/typescriptlang-org/static/branding/ts-logo-512.svg width=16em height=16em loading=lazy>TypeScript
