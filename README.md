@@ -41,7 +41,7 @@ This takes into account all the stuff related to the langs (tools, std+community
 0. 🦀Rust
 1. <img alt='Py logo' src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python
 2. <img alt='JS logo' src=https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg width=16em height=16em loading=lazy>JavaScript. I just like its portability
-3. 🦙Llamalab <img alt='AM logo' src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em loading=lazy>Automate. I use it because it has fast-and-easy access to Android system APIs. I usually don't automate stuff because I would rather do some stuff manually than to have a background process using CPU and RAM. I'm currently transitioning to Termux.
+3. 🦙Llamalab <img alt='AM logo' src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em loading=lazy>Automate. I use it because it has fast-and-easy access to Android system APIs. I usually don't automate stuff because I would rather do some stuff manually than to have a background process using CPU and RAM. BTW, I'm also using Termux.
 
 ❤Favorites (in theory):
 
