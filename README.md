@@ -77,8 +77,9 @@ This takes into account the knowledge of the lang (and everything related), and 
 14. Java. I've used it more frequently than Kotlin
 15. Kotlin. I know it's supposed to be *easier* than Java, but that doesn't mean it's _less complex_
 16. BrainFuck
-17. SQL
-18. 💾Assembly
+17. PowerShell
+18. SQL
+19. 💾Assembly
 
 👀Interested:
 
