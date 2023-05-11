@@ -121,4 +121,12 @@ I have no special preferences. I just use them based on which OS I'm using.
 - <img alt='Android logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em loading=lazy>Android: <img alt='G logo' src=https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg width=16em height=16em loading=lazy>Google <img alt='G Chrome logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg width=16em height=16em loading=lazy>Chrome
 - <img alt='MS Windows 10 logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=16em height=16em loading=lazy>Windows: <img alt='MS logo' src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em loading=lazy>Microsoft <img alt='MS Edge' src=https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Edge_logo_%282019%29.svg width=16em height=16em loading=lazy>Edge
 
+## Terminals
+
+Again, no preference.
+
+- <img alt=Tux src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em loading=lazy>Linux: GNOME Terminal
+- <img alt='Android logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em loading=lazy>Android: Termux
+- <img alt='MS Windows 10 logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=16em height=16em loading=lazy>Windows: PowerShell Terminal
+
 <!-- template: <img alt='' src= width=16em height=16em loading=lazy> -->
