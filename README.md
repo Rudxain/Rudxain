@@ -52,7 +52,6 @@ This **only** takes into account the langs alone (syntax, grammar, stdlib, etc..
 1. <img alt='Py logo' src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python. Its syntax is much more comfortable than Rust
 2. [Typed CoffeeScript](https://github.com/mizchi/TypedCoffeeScript)
 3. BrainFuck and its dialects. It's like "international assembly", because of using symbols rather than words
-4. APL. For the same reason as BF
 
 🧠Expertise:
 
@@ -84,9 +83,10 @@ This takes into account my knowledge of the lang (and everything related), and t
 
 👀Interested:
 
-0. <img alt='Lisp logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg width=16em height=16em loading=lazy>(Common Lisp)
-1. <img alt='Haskell logo' src=https://evenmere.org/~bts/haskell-logo/logo-0.svg width=16em height=16em loading=lazy>Haskell
-2. 🕊Ada
+0. APL
+1. <img alt='Lisp logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg width=16em height=16em loading=lazy>(Common Lisp)
+2. <img alt='Haskell logo' src=https://evenmere.org/~bts/haskell-logo/logo-0.svg width=16em height=16em loading=lazy>Haskell
+3. 🕊Ada
 
 ## Editors
 
