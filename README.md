@@ -58,7 +58,7 @@ This **only** takes into account the langs alone (syntax, grammar, stdlib, etc..
 > warning: this is subject to the [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) 😂
 > I'll try my best to list in an accurate order
 
-This takes into account my knowledge of the lang (and everything related), and the experience making useful, efficient, and secure programs in it.
+This takes into account my knowledge of the lang (and everything related), and the experience making useful, efficient, and safe programs in it.
 
 0. Regular Expressions (Java and JS flavors), CSV (any "dialect"), JSON
 1. 🦙Llamalab <img alt='AM logo' src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em loading=lazy>Automate. I know more about expressions than blocks
@@ -83,10 +83,12 @@ This takes into account my knowledge of the lang (and everything related), and t
 
 👀Interested:
 
-0. APL
-1. <img alt='Lisp logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg width=16em height=16em loading=lazy>(Common Lisp)
-2. <img alt='Haskell logo' src=https://evenmere.org/~bts/haskell-logo/logo-0.svg width=16em height=16em loading=lazy>Haskell
-3. 🕊Ada
+0. [V](https://github.com/vlang/v)
+1. APL
+2. <img alt='Lisp logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg width=16em height=16em loading=lazy>(Common Lisp)
+3. <img alt='Haskell logo' src=https://evenmere.org/~bts/haskell-logo/logo-0.svg width=16em height=16em loading=lazy>Haskell
+4. Zig
+5. 🕊Ada
 
 ## Editors
 
