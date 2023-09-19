@@ -38,9 +38,9 @@
 
 This takes into account all the stuff related to the langs (tools, std+community libraries, ecosystem, documentation, etc...)
 
-0. 🦀Rust
-1. <img alt='Py logo' src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python
-2. <img alt='JS logo' src=https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg width=16em height=16em loading=lazy>JavaScript. I just like its portability
+0. <img alt='Py logo' src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python
+1. <img alt='JS logo' src=https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg width=16em height=16em loading=lazy>JavaScript
+2. 🦀Rust
 3. POSIX Shell
 4. Bash
 
@@ -49,8 +49,8 @@ This takes into account all the stuff related to the langs (tools, std+community
 This **only** takes into account the langs alone (syntax, grammar, stdlib, etc...)
 
 0. 🦀Rust
-1. <img alt='Py logo' src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python. Its syntax is much more comfortable than Rust
-2. [Typed CoffeeScript](https://github.com/mizchi/TypedCoffeeScript)
+1. [Typed CoffeeScript](https://github.com/mizchi/TypedCoffeeScript)
+2. <img alt='Py logo' src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python
 3. BrainFuck and its dialects. It's like "international assembly", because of using symbols rather than words
 
 🧠Expertise:
@@ -65,9 +65,9 @@ This takes into account my knowledge of the lang (and everything related), and t
 2. <img alt='JS logo' src=https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg width=16em height=16em loading=lazy>JavaScript
 3. <img alt='TS logo' src=https://raw.githubusercontent.com/microsoft/TypeScript-Website/f905e795350720b4a906b00155e95f370734f63c/packages/typescriptlang-org/static/branding/ts-logo-512.svg width=16em height=16em loading=lazy>TypeScript
 4. XML, HTML
-5. CSS
-6. POSIX shell. Despite using it rarely, it's simpler than Rust
-7. MirBSD Korn Shell, ksh93, Dash, ash
+5. POSIX shell
+6. MirBSD Korn Shell, ksh93, Dash, ash
+7. CSS
 8. Bash
 9. <img alt='Py logo' src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python
 10. 🦀Rust
