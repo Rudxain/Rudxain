@@ -69,17 +69,18 @@ This takes into account my knowledge of the lang (and everything related), and t
 6. MirBSD Korn Shell, ksh93, Dash, ash
 7. CSS
 8. Bash
-9. <img alt='Py logo' src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python
-10. 🦀Rust
-11. Go
-12. C
-13. C++
-14. Java. I've used it more frequently than Kotlin
-15. Kotlin. I know it's supposed to be *easier* than Java, but that doesn't mean it's _less complex_
-16. BrainFuck
-17. PowerShell
-18. SQL
-19. 💾Assembly
+9. Scratch
+10. <img alt='Py logo' src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python
+11. 🦀Rust
+12. Go
+13. C
+14. C++
+15. Java. I've used it more frequently than Kotlin
+16. Kotlin. I know it's supposed to be *easier* than Java, but that doesn't mean it's _less complex_
+17. BrainFuck
+18. PowerShell
+19. SQL
+20. 💾Assembly
 
 👀Interested:
 
