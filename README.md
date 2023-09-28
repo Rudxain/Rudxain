@@ -23,7 +23,8 @@
 
 - Dedicating my spare time to maintain my repos
 - Have an "unhealthy obsession" with code refactoring. It's obvious from my GH activity 😂
-- Considering moving to GitLab, [for many reasons](https://gavinhoward.com/2020/04/i-am-moving-away-from-github)
+- Considering moving to GitLab, [for many reasons](https://gavinhoward.com/2020/04/i-am-moving-away-from-github).
+The fact that [they always nuke dead accounts](https://about.gitlab.com/privacy/#how-does-gitLab-secure-my-personal-data) is a deal-breaker for me.
 
 ## Repos
 
