@@ -5,14 +5,14 @@
 <a href=https://github.com/Rudxain#gh-light-mode-only>
 	<img
 		src=https://github-readme-stats.vercel.app/api?username=Rudxain&show_icons=true&hide_rank=true#gh-light-mode-only
-		alt='My stats'
+		stats'
 		loading=lazy
 	>
 </a>
 <a href=https://github.com/Rudxain#gh-dark-mode-only>
 	<img
 		src=https://github-readme-stats.vercel.app/api?username=Rudxain&show_icons=true&hide_rank=true&theme=github_dark#gh-dark-mode-only
-		alt='My stats'
+		stats'
 		loading=lazy
 	>
 </a>
@@ -39,11 +39,11 @@ The fact that [they always nuke dead accounts](https://about.gitlab.com/privacy/
 
 This takes into account all the stuff related to the langs (tools, std+community libraries, ecosystem, documentation, etc...)
 
-0. <img alt='Py logo' src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python
-1. <img alt='JS logo' src=https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg width=16em height=16em loading=lazy>JavaScript
+0. <img src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python
+1. <img src=https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg width=16em height=16em loading=lazy>JavaScript
 2. 🦀Rust
 3. POSIX Shell
-4. Bash
+4. <img src=https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg width=16em height=16em loading=lazy>Bash
 
 ❤Favorites (in theory):
 
@@ -51,7 +51,7 @@ This **only** takes into account the langs alone (syntax, grammar, stdlib, etc..
 
 0. 🦀Rust
 1. [Typed CoffeeScript](https://github.com/mizchi/TypedCoffeeScript)
-2. <img alt='Py logo' src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python
+2. <img src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python
 3. BrainFuck and its dialects. It's like "international assembly", because of using symbols rather than words
 
 🧠Expertise:
@@ -62,16 +62,16 @@ This **only** takes into account the langs alone (syntax, grammar, stdlib, etc..
 This takes into account my knowledge of the lang (and everything related), and the experience making useful, efficient, and safe programs in it.
 
 0. Regular Expressions (Java and JS flavors), CSV (any "dialect"), JSON
-1. 🦙Llamalab <img alt='AM logo' src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em loading=lazy>Automate. I know more about expressions than blocks
-2. <img alt='JS logo' src=https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg width=16em height=16em loading=lazy>JavaScript
-3. <img alt='TS logo' src=https://raw.githubusercontent.com/microsoft/TypeScript-Website/f905e795350720b4a906b00155e95f370734f63c/packages/typescriptlang-org/static/branding/ts-logo-512.svg width=16em height=16em loading=lazy>TypeScript
+1. 🦙Llamalab <img src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em loading=lazy>Automate. I know more about expressions than blocks
+2. <img src=https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg width=16em height=16em loading=lazy>JavaScript
+3. <img src=https://raw.githubusercontent.com/microsoft/TypeScript-Website/f905e795350720b4a906b00155e95f370734f63c/packages/typescriptlang-org/static/branding/ts-logo-512.svg width=16em height=16em loading=lazy>TypeScript
 4. XML, HTML
 5. POSIX shell
 6. MirBSD Korn Shell, ksh93, Dash, ash
 7. CSS
-8. Bash
+8. <img src=https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg width=16em height=16em loading=lazy>Bash
 9. Scratch
-10. <img alt='Py logo' src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python
+10. <img src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python
 11. 🦀Rust
 12. Go
 13. C
@@ -87,49 +87,50 @@ This takes into account my knowledge of the lang (and everything related), and t
 
 0. [V](https://github.com/vlang/v)
 1. APL
-2. <img alt='Lisp logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg width=16em height=16em loading=lazy>(Common Lisp)
-3. <img alt='Haskell logo' src=https://evenmere.org/~bts/haskell-logo/logo-0.svg width=16em height=16em loading=lazy>Haskell
-4. Zig
+2. <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg width=16em height=16em loading=lazy>(Common Lisp)
+3. <img src=https://evenmere.org/~bts/haskell-logo/logo-0.svg width=16em height=16em loading=lazy>Haskell
+4. [Zig](https://github.com/ziglang/zig)
 5. 🕊Ada
 
 ## Editors
 
-- Main: <img alt='MS logo' src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em loading=lazy>Microsoft <img alt='MS VSC logo' src=https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg width=16em height=16em loading=lazy>Visual Studio Code
+- Main: <img src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em loading=lazy>Microsoft <img src=https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg width=16em height=16em loading=lazy>Visual Studio Code
 - Quick: GNOME Text Editor
 - 👀Interested: NeoVim
-- <img alt='Android logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em loading=lazy>Android: Nano (on Termux), [Acode](https://github.com/deadlyjack/Acode)
+- <img src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em loading=lazy>Android: Nano (on Termux), [Acode](https://github.com/deadlyjack/Acode)
 
 ## OS
 
 ❤Favorites:
 
-0. <img alt='Android logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em loading=lazy>Android
-1. <img alt='MS logo' src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em loading=lazy>Microsoft <img alt='MS Windows 10 logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=16em height=16em loading=lazy>Windows
+0. <img src=https://www.debian.org/logos/openlogo-nd.svg width=16em height=16em loading=lazy>Debian
+1. <img src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em loading=lazy>Android
+2. <img src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em loading=lazy>Microsoft <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=16em height=16em loading=lazy>Windows
 
 🧠Expertise:
 
-0. <img alt='Android logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em loading=lazy>Android 4 to 8.1, and 12. (0 experience with A\[9-11])
-1. <img alt='MS logo' src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em loading=lazy>Microsoft <img alt='MS Windows 10 logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=16em height=16em loading=lazy>Windows XP, 7, 8, 10
-2. <img alt=Tux src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em loading=lazy>Linux <img alt='Linux Mint logo' src=https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg width=16em height=16em loading=lazy>Mint <img alt='LM Cinnamon logo' src=https://upload.wikimedia.org/wikipedia/commons/5/5a/Cinnamon-logo.svg width=16em height=16em loading=lazy>Cinnamon 20, 21.1
+0. <img src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em loading=lazy>Android 4 to 8.1, and 12. (0 experience with A\[9-11])
+1. <img src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em loading=lazy>Microsoft <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=16em height=16em loading=lazy>Windows XP, 7, 8, 10
+2. <img src=https://www.debian.org/logos/openlogo-nd.svg width=16em height=16em loading=lazy>Debian-based <img src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em loading=lazy>Linux distros
 
 👀Interested:
 
-0. <img alt='Arch logo' src=https://archlinux.org/logos/archlinux-icon-crystal-64.svg width=16em height=16em loading=lazy>Arch <img alt=Tux src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em loading=lazy>Linux (I don't use it, BTW)
-1. <img alt='Google Chrome logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg width=16em height=16em loading=lazy>Chrome OS
-2. <img alt='G logo' src=https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg width=16em height=16em loading=lazy>Google Fuchsia
+0. <img src=https://archlinux.org/logos/archlinux-icon-crystal-64.svg width=16em height=16em loading=lazy>Arch <img src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em loading=lazy>Linux (I don't use it, BTW)
+1. <img src=https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg width=16em height=16em loading=lazy>Chrome OS
+2. <img src=https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg width=16em height=16em loading=lazy>Google Fuchsia
 
 ## Browsers
 
-Favorite: <img alt='MDN Dino logo' src=https://raw.githubusercontent.com/mdn/yari/2720d1f9998be94428a822dcc06946d6a53879d0/client/src/assets/dino.svg width=16em height=16em loading=lazy>Mozilla <img alt='FF logo' src=https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg width=16em height=16em loading=lazy>Firefox.
+Favorite: <img src=https://raw.githubusercontent.com/mdn/yari/2720d1f9998be94428a822dcc06946d6a53879d0/client/src/assets/dino.svg width=16em height=16em loading=lazy>Mozilla <img src=https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg width=16em height=16em loading=lazy>Firefox.
 
-I also have expertise with Chromium.
+I also have expertise with Chromium-based browsers.
 
 ## Terminals
 
 Again, no preference.
 
-- <img alt=Tux src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em loading=lazy>Linux: GNOME Terminal
-- <img alt='Android logo' src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em loading=lazy>Android: Termux
-- <img alt='MS Windows 10 logo' src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=16em height=16em loading=lazy>Windows: PowerShell Terminal
+- <img src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em loading=lazy>Linux: GNOME Terminal
+- <img src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em loading=lazy>Android: Termux
+- <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=16em height=16em loading=lazy>Windows: PowerShell Terminal
 
-<!-- template: <img alt='' src= width=16em height=16em loading=lazy> -->
+<!-- template: <img src= width=16em height=16em loading=lazy> -->
