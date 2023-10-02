@@ -84,11 +84,12 @@ This takes into account my knowledge of the lang (and everything related), and t
 👀Interested:
 
 0. [V](https://github.com/vlang/v)
-1. APL
-2. <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg width=16em height=16em loading=lazy>(Common Lisp)
-3. <img src=https://evenmere.org/~bts/haskell-logo/logo-0.svg width=16em height=16em loading=lazy>Haskell
-4. [Zig](https://github.com/ziglang/zig)
-5. 🕊Ada
+1. Perl
+2. APL
+3. <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg width=16em height=16em loading=lazy>(Common Lisp)
+4. <img src=https://evenmere.org/~bts/haskell-logo/logo-0.svg width=16em height=16em loading=lazy>Haskell
+5. [Zig](https://github.com/ziglang/zig)
+6. 🕊Ada
 
 ## Editors
 
