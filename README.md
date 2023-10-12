@@ -121,7 +121,8 @@ This takes into account my knowledge of the lang (and everything related), and t
 
 ## Browsers
 
-Favorite: <img src=https://raw.githubusercontent.com/mdn/yari/2720d1f9998be94428a822dcc06946d6a53879d0/client/src/assets/dino.svg width=16em height=16em loading=lazy>Mozilla <img src=https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg width=16em height=16em loading=lazy>Firefox.
+- Favorite (in practice): <img src=https://raw.githubusercontent.com/mdn/yari/2720d1f9998be94428a822dcc06946d6a53879d0/client/src/assets/dino.svg width=16em height=16em loading=lazy>Mozilla <img src=https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg width=16em height=16em loading=lazy>Firefox
+- Fav (theory): [LibreWolf](https://librewolf.net)
 
 I also have expertise with Chromium-based browsers.
 
