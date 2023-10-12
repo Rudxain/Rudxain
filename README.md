@@ -61,25 +61,26 @@ This takes into account my knowledge of the lang (and everything related), and t
 
 0. Regular Expressions (Java and JS flavors), CSV (any "dialect"), JSON
 1. 🦙Llamalab <img src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em loading=lazy>Automate. I know more about expressions than blocks
-2. <img src=https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg width=16em height=16em loading=lazy>JavaScript
-3. <img src=https://raw.githubusercontent.com/microsoft/TypeScript-Website/f905e795350720b4a906b00155e95f370734f63c/packages/typescriptlang-org/static/branding/ts-logo-512.svg width=16em height=16em loading=lazy>TypeScript
-4. XML, HTML
+2. [Scratch](https://scratch.mit.edu)
+3. <img src=https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg width=16em height=16em loading=lazy>JavaScript
+4. <img src=https://raw.githubusercontent.com/microsoft/TypeScript-Website/f905e795350720b4a906b00155e95f370734f63c/packages/typescriptlang-org/static/branding/ts-logo-512.svg width=16em height=16em loading=lazy>TypeScript
 5. POSIX shell
 6. MirBSD Korn Shell, ksh93, Dash, ash
-7. CSS
-8. <img src=https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg width=16em height=16em loading=lazy>Bash
-9. Scratch
-10. <img src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python
-11. 🦀Rust
-12. Go
-13. C
+7. <img src=https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg width=16em height=16em loading=lazy>Bash
+8. <img src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python
+9. CSS
+10. XML
+11. HTML
+12. C
+13. 🦀Rust
 14. C++
-15. Java. I've used it more frequently than Kotlin
-16. Kotlin. I know it's supposed to be *easier* than Java, but that doesn't mean it's _less complex_
-17. BrainFuck
-18. PowerShell
-19. SQL
-20. 💾Assembly
+15. <img src=https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg width=16em height=16em loading=lazy> Go
+16. Java
+17. Kotlin. I know it's supposed to be *easier* than Java, but that doesn't mean it's _less complex._
+18. SQL
+19. BrainFuck
+20. PowerShell
+21. 💾Assembly
 
 👀Interested:
 
