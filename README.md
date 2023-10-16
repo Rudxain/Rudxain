@@ -37,7 +37,7 @@ The fact that [they always nuke dead accounts](https://about.gitlab.com/privacy/
 
 This takes into account all the stuff related to the langs (tools, std+community libraries, ecosystem, documentation, etc...)
 
-0. <img src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python
+0. <img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em loading=lazy>Python
 1. JavaScript
 2. 🦀Rust
 3. POSIX Shell
@@ -49,7 +49,7 @@ This **only** takes into account the langs alone (syntax, grammar, stdlib, etc..
 
 0. 🦀Rust
 1. [Typed CoffeeScript](https://github.com/mizchi/TypedCoffeeScript)
-2. <img src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python
+2. <img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em loading=lazy>Python
 3. BrainFuck and its dialects. It's like "international assembly", because of using symbols rather than words
 
 🧠Expertise:
@@ -67,7 +67,7 @@ This takes into account my knowledge of the lang (and everything related), and t
 5. POSIX shell
 6. MirBSD Korn Shell, ksh93, Dash, ash
 7. <img src=https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg width=16em height=16em loading=lazy>Bash
-8. <img src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python
+8. <img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em loading=lazy>Python
 9. CSS
 10. XML
 11. HTML
