@@ -38,7 +38,7 @@ The fact that [they always nuke dead accounts](https://about.gitlab.com/privacy/
 This takes into account all the stuff related to the langs (tools, std+community libraries, ecosystem, documentation, etc...)
 
 0. <img src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width=16em height=16em loading=lazy>Python
-1. <img src=https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg width=16em height=16em loading=lazy>JavaScript
+1. JavaScript
 2. 🦀Rust
 3. POSIX Shell
 4. <img src=https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg width=16em height=16em loading=lazy>Bash
@@ -62,8 +62,8 @@ This takes into account my knowledge of the lang (and everything related), and t
 0. Regular Expressions (Java and JS flavors), CSV (any "dialect"), JSON
 1. 🦙Llamalab <img src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em loading=lazy>Automate. I know more about expressions than blocks
 2. [Scratch](https://scratch.mit.edu)
-3. <img src=https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg width=16em height=16em loading=lazy>JavaScript
-4. <img src=https://raw.githubusercontent.com/microsoft/TypeScript-Website/f905e795350720b4a906b00155e95f370734f63c/packages/typescriptlang-org/static/branding/ts-logo-512.svg width=16em height=16em loading=lazy>TypeScript
+3. JavaScript
+4. TypeScript
 5. POSIX shell
 6. MirBSD Korn Shell, ksh93, Dash, ash
 7. <img src=https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg width=16em height=16em loading=lazy>Bash
@@ -74,7 +74,7 @@ This takes into account my knowledge of the lang (and everything related), and t
 12. C
 13. 🦀Rust
 14. C++
-15. <img src=https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg width=16em height=16em loading=lazy> Go
+15. [Go](https://github.com/golang/go)
 16. Java
 17. Kotlin. I know it's supposed to be *easier* than Java, but that doesn't mean it's _less complex._
 18. SQL
