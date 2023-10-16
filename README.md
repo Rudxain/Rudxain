@@ -125,10 +125,7 @@ I also have expertise with Chromium-based browsers.
 
 ## Terminals
 
-Again, no preference.
-
-- <img src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em loading=lazy>Linux: GNOME Terminal
+- <img src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em loading=lazy>Linux: GNOME Terminal (not Console)
 - <img src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em loading=lazy>Android: Termux
-- <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=16em height=16em loading=lazy>Windows: PowerShell Terminal
 
 <!-- template: <img src= width=16em height=16em loading=lazy> -->
