@@ -41,7 +41,7 @@ This takes into account all the stuff related to the langs (tools, std+community
 1. JavaScript
 2. 🦀Rust
 3. POSIX Shell
-4. <img src=https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg width=16em height=16em loading=lazy>Bash
+4. <img src=https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/16x16.svg width=16em height=16em loading=lazy>Bash
 
 ❤Favorites (in theory):
 
@@ -66,7 +66,7 @@ This takes into account my knowledge of the lang (and everything related), and t
 4. TypeScript
 5. POSIX shell
 6. MirBSD Korn Shell, ksh93, Dash, ash
-7. <img src=https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg width=16em height=16em loading=lazy>Bash
+7. <img src=https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/16x16.svg width=16em height=16em loading=lazy>Bash
 8. <img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em loading=lazy>Python
 9. CSS
 10. XML
