@@ -95,8 +95,8 @@ This takes into account my knowledge of the lang (and everything related), and t
 
 ## Editors
 
-- Main: NeoVim
-- Quick: Nano
+- Development: [NeoVim](https://github.com/neovim/neovim)
+- Main: GNU Nano
 
 ## OS
 
@@ -115,9 +115,7 @@ This takes into account my knowledge of the lang (and everything related), and t
 👀Interested:
 
 0. [Redox](https://www.redox-os.org)
-1. <img src=https://archlinux.org/logos/archlinux-icon-crystal-64.svg width=16em height=16em loading=lazy>Arch <img src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em loading=lazy>Linux (I don't use it, BTW)
-2. <img src=https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg width=16em height=16em loading=lazy>Chrome OS
-3. <img src=https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg width=16em height=16em loading=lazy>Google Fuchsia
+1. <img src=https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg width=16em height=16em loading=lazy>Google Fuchsia
 
 ## Browsers
 
