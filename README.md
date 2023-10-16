@@ -91,13 +91,12 @@ This takes into account my knowledge of the lang (and everything related), and t
 4. <img src=https://evenmere.org/~bts/haskell-logo/logo-0.svg width=16em height=16em loading=lazy>Haskell
 5. [Zig](https://github.com/ziglang/zig)
 6. 🕊Ada
+7. Erlang
 
 ## Editors
 
-- Main: <img src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em loading=lazy>Microsoft <img src=https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg width=16em height=16em loading=lazy>Visual Studio Code
-- Quick: GNOME Text Editor
-- 👀Interested: NeoVim
-- <img src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em loading=lazy>Android: Nano (on Termux), [Acode](https://github.com/deadlyjack/Acode)
+- Main: NeoVim
+- Quick: Nano
 
 ## OS
 
@@ -115,9 +114,10 @@ This takes into account my knowledge of the lang (and everything related), and t
 
 👀Interested:
 
-0. <img src=https://archlinux.org/logos/archlinux-icon-crystal-64.svg width=16em height=16em loading=lazy>Arch <img src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em loading=lazy>Linux (I don't use it, BTW)
-1. <img src=https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg width=16em height=16em loading=lazy>Chrome OS
-2. <img src=https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg width=16em height=16em loading=lazy>Google Fuchsia
+0. [Redox](https://www.redox-os.org)
+1. <img src=https://archlinux.org/logos/archlinux-icon-crystal-64.svg width=16em height=16em loading=lazy>Arch <img src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em loading=lazy>Linux (I don't use it, BTW)
+2. <img src=https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg width=16em height=16em loading=lazy>Chrome OS
+3. <img src=https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg width=16em height=16em loading=lazy>Google Fuchsia
 
 ## Browsers
 
