@@ -68,18 +68,14 @@ This takes into account my knowledge of the lang (and everything related), and t
 6. MirBSD Korn Shell, ksh93, Dash, ash
 7. <img src=https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/16x16.svg width=16em height=16em loading=lazy>Bash
 8. <img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em loading=lazy>Python
-9. CSS
-10. XML
-11. HTML
-12. C
-13. 🦀Rust
-14. C++
-15. [Go](https://github.com/golang/go)
-16. Java
-17. <img src=https://resources.jetbrains.com/storage/products/company/brand/logos/Kotlin_icon.svg width=16em height=16em loading=lazy>Kotlin. I know it's supposed to be *easier* than Java, but that doesn't mean it's _less complex._
-18. SQL
-19. BrainFuck
-20. 💾Assembly
+9. HTML 
+10. CSS
+11. C
+12. 🦀Rust
+13. C++
+14. [Go](https://github.com/golang/go)
+15. BrainFuck
+16. 💾Assembly
 
 👀Interested:
 
