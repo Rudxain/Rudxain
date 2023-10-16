@@ -68,14 +68,15 @@ This takes into account my knowledge of the lang (and everything related), and t
 6. MirBSD Korn Shell, ksh93, Dash, ash
 7. <img src=https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/16x16.svg width=16em height=16em loading=lazy>Bash
 8. <img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em loading=lazy>Python
-9. HTML 
-10. CSS
-11. C
-12. 🦀Rust
-13. C++
-14. [Go](https://github.com/golang/go)
-15. BrainFuck
-16. 💾Assembly
+9. SVG ("subset" of XML)
+10. HTML
+11. CSS
+12. C
+13. 🦀Rust
+14. C++
+15. [Go](https://github.com/golang/go)
+16. BrainFuck
+17. 💾Assembly
 
 👀Interested:
 
@@ -104,8 +105,9 @@ This takes into account my knowledge of the lang (and everything related), and t
 🧠Expertise:
 
 0. <img src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em loading=lazy>Android 4 to 8.1, and 12. (0 experience with A\[9-11])
-1. <img src=https://www.debian.org/logos/openlogo-nd.svg width=16em height=16em loading=lazy>Debian-based <img src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em loading=lazy>Linux distros
-2. <img src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em loading=lazy>Microsoft <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=16em height=16em loading=lazy>Windows XP, 7, 8, 10
+1. ChromeOS
+2. <img src=https://www.debian.org/logos/openlogo-nd.svg width=16em height=16em loading=lazy>Debian-based <img src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em loading=lazy>Linux distros
+3. <img src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em loading=lazy>Microsoft <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=16em height=16em loading=lazy>Windows XP, 7, 8, 10
 
 👀Interested:
 
