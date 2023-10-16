@@ -76,7 +76,7 @@ This takes into account my knowledge of the lang (and everything related), and t
 14. C++
 15. [Go](https://github.com/golang/go)
 16. Java
-17. Kotlin. I know it's supposed to be *easier* than Java, but that doesn't mean it's _less complex._
+17. <img src=https://resources.jetbrains.com/storage/products/company/brand/logos/Kotlin_icon.svg width=16em height=16em loading=lazy>Kotlin. I know it's supposed to be *easier* than Java, but that doesn't mean it's _less complex._
 18. SQL
 19. BrainFuck
 20. 💾Assembly
