@@ -89,8 +89,8 @@ This takes into account my knowledge of the lang (and everything related), and t
 
 ## Editors
 
-- Development: [NeoVim](https://github.com/neovim/neovim)
 - Main: GNU Nano
+- Learning/Interested: [Helix](https://github.com/helix-editor/helix)
 
 ## OS
 
