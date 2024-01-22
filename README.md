@@ -1,7 +1,5 @@
 # Me
-
 ## Stats
-
 <a href=https://github.com/Rudxain#gh-light-mode-only>
 	<img
 		src=https://github-readme-stats.vercel.app/api?username=Rudxain&show_icons=true&hide_rank=true#gh-light-mode-only
@@ -18,21 +16,17 @@
 [Get cards like this one!](https://github.com/anuraghazra/github-readme-stats)
 
 ## Personal
-
-- Dedicating my spare time to maintain my repos
-- Have an "unhealthy obsession" with code refactoring. It's obvious from my GH activity 😂
+- Have an "obsession" with code refactoring. It's obvious from my GH activity 😂
 - Considering moving to GitLab, [for many reasons](https://gavinhoward.com/2020/04/i-am-moving-away-from-github).
-The fact that [they always nuke dead accounts](https://about.gitlab.com/privacy/#how-does-gitLab-secure-my-personal-data) is a deal-breaker for me.
+The fact that [GL nukes dead accounts](https://about.gitlab.com/privacy/#how-does-gitLab-secure-my-personal-data) is a deal-breaker for me. I've just learned about [Code-Berg](https://codeberg.org), it seems interesting.
 
 ## Repos
-
 - When my PRs are merged, **I'll delete my corresponding fork**. Therefore, links to any of my forks may be [broken](https://en.wikipedia.org/wiki/Link_rot) (not dead, because it's not permanent) in the future. The exception is [.files](https://github.com/Rudxain/dotfiles)
 - I could **delete any of [my Gists](https://gist.github.com/Rudxain) without warning**
 - All my repos use [semver](https://semver.org), except the ones that don't use versioning at all
 - If I contribute to any of your repos, I hope you do the same for me and/or other people :)
 
 ## Langs
-
 ❤Favorites (in practice):
 
 This takes into account all the stuff related to the langs (tools, std+community libraries, ecosystem, documentation, etc...)
@@ -88,12 +82,10 @@ This takes into account my knowledge of the lang (and everything related), and t
 5. 🕊Ada
 
 ## Editors
-
-- Main: GNU Nano
-- Learning/Interested: [Helix](https://github.com/helix-editor/helix)
+- Main: [Helix](https://github.com/helix-editor/helix)
+- Quick/short: GNU Nano
 
 ## OS
-
 ❤Favorites:
 
 0. <img src=https://www.debian.org/logos/openlogo-nd.svg width=16em height=16em loading=lazy>Debian
@@ -102,10 +94,10 @@ This takes into account my knowledge of the lang (and everything related), and t
 
 🧠Expertise:
 
-0. <img src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em loading=lazy>Android 4 to 8.1, and 12. (0 experience with A\[9-11])
+0. <img src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em loading=lazy>Android 4 to 8.1, and 12. (0 experience with A\[9, 11])
 1. ChromeOS
 2. <img src=https://www.debian.org/logos/openlogo-nd.svg width=16em height=16em loading=lazy>Debian-based <img src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em loading=lazy>Linux distros
-3. <img src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em loading=lazy>Microsoft <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=16em height=16em loading=lazy>Windows XP, 7, 8, 10
+3. <img src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em loading=lazy>Microsoft <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=16em height=16em loading=lazy>Windows XP, \[7, 11] (I haven't touched Vista 💀).
 
 👀Interested:
 
