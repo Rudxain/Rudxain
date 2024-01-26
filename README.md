@@ -59,7 +59,7 @@ This takes into account my knowledge of the lang (and everything related), and t
 3. JavaScript
 4. TypeScript
 5. POSIX shell
-6. MirBSD Korn Shell, ksh93, Dash, ash
+6. MirBSD Korn Shell, ksh93, Dash
 7. <img src=https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/16x16.svg width=16em height=16em loading=lazy>Bash
 8. <img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em loading=lazy>Python
 9. SVG ("subset" of XML)
