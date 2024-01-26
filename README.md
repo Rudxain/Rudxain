@@ -101,7 +101,7 @@ I have experience with VScode and GNU Nano
 👀Interested:
 
 0. [Redox](https://www.redox-os.org)
-1. <img src=https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg width=16em height=16em loading=lazy>Google Fuchsia
+1. Google Fuchsia
 
 ## Browsers
 
