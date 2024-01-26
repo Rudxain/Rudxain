@@ -44,7 +44,7 @@ This **only** takes into account the langs alone (syntax, grammar, stdlib, etc..
 0. 🦀Rust
 1. [Typed CoffeeScript](https://github.com/mizchi/TypedCoffeeScript)
 2. <img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em loading=lazy>Python
-3. BrainFuck and its dialects. It's like "international assembly", because of using symbols rather than words
+3. Any lang that uses symbols rather than words (such as BrainFuck dialects), specially if the symbols have shapes that intuitively correspond to their operation.
 
 🧠Expertise:
 
@@ -53,7 +53,7 @@ This **only** takes into account the langs alone (syntax, grammar, stdlib, etc..
 
 This takes into account my knowledge of the lang (and everything related), and the experience making useful, efficient, and safe programs in it.
 
-0. Regular Expressions (Java and JS flavors), CSV (any "dialect"), JSON
+0. Java Regular Expressions (I'm expert at optimizing them), CSV (any "dialect"), JSON
 1. 🦙Llamalab <img src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em loading=lazy>Automate. I know more about expressions than blocks
 2. [Scratch](https://scratch.mit.edu)
 3. JavaScript
@@ -80,8 +80,9 @@ This takes into account my knowledge of the lang (and everything related), and t
 4. 🕊Ada
 
 ## Editors
-- Main: [Helix](https://github.com/helix-editor/helix)
-- Quick/short: GNU Nano
+<img src=https://raw.githubusercontent.com/helix-editor/helix/master/logo.svg width=16em height=16em loading=lazy>[Helix](https://github.com/helix-editor/helix) ♥️
+
+I have experience with VScode and GNU Nano
 
 ## OS
 ❤Favorites:
@@ -92,10 +93,10 @@ This takes into account my knowledge of the lang (and everything related), and t
 
 🧠Expertise:
 
-0. <img src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em loading=lazy>Android 4 to 8.1, and 12. (0 experience with A\[9, 11])
-1. ChromeOS
-2. <img src=https://www.debian.org/logos/openlogo-nd.svg width=16em height=16em loading=lazy>Debian-based <img src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em loading=lazy>Linux distros
-3. <img src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em loading=lazy>Microsoft <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=16em height=16em loading=lazy>Windows XP, \[7, 11] (I haven't touched Vista 💀).
+0. <img src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em loading=lazy>Android 4 to 8.1, and 12. (0 experience with A\[9, 11]). Most of my experience was from using TouchWiz, Samsung Experience, and OneUI. I do have some experience with AOSP (0 Gapps)
+1. <img src=https://www.debian.org/logos/openlogo-nd.svg width=16em height=16em loading=lazy>Debian-based <img src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em loading=lazy>Linux distros 
+2. ChromeOS. I have minimal knowledge about its internals. I know that most apps aren't native, but are powered by HTML+CSS+JS.
+3. <img src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em loading=lazy>Microsoft <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=16em height=16em loading=lazy>Windows XP, \[7, 11] (I haven't touched Vista 💀). Despite using it my entire life, this beast is so bloated/complex that I know less than ~20% about it.
 
 👀Interested:
 
@@ -113,5 +114,3 @@ I also have expertise with Chromium-based browsers.
 
 - <img src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em loading=lazy>Linux: GNOME Terminal (not Console)
 - <img src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em loading=lazy>Android: Termux
-
-<!-- template: <img src= width=16em height=16em loading=lazy> -->
