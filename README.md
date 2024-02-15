@@ -48,7 +48,8 @@ This **only** takes into account the langs alone (syntax, grammar, stdlib, etc..
 
 🧠Expertise:
 
-> warning: this is subject to the [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) 😂
+> [!warning]
+> this is subject to the [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) 😂
 > I'll try my best to list in an accurate order
 
 This takes into account my knowledge of the lang (and everything related), and the experience making useful, efficient, and safe programs in it.
