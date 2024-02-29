@@ -102,7 +102,8 @@ I have experience with VScode and GNU Nano
 👀Interested:
 
 0. [Redox](https://www.redox-os.org)
-1. Google Fuchsia
+1. <img src=https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nix-snowflake.svg width=16em height=16em loading=lazy>Nix
+2. [G Fuchsia](https://fuchsia.dev)
 
 ## Browsers
 
