@@ -81,7 +81,7 @@ This takes into account my knowledge of the lang (and everything related), and t
 4. 🕊Ada
 
 ## Editors
-<img src=https://raw.githubusercontent.com/helix-editor/helix/master/logo.svg width=16em height=16em loading=lazy>[Helix](https://github.com/helix-editor/helix) ♥️
+<img src=https://raw.githubusercontent.com/helix-editor/helix/master/logo.svg width=16em height=16em loading=lazy>[Helix](https://github.com/helix-editor/helix) ❤
 
 I have experience with VScode and GNU Nano
 
