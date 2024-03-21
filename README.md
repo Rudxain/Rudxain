@@ -39,7 +39,7 @@ This takes into account all the stuff related to the langs (tools, std+community
 
 ❤Favorites (in theory):
 
-This **only** takes into account the langs alone (syntax, grammar, stdlib, etc...)
+This **only** takes into account the langs [in isolation](https://en.wikipedia.org/wiki/Spherical_cow) (syntax, grammar, stdlib, etc...)
 
 0. 🦀Rust
 1. [Typed CoffeeScript](https://github.com/mizchi/TypedCoffeeScript)
