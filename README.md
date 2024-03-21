@@ -41,7 +41,7 @@ This takes into account all the stuff related to the langs (tools, std+community
 
 This **only** takes into account the langs [in isolation](https://en.wikipedia.org/wiki/Spherical_cow) (syntax, grammar, stdlib, etc...)
 
-0. 🦀Rust with the syntax of CoffeeScript and <img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em loading=lazy>Python, but: using ` ` rather than `,` to separate list elements, significant indentation rather than `{}`, raw strings by default (no escape sequences like `"\n"`).
+0. 🦀Rust with the syntax of CoffeeScript and <img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em loading=lazy>Python, but: ` ` rather than `,` to separate list elements, raw strings by default (escape sequences like `"\n"` are interpreted literally, unless explicitly using a format/template string).
 1. Any lang that uses symbols rather than words (such as BrainFuck dialects), specially if the symbols have shapes that intuitively correspond to their operation.
 
 🧠Expertise:
