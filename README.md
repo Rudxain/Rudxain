@@ -45,6 +45,13 @@ This **only** takes into account the langs [in isolation](https://en.wikipedia.o
 1. Common Lisp * CoffeeScript * <img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em loading=lazy>Python, with raw strings by default (escape sequences like `"\n"` are interpreted literally, unless explicitly using a format/template string).
 2. Any lang that uses symbols rather than words (such as BrainFuck dialects), specially if the symbols have shapes that intuitively correspond to their operation.
 
+My favorite argument against [Python's colons](https://docs.python.org/3/faq/design.html#why-are-colons-required-for-the-if-while-def-class-statements) is this:
+> > _The colons are an extra visual clue to scanning the blocks. As such, they improve readability, one of Python's main strengths._
+> 
+> Then Opening and closing braces should be called an "extra visual clue to scanning the block" in C++ and Java? Because they improved readability. Braces (`{`) then is C++, Java's main Strength.
+
+As a logician, I love the way they point out the fallacy!
+
 🧠Expertise:
 
 > [!warning]
