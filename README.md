@@ -27,7 +27,7 @@ The fact that [GL nukes dead accounts](https://about.gitlab.com/privacy/#how-doe
 - If I contribute to any of your repos, I hope you do the same for me and/or other people :)
 
 ## Langs
-❤Favorites (in practice):
+❤Favorites, in practice:
 
 This takes into account all the stuff related to the langs (portability, std+community tools & libraries, ecosystem, documentation, etc...)
 
@@ -36,7 +36,7 @@ This takes into account all the stuff related to the langs (portability, std+com
 2. 🦀Rust
 3. POSIX Shell
 
-❤Favorites (in theory):
+❤Favorites, in theory:
 
 This **only** takes into account the langs [in isolation](https://en.wikipedia.org/wiki/Spherical_cow) (syntax, grammar, stdlib, etc...)
 
