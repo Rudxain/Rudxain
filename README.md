@@ -29,23 +29,22 @@ The fact that [GL nukes dead accounts](https://about.gitlab.com/privacy/#how-doe
 ## Langs
 ❤Favorites (in practice):
 
-This takes into account all the stuff related to the langs (tools, std+community libraries, ecosystem, documentation, etc...)
+This takes into account all the stuff related to the langs (portability, std+community tools & libraries, ecosystem, documentation, etc...)
 
 0. <img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em loading=lazy>Python
 1. JavaScript
 2. 🦀Rust
 3. POSIX Shell
-4. <img src=https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/16x16.svg width=16em height=16em loading=lazy>Bash
 
 ❤Favorites (in theory):
 
 This **only** takes into account the langs [in isolation](https://en.wikipedia.org/wiki/Spherical_cow) (syntax, grammar, stdlib, etc...)
 
-0. 🦀Rust
-1. Common Lisp * CoffeeScript * <img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em loading=lazy>Python, with raw strings by default (escape sequences like `"\n"` are interpreted literally, unless explicitly using a format/template string).
+0. 🦀Rust. For everything.
+1. <img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em loading=lazy>Python. For expressing algorithms, because "haha, pseudo-code".
 2. Any lang that uses symbols rather than words (such as BrainFuck dialects), specially if the symbols have shapes that intuitively correspond to their operation.
 
-My favorite argument against [Python's colons](https://docs.python.org/3/faq/design.html#why-are-colons-required-for-the-if-while-def-class-statements) is this:
+My favorite argument against [Python's colons](https://docs.python.org/3/faq/design.html#why-are-colons-required-for-the-if-while-def-class-statements) is this (quoted from [here](https://wiki.c2.com/?SyntacticallySignificantWhitespaceConsideredHarmful)):
 > > _The colons are an extra visual clue to scanning the blocks. As such, they improve readability, one of Python's main strengths._
 > 
 > Then Opening and closing braces should be called an "extra visual clue to scanning the block" in C++ and Java? Because they improved readability. Braces (`{`) then is C++, Java's main Strength.
