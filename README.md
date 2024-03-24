@@ -36,6 +36,9 @@ This takes into account all the stuff related to the langs (portability, std+com
 2. 🦀Rust
 3. POSIX Shell
 
+One of the things I love about Rust is its _honesty_: Rust has abstractions (like any other lang), but they are **[leaky](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions) by design**.
+> [Rust \[is\] both as low-level as C, and as high-level as Lisp, whereas most other popular languages are stuck somewhere in the middle.](https://github.com/0atman/noboilerplate/blob/1eab51863994129b0c31f1d6925c5bd6299f4dc9/scripts/03-rust-turtles-all-the-way-down.md)
+
 ❤Favorites, in theory:
 
 This **only** takes into account the langs [in isolation](https://en.wikipedia.org/wiki/Spherical_cow) (syntax, grammar, stdlib, etc...)
@@ -44,13 +47,10 @@ This **only** takes into account the langs [in isolation](https://en.wikipedia.o
 1. <img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em loading=lazy>Python. For expressing algorithms, because "haha, pseudo-code".
 2. Any lang that uses symbols rather than words (such as BrainFuck dialects), specially if the symbols have shapes that intuitively correspond to their operation.
 
-One of the things I love about Rust is its _honesty:_ Rust has abstractions (like any other lang), but they are **[leaky](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions) by design**.
-> [Rust \[is\] both as low-level as C, and as high-level as Lisp, whereas most other popular languages are stuck somewhere in the middle.](https://github.com/0atman/noboilerplate/blob/1eab51863994129b0c31f1d6925c5bd6299f4dc9/scripts/03-rust-turtles-all-the-way-down.md)
-
-My favorite argument against [Python's colons](https://docs.python.org/3/faq/design.html#why-are-colons-required-for-the-if-while-def-class-statements) is this (quoted from [here](https://wiki.c2.com/?SyntacticallySignificantWhitespaceConsideredHarmful)):
+My favorite argument against [Python's colons](https://docs.python.org/3/faq/design.html#why-are-colons-required-for-the-if-while-def-class-statements) is this:
 > > _The colons are an extra visual clue to scanning the blocks. As such, they improve readability, one of Python's main strengths._
 > 
-> Then Opening and closing braces should be called an "extra visual clue to scanning the block" in C++ and Java? Because they improved readability. Braces (`{`) then is C++, Java's main Strength.
+> [Then Opening and closing braces should be called an "extra visual clue to scanning the block" in C++ and Java? Because they improved readability. Braces (`{`) then is C++, Java's main Strength.](https://wiki.c2.com/?SyntacticallySignificantWhitespaceConsideredHarmful)
 
 As a logician, I love the way they point out the fallacy!
 
