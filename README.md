@@ -57,9 +57,10 @@ This is subject to the [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dun
 	10. HTML
 	11. CSS
 	12. 🦀Rust
-	13. [Go](https://github.com/golang/go)
-	14. C
-	15. BrainFuck
+	13. <img src=https://gleam.run/images/lucy/lucy.svg width=16em height=16em loading=lazy>Gleam 
+	14. [Go](https://github.com/golang/go)
+	15. C
+	16. BrainFuck
 
 - 👀Interested
 
