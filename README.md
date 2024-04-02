@@ -1,22 +1,8 @@
 # Me
 
-## Stats
-<a href=https://github.com/Rudxain#gh-light-mode-only>
-	<img
-		src=https://github-readme-stats.vercel.app/api?username=Rudxain&show_icons=true&hide_rank=true#gh-light-mode-only
-		loading=lazy
-	>
-</a>
-<a href=https://github.com/Rudxain#gh-dark-mode-only>
-	<img
-		src=https://github-readme-stats.vercel.app/api?username=Rudxain&show_icons=true&hide_rank=true&theme=github_dark#gh-dark-mode-only
-		loading=lazy
-	>
-</a>
-
-[Get cards like this one!](https://github.com/anuraghazra/github-readme-stats)
-
 ## Personal
+- Currently doing courses listed by [CIC](https://cincinnatus.edu.do). After I complete the technical-capacitation phase, I'll get my 1st job!
+- My home (not my house) is under renovation, so I can't use my dev PC
 - Have an "obsession" with code refactoring. It's obvious from my GH activity 😂
 - Considering leaving GH, [for many reasons](https://gavinhoward.com/2020/04/i-am-moving-away-from-github).
 	- The fact that [GL nukes dead accounts](https://about.gitlab.com/privacy/#how-does-gitLab-secure-my-personal-data) is a deal-breaker for me.
