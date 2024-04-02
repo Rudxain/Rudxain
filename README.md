@@ -49,18 +49,17 @@ This is subject to the [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dun
 	2. [Scratch](https://scratch.mit.edu)
 	3. JavaScript
 	4. TypeScript
-	5. POSIX shell
-	6. MirBSD Korn Shell, ksh93, Dash
+	5. POSIX shell (subset of Dash)
+	6. MirBSD Korn Shell
 	7. <img src=https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/16x16.svg width=16em height=16em loading=lazy>Bash
 	8. <img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em loading=lazy>Python
 	9. SVG ("subset" of XML)
 	10. HTML
 	11. CSS
 	12. 🦀Rust
-	13. C
-	14. C++
-	15. [Go](https://github.com/golang/go)
-	16. BrainFuck
+	13. [Go](https://github.com/golang/go)
+	14. C
+	15. BrainFuck
 
 - 👀Interested
 
