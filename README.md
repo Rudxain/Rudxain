@@ -39,7 +39,14 @@
 			> [Then Opening and closing braces should be called an "extra visual clue to scanning the block" in C++ and Java? Because they improved readability. Braces (`{`) then is C++, Java's main Strength.](https://wiki.c2.com/?SyntacticallySignificantWhitespaceConsideredHarmful)
 			
 			As a logician, I love the way they point out the fallacy!
-		3. Any lang that uses symbols rather than words (such as BrainFuck dialects), specially if the symbols have shapes that intuitively correspond to their operation.
+		3. 🕊Ada
+			- I fell in love with it, since it makes a [distinction between subroutines and functions](https://learn.adacore.com/courses/intro-to-ada/chapters/subprograms.html), and [supports ranged-ints](https://learn.adacore.com/courses/intro-to-ada/chapters/strongly_typed_language.html#integers) out-of-the-box. It even statically checks ranges at the type-system level! (something that Rust doesn't do, not even TS with its literal-value types):
+			```ada
+			-- 32bit target architecture
+			type Integer is range -(2 ** 31) .. +(2 ** 31 - 1);
+			-- I love this so much that I hate Py and Rust in comparison 😭
+			```
+		4. Any lang that uses symbols rather than words (such as BrainFuck dialects), specially if the symbols have shapes that intuitively correspond to their operation.
 
 - 🧠Expertise: This takes into account my knowledge of the lang (and everything related), and the experience making useful, efficient, and safe programs in it.
 This is subject to the [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) 😂, I'll try my best to list in an accurate order. Fluency Threshold ≈ 4:
@@ -68,7 +75,6 @@ This is subject to the [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dun
 	1. [V](https://github.com/vlang/v)
 	2. APL
 	3. <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg width=16em height=16em loading=lazy>(Common Lisp)
-	4. 🕊Ada
 
 ## Editors
 <img src=https://raw.githubusercontent.com/helix-editor/helix/master/logo.svg width=16em height=16em loading=lazy>[Helix](https://github.com/helix-editor/helix) ❤
