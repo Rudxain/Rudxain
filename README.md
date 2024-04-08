@@ -40,7 +40,7 @@
 			
 			As a logician, I love the way they point out the fallacy!
 		3. 🕊Ada
-			- I fell in love with it, since it makes a [distinction between subroutines and functions](https://learn.adacore.com/courses/intro-to-ada/chapters/subprograms.html), and [supports ranged-ints](https://learn.adacore.com/courses/intro-to-ada/chapters/strongly_typed_language.html#integers) out-of-the-box. It even statically checks ranges at the type-system level! (something that Rust doesn't do, not even TS with its literal-value types):
+			- I fell in love with it, since it makes a [distinction between subroutines and functions](https://learn.adacore.com/courses/intro-to-ada/chapters/subprograms.html), and [supports ranged-ints](https://learn.adacore.com/courses/intro-to-ada/chapters/strongly_typed_language.html#integers) out-of-the-box. It even statically checks ranges at the type-system level! something that [Pkl](https://pkl-lang.org/main/current/language-reference/index.html#integers) does, but Rust and TS don't do it at all:
 			```ada
 			-- 32bit target architecture
 			type Integer is range -(2 ** 31) .. +(2 ** 31 - 1);
