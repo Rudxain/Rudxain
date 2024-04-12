@@ -26,7 +26,7 @@
 
 - ❤Favorites
 	- in practice:
-	This takes into account all the stuff related to the langs (portability, std+community tools & libraries, ecosystem, documentation, etc...):
+	This takes into account all the stuff related to the langs (portability, documentation, std+community tools & libraries, ecosystem, etc...):
 	
 		0. <img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em loading=lazy>Python
 		1. JavaScript
@@ -36,7 +36,7 @@
 		4. POSIX Shell
 
 	- in theory:
-	This **only** takes into account the langs [in isolation](https://en.wikipedia.org/wiki/Spherical_cow) (syntax, grammar, stdlib, etc...):
+	This **only** takes into account the langs [in isolation](https://en.wikipedia.org/wiki/Spherical_cow) (type-system, syntax & grammar, stdlib, etc...):
 	
 		0. 🦀Rust. For everything.
 		1. <img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em loading=lazy>Python. For expressing algorithms, because "haha, pseudo-code".
