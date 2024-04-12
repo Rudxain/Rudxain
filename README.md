@@ -17,6 +17,13 @@
 - If I contribute to any of your repos, I hope you do the same for me and/or other people :)
 
 ## Langs
+<a href=https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only>
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=rudxain&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=kotlin#gh-light-mode-only loading=lazy>
+</a>
+<a href=https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only>
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=rudxain&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=kotlin&theme=dark#gh-dark-mode-only loading=lazy>
+</a>
+
 - ❤Favorites
 	- in practice:
 	This takes into account all the stuff related to the langs (portability, std+community tools & libraries, ecosystem, documentation, etc...):
