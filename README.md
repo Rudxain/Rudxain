@@ -38,7 +38,7 @@
 	- in theory:
 	This **only** takes into account the langs [in isolation](https://en.wikipedia.org/wiki/Spherical_cow) (type-system, syntax & grammar, stdlib, etc...):
 	
-		0. 🦀Rust. For everything.
+		0. 🦀Rust. [For everything](https://github.com/ansuz/RIIR/issues/39#issuecomment-2039122371).
 		1. <img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em loading=lazy>Python. For expressing algorithms, because "haha, pseudo-code".
 			- My favorite argument against [Python's colons](https://docs.python.org/3/faq/design.html#why-are-colons-required-for-the-if-while-def-class-statements) is this:
 			> > _The colons are an extra visual clue to scanning the blocks. As such, they improve readability, one of Python's main strengths._
