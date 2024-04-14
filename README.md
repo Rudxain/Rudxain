@@ -79,9 +79,11 @@ This is subject to the [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dun
 - 👀Interested
 
 	0. 💾Assembly
-	1. [V](https://github.com/vlang/v)
-	2. APL
-	3. <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg width=16em height=16em loading=lazy>(Common Lisp)
+		- 6502
+		- RISC-V
+	0. [V](https://github.com/vlang/v)
+	1. APL
+	2. <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg width=16em height=16em loading=lazy>(Common Lisp)
 
 ## Editors
 <img src=https://raw.githubusercontent.com/helix-editor/helix/master/logo.svg width=16em height=16em loading=lazy>[Helix](https://github.com/helix-editor/helix) ❤
