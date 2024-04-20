@@ -17,10 +17,10 @@
 
 ## Langs
 <a href=https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only>
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=rudxain&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=kotlin#gh-light-mode-only loading=lazy>
+	<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=rudxain&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=kotlin#gh-light-mode-only loading=lazy>
 </a>
 <a href=https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only>
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=rudxain&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=kotlin&theme=dark#gh-dark-mode-only loading=lazy>
+	<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=rudxain&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=kotlin&theme=dark#gh-dark-mode-only loading=lazy>
 </a>
 
 - ❤Favorites
@@ -54,26 +54,26 @@
 			```
 		4. Any lang that uses symbols rather than words (such as BrainFuck dialects), specially if the symbols have shapes that intuitively correspond to their operation.
 
-- 🧠Expertise: This takes into account my knowledge of the lang (and everything related), and the experience making useful, efficient, and safe programs in it.
-This is subject to the [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) 😂, I'll try my best to list in an accurate order. Fluency Threshold ≈ 4:
+- 🧠Expertise: This takes into account my 📕knowledge of the lang (and everything ⚙️related), and the experience making 👍useful, ⚡efficient, and ✅correct/safe software in it.
+This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect), I'll try my best to list in an accurate order. Assume all "fluency percentages" are approximations (prefix "~"):
 
-	0. Java Regular Expressions (I'm expert at optimizing them), CSV (any "dialect"), JSON
-	1. 🦙Llamalab <img src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em loading=lazy>Automate. I know more about expressions than blocks
-	2. [Scratch](https://scratch.mit.edu)
-	3. JavaScript
-	4. TypeScript
-	5. <img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em loading=lazy>Python
-	6. POSIX shell (subset of Dash)
-	7. MirBSD Korn Shell
-	8. <img src=https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/16x16.svg width=16em height=16em loading=lazy>Bash
-	9. SVG ("subset" of XML)
-	10. HTML
-	11. CSS
-	12. 🦀Rust
-	13. <img src=https://gleam.run/images/lucy/lucy.svg width=16em height=16em loading=lazy>Gleam 
-	14. [Go](https://github.com/golang/go)
-	15. C
-	16. BrainFuck
+	0. Java Regular Expressions 📕90%👍85%⚡99.9%✅99% (I'm expert at optimizing them), CSV 📕100%👍75%⚡99%✅98% (any "dialect"), JSON 📕100%👍99%⚡99.9%✅98%.
+	1. 🦙Llamalab <img src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em loading=lazy>Automate 📕85%👍80%⚡95%✅80%
+	2. [Scratch](https://scratch.mit.edu) 📕80%👍90%⚡NaN%✅90%
+	3. JavaScript 📕98%👍99.9%⚡95%✅\[95% 80%]\(with JSDoc+`@TScheck` and bare JS, respectively)
+	4. TypeScript 📕90%👍99.9%⚡94%✅96%
+	5. <img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em loading=lazy>Python 📕85%👍90%⚡NaN%✅90%
+	6. POSIX shell 📕90%👍75%⚡80%✅75%
+	7. MirBSD Korn Shell 📕80%👍76%⚡82%✅80%
+	8. <img src=https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/16x16.svg width=16em height=16em loading=lazy>Bash 📕72%👍74%⚡NaN%✅80%
+	9. HTML 📕70%👍85%⚡70%✅75%
+	10. SVG 📕70%👍80%⚡75%✅70%
+	11. CSS 📕71%👍NaN%⚡75%✅66%
+	12. 🦀Rust 📕66%👍90%⚡90%✅99.9%
+	13. <img src=https://gleam.run/images/lucy/lucy.svg width=16em height=16em loading=lazy>Gleam 📕80%👍70%⚡NaN%✅80%
+	14. [Go](https://github.com/golang/go) 📕64%👍67%⚡50%✅75%
+	15. C 📕70%👍34%⚡70%✅1%
+	16. BrainFuck 📕100%👍12%⚡NaN%✅NaN%
 
 - 👀Interested
 
