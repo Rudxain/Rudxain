@@ -60,12 +60,12 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 	4. TypeScript 📕90%👍0xfff/0x1000⚡94%✅96%
 	5. <img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em>Python 📕85%👍90%✅90%
 	6. POSIX shell 📕90%👍3/4⚡80%✅3/4
-	7. MirBSD Korn Shell 📕80%👍3/4✅80%
-	8. <img src=https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/16x16.svg width=16em height=16em>Bash 📕72%👍3/4✅80%
-	9. HTML 📕70%👍85%⚡70%✅3/4
-	10. SVG 📕70%👍80%⚡3/4✅70%
-	11. CSS 📕71%⚡3/4✅2/3
-	12. 🦀Rust 📕2/3👍90%⚡90%✅0xfff/0x1000
+	7. 🦀Rust 📕2/3⚙️1/5👍15/16⚡0xff/0x100✅0xfff/0x1000
+	8. MirBSD Korn Shell 📕80%👍3/4✅80%
+	9. <img src=https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/16x16.svg width=16em height=16em>Bash 📕72%👍3/4✅80%
+	10. HTML 📕70%👍85%⚡70%✅3/4
+	11. SVG 📕70%👍80%⚡3/4✅70%
+	12. CSS 📕71%⚡3/4✅2/3
 	13. <img src=https://gleam.run/images/lucy/lucy.svg width=16em height=16em>Gleam 📕80%👍70%✅80%
 	14. [Go](https://github.com/golang/go) 📕2/3👍2/3⚡50%✅3/4
 	15. C 📕7/10👍1/3⚡7/10✅1/0x40
