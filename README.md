@@ -50,35 +50,35 @@
 			```
 		4. Any lang that uses symbols rather than words (such as BrainFuck dialects), specially if the symbols have shapes that intuitively correspond to their operation.
 
-- 🧠Expertise: This takes into account my 📕knowledge of the lang (and everything ⚙️related), and the experience making 👍useful, ⚡efficient, and ✅correct/safe software in it.
-This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect), I'll try my best to list in an accurate order. Assume all confidence scores are approximations (prefix "~"):
+- 🧠Expertise: This takes into account my knowledge of the lang (and everything directly related to it), and my experience making useful, efficient, and correct/safe software in it.
+This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect), I'll try my best to list in an accurate order:
 
-	0. Java Regular Expressions 📕15/16👍8/9⚡0xfff/0x1000✅99%, I'm expert at optimizing them; CSV \(any "dialect") 📕1/1⚙️0xff/0x100👍3/4⚡99%✅98%; JSON 📕1/1👍99%⚡0xfff/0x1000✅98%.
-	1. 🦙Llamalab <img src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em>Automate 📕85%👍80%⚡95%✅80%
-	2. [Scratch](https://scratch.mit.edu) 📕80%👍90%✅90%
-	3. JavaScript 📕98%👍0xfff/0x1000⚡95%✅\[95% 80%]\(with JSDoc+`@TScheck` and bare JS, respectively)
-	4. TypeScript 📕90%👍0xfff/0x1000⚡94%✅96%
-	5. <img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em>Python 📕85%👍90%✅90%
-	6. POSIX shell 📕90%👍3/4⚡80%✅3/4
-	7. 🦀Rust 📕2/3⚙️1/5👍15/16⚡0xff/0x100✅0xfff/0x1000
-	8. MirBSD Korn Shell 📕80%👍3/4✅80%
-	9. <img src=https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/16x16.svg width=16em height=16em>Bash 📕72%👍3/4✅80%
-	10. HTML 📕70%👍85%⚡70%✅3/4
-	11. SVG 📕70%👍80%⚡3/4✅70%
-	12. CSS 📕71%⚡3/4✅2/3
-	13. <img src=https://gleam.run/images/lucy/lucy.svg width=16em height=16em>Gleam 📕80%👍70%✅80%
-	14. [Go](https://github.com/golang/go) 📕2/3👍2/3⚡50%✅3/4
-	15. C 📕7/10👍1/3⚡7/10✅1/0x40
-	16. BrainFuck 📕1/1⚙️4/5👍1/16⚡\[1/1 1/2]✅\[1/0x80 7/8]
+	0. [ART/Dalvik Regex](https://developer.android.com/reference/java/util/regex/Pattern), I'm expert at optimizing them; [DSV](https://en.wikipedia.org/wiki/Delimiter-separated_values) \(almost any dialect).
+	1. <img src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em>[AM](https://llamalab.com/automate/doc)
+	2. [JS](https://developer.mozilla.org/en-US/docs/Web/javascript)
+	3. [TS](https://www.typescriptlang.org/docs)
+	4. [Scratch](https://scratch.mit.edu)
+	5. <img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em>[Py](https://docs.python.org/3)
+	6. 🦀[Rust](https://doc.rust-lang.org/reference)
+	7. [POSIX `sh`](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html)
+	8. [MKSh](http://www.mirbsd.org/htman/i386/man1/mksh.htm)
+	9. [HTML5](https://html.spec.whatwg.org)
+	10. [SVG1](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
+	11. [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+	12. <img src=https://gleam.run/images/lucy/lucy.svg width=16em height=16em>[Gleam](https://gleam.run/documentation)
+	13. [Go](https://go.dev/doc)
+	14. <img src=https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/16x16.svg width=16em height=16em>[Bash](https://www.gnu.org/software/bash/manual)
+	15. [BF](https://esolangs.org/wiki/BrainFuck)
 
 - 👀Interested
 
 	0. 💾Assembly
-		- 6502
+		- [UVM](https://github.com/maximecb/uvm)
 		- RISC-V
-	0. [V](https://github.com/vlang/v)
-	1. APL
-	2. <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg width=16em height=16em>(Common Lisp)
+	1. 🕊Ada
+	2. [Kind (HVM)](https://github.com/HigherOrderCO/kind2)
+	3. APL
+	4. <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg width=16em height=16em>(Common Lisp)
 
 ## Editors
 <img src=https://raw.githubusercontent.com/helix-editor/helix/master/logo.svg width=16em height=16em>[Helix](https://github.com/helix-editor/helix) ❤
