@@ -71,8 +71,8 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 	0. 💾Assembly
 		- [UVM](https://github.com/maximecb/uvm)
 		- RISC-V
-	1. 🕊Ada
-	2. [Kind (HVM)](https://github.com/HigherOrderCO/kind2)
+	1. [Bend](https://github.com/HigherOrderCO/Bend) & [Kind](https://github.com/HigherOrderCO/kind2), because of HVM
+	2. 🕊Ada
 	3. APL
 	4. <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg width=16em height=16em>(Common Lisp)
 
