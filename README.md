@@ -64,7 +64,7 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 		- RISC-V
 	1. [Bend](https://github.com/HigherOrderCO/Bend) & [Kind](https://github.com/HigherOrderCO/kind2), because of HVM
 	2. 🕊Ada
-		- It statically-checks ranges at the type-system level! something that [Pkl](https://pkl-lang.org/main/current/language-reference/index.html#integers) does, but Rust and TS don't:
+		- It statically-checks [ranges](https://learn.adacore.com/courses/intro-to-ada/chapters/strongly_typed_language.html#integers) at the type-system level! something that [Pkl](https://pkl-lang.org/main/current/language-reference/index.html#integers) does, but Rust and TS don't:
 		```ada
 		-- 32bit target arch
 		type Integer is range -(2 ** 31) .. +(2 ** 31 - 1);
