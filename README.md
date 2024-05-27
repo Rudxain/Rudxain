@@ -16,7 +16,7 @@
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=rudxain&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=kotlin#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=rudxain&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=kotlin&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-- ❤Favorites
+- ❤Faves
 	- in practice:
 	This takes into account all the stuff related to the langs (portability, documentation, std+community tools & libraries, ecosystem, etc...):
 	
@@ -77,7 +77,7 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 <img src=https://raw.githubusercontent.com/helix-editor/helix/master/logo.svg width=16em height=16em>[Helix](https://github.com/helix-editor/helix) ❤
 
 ## OS
-- ❤Favorites
+- ❤Faves
 
 	0. <img src=https://www.debian.org/logos/openlogo-nd.svg width=16em height=16em>Debian
 	1. <img src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em>Android
@@ -86,7 +86,7 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 - 🧠Expertise
 
 	0. <img src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em>Android 4 to 8.1, and 12 (0 experience with A\[9, 11])
-		- AOSP without Gapps
+		- AOSP (without [Gapps](https://en.wikipedia.org/wiki/Google_Mobile_Services))
 		- Samsung Experience
 		- One UI
 	1. <img src=https://www.debian.org/logos/openlogo-nd.svg width=16em height=16em>Debian 12 "Testing"
@@ -104,5 +104,8 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 - Windows: <img src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em>MS <img src=https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Edge_logo_%282019%29.svg width=16em height=16em>Edge
 
 ## Terminals
-- <img src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em>Linux: GNOME Terminal (not Console)
+- <img src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em>Linux: GNOME [Terminal](https://wiki.gnome.org/Apps/Terminal)
+- 👀Interested
+	- GNOME [Console](https://apps.gnome.org/app/org.gnome.Console)
+	- [Ki`tty`](https://sw.kovidgoyal.net/kitty)
 - <img src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em>Android: Termux
