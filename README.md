@@ -22,12 +22,12 @@
 	
 		0. JS. I'm ashamed of admitting it 🤦.
 		1. <img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em>Py.
-			- My favorite argument against [Py's colons](https://docs.python.org/3/faq/design.html#why-are-colons-required-for-the-if-while-def-class-statements) is this:
+			- My fav argument against [Py's colons](https://docs.python.org/3/faq/design.html#why-are-colons-required-for-the-if-while-def-class-statements) is:
 			> > _The colons are an extra visual clue to scanning the blocks. As such, they improve readability, one of Python's main strengths._
 			> 
 			> [Then Opening and closing braces should be called an "extra visual clue to scanning the block" in C++ and Java? Because they improved readability. Braces (`{`) then is C++, Java's main Strength.](https://wiki.c2.com/?SyntacticallySignificantWhitespaceConsideredHarmful)
 		2. 🦀Rust
-			- I love its _honesty_: It has abstractions (like any other lang), but they are **[leaky](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions) by design**.
+			- I love its _honesty_: It has abstractions that are **[leaky](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions) by design**.
 			> [Rust \[is\] both as low-level as C, and as high-level as Lisp, whereas most other popular languages are stuck somewhere in the middle.](https://github.com/0atman/noboilerplate/blob/1eab51863994129b0c31f1d6925c5bd6299f4dc9/scripts/03-rust-turtles-all-the-way-down.md) 
 		3. POSIX Shell
 
@@ -35,12 +35,12 @@
 	This **only** takes into account the langs [in isolation](https://en.wikipedia.org/wiki/Spherical_cow) (type-system, syntax & grammar, stdlib, etc...):
 	
 		0. 🦀Rust. [For everything](https://github.com/ansuz/RIIR/issues/39#issuecomment-2039122371).
-		1. Any lang written in shapes that intuitively correspond to their semantics (such as BF dialects)
+		1. Any lang written in shapes that intuitively correspond to their semantics (such as BF dialects, and modern APL derivatives)
 
 - 🧠Expertise: This takes into account my knowledge of the lang (and everything directly related to it), and my experience making useful, efficient, and correct/safe software in it.
 This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect), I'll try my best to list in an accurate order:
 
-	0. [A.R.T. REs](https://developer.android.com/reference/java/util/regex/Pattern) (not exactly JDK), I'm expert at optimizing them; [DSV](https://en.wikipedia.org/wiki/Delimiter-separated_values) \(almost any dialect).
+	0. [A.R.T. REs](https://developer.android.com/reference/java/util/regex/Pattern), I'm expert at ⚡optimizing them 🚀; [DSV](https://en.wikipedia.org/wiki/Delimiter-separated_values) \(almost any dialect).
 	1. [<img src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em>AM](https://llamalab.com/automate/doc)
 	2. [JS](https://developer.mozilla.org/en-US/docs/Web/javascript)
 	3. [TS](https://www.typescriptlang.org/docs)
@@ -76,7 +76,7 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 ## Editors
 0. ❤Fav & fluent: [<img src=https://raw.githubusercontent.com/helix-editor/helix/master/logo.svg width=16em height=16em>`hx`](https://github.com/helix-editor/helix)
 1. past experience: <img src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em>MS VS-code
-2. somewhat familiar: GNU Nano
+2. familiarized: GNU Nano
 
 ## OS
 - ❤Faves
