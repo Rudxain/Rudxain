@@ -1,7 +1,7 @@
 # Me
 
 ## Personal
-- Currently doing courses listed by [CIC](https://cincinnatus.edu.do). After I complete the technical-capacitation phase, I'll get my 1st job!
+- Currently doing courses listed by [<img src=https://cincinnatus.edu.do/wp-content/uploads/2022/11/cropped-favicon-2-32x32.png width=16em height=16em>CIC](https://cincinnatus.edu.do). After I complete the technical-capacitation phase, I'll get my 1st job!
 - Considering leaving GH, [for many reasons](https://gavinhoward.com/2020/04/i-am-moving-away-from-github).
 	- The fact that [GL nukes dead accounts](https://about.gitlab.com/privacy/#how-does-gitLab-secure-my-personal-data) is a deal-breaker for me.
 	- I've just learned about [Code-Berg](https://codeberg.org), it seems interesting.
@@ -41,19 +41,19 @@
 This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect), I'll try my best to list in an accurate order:
 
 	0. [A.R.T. REs](https://developer.android.com/reference/java/util/regex/Pattern) (not exactly JDK), I'm expert at optimizing them; [DSV](https://en.wikipedia.org/wiki/Delimiter-separated_values) \(almost any dialect).
-	1. <img src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em>[AM](https://llamalab.com/automate/doc)
+	1. [<img src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em>AM](https://llamalab.com/automate/doc)
 	2. [JS](https://developer.mozilla.org/en-US/docs/Web/javascript)
 	3. [TS](https://www.typescriptlang.org/docs)
-	4. 🦀[Rs](https://doc.rust-lang.org/reference)
-	5. <img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em>[Py](https://docs.python.org/3)
+	4. [🦀Rs](https://doc.rust-lang.org/reference)
+	5. [<img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em>Py](https://docs.python.org/3)
 	6. [POSIX `sh`](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html)
 	7. [Scratch](https://scratch.mit.edu)
 	8. [HTML5](https://html.spec.whatwg.org)
 	9. [SVG1](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 	10. [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 	11. [MKSh](http://www.mirbsd.org/htman/i386/man1/mksh.htm)
-	12. <img src=https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/16x16.svg width=16em height=16em>[Bash](https://www.gnu.org/software/bash/manual)
-	13. <img src=https://gleam.run/images/lucy/lucy.svg width=16em height=16em>[Gleam](https://gleam.run/documentation)
+	12. [<img src=https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/16x16.svg width=16em height=16em>Bash](https://www.gnu.org/software/bash/manual)
+	13. [<img src=https://gleam.run/images/lucy/lucy.svg width=16em height=16em>Gleam](https://gleam.run/documentation)
 	14. [Go](https://go.dev/doc)
 	15. [BF](https://esolangs.org/wiki/BrainFuck)
 
@@ -74,7 +74,9 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 	3. <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg width=16em height=16em>(Common Lisp)
 
 ## Editors
-<img src=https://raw.githubusercontent.com/helix-editor/helix/master/logo.svg width=16em height=16em>[Helix](https://github.com/helix-editor/helix) ❤
+0. ❤Fav & fluent: [<img src=https://raw.githubusercontent.com/helix-editor/helix/master/logo.svg width=16em height=16em>`hx`](https://github.com/helix-editor/helix)
+1. past experience: <img src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em>MS VS-code
+2. somewhat familiar: GNU Nano
 
 ## OS
 - ❤Faves
@@ -89,13 +91,13 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 		- AOSP (without [Gapps](https://en.wikipedia.org/wiki/Google_Mobile_Services))
 		- Samsung Experience
 		- One UI
-	1. <img src=https://www.debian.org/logos/openlogo-nd.svg width=16em height=16em>Debian 12 "Testing"
+	1. <img src=https://www.debian.org/logos/openlogo-nd.svg width=16em height=16em>Debian 12 Testing
 	2. <img src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em>MS <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=16em height=16em>Windows XP, \[7, 11] (I haven't touched Vista 💀)
 		- Despite using it my entire life, this beast is so bloated/complex that I know less than ~20% about it
 
 - 👀Interested
 
-	0. <img src=https://raw.githubusercontent.com/NixOS/nixos-artwork/f84c13adae08e860a7c3f76ab3a9bef916d276cc/logo/nix-snowflake-colours.svg width=16em height=16em>Nix
+	0. [<img src=https://raw.githubusercontent.com/NixOS/nixos-artwork/f84c13adae08e860a7c3f76ab3a9bef916d276cc/logo/nix-snowflake-colours.svg width=16em height=16em>Nix](https://nixos.org)
 	1. [Redox](https://www.redox-os.org)
 	2. [G Fuchsia](https://fuchsia.dev)
 
