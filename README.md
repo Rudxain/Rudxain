@@ -107,5 +107,6 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 - <img src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em>Linux: GNOME [Terminal](https://wiki.gnome.org/Apps/Terminal)
 - 👀Interested
 	- GNOME [Console](https://apps.gnome.org/app/org.gnome.Console)
+	- [Alacri`tty`](https://alacritty.org)
 	- [Ki`tty`](https://sw.kovidgoyal.net/kitty)
 - <img src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em>Android: Termux
