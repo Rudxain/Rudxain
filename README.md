@@ -21,16 +21,18 @@
 	This takes into account all the stuff related to the langs (portability, documentation, std+community tools & libraries, ecosystem, etc...):
 	
 		0. JS. I'm ashamed of admitting it 🤦.
-		1. <img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em>Py.
+		1. Bash & POSIX Shell
+		2. 🦀Rs
+			- I love its _honesty_: It has abstractions that are **[leaky](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions) by design**.
+			> [Rust \[is\] both as low-level as C, and as high-level as Lisp, whereas most other popular languages are stuck somewhere in the middle.](https://github.com/0atman/noboilerplate/blob/1eab51863994129b0c31f1d6925c5bd6299f4dc9/scripts/03-rust-turtles-all-the-way-down.md)
+		3. <img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em>Py.
 			- My fav argument against [Py's colons](https://docs.python.org/3/faq/design.html#why-are-colons-required-for-the-if-while-def-class-statements) is:
 			> > _The colons are an extra visual clue to scanning the blocks. As such, they improve readability, one of Python's main strengths._
 			> 
 			> [Then Opening and closing braces should be called an "extra visual clue to scanning the block" in C++ and Java? Because they improved readability. Braces (`{`) then is C++, Java's main Strength.](https://wiki.c2.com/?SyntacticallySignificantWhitespaceConsideredHarmful)
-		2. 🦀Rust
-			- I love its _honesty_: It has abstractions that are **[leaky](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions) by design**.
-			> [Rust \[is\] both as low-level as C, and as high-level as Lisp, whereas most other popular languages are stuck somewhere in the middle.](https://github.com/0atman/noboilerplate/blob/1eab51863994129b0c31f1d6925c5bd6299f4dc9/scripts/03-rust-turtles-all-the-way-down.md) 
-		3. POSIX Shell
-
+		4. TS. It should be top#3 (mostly because of conditional types), but:
+			- Py & Rs have better support for iterators
+			- TS sits in an "awkward middle" between "type-safe scripting" (JSDoc) and "amazing dev-xp, requires building" (Rs)
 	- in theory (idealized):
 	This **only** takes into account the langs [in isolation](https://en.wikipedia.org/wiki/Spherical_cow) (type-system, syntax & grammar, stdlib, etc...):
 	
@@ -45,17 +47,15 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 	2. [JS](https://developer.mozilla.org/en-US/docs/Web/javascript)
 	3. [TS](https://www.typescriptlang.org/docs)
 	4. [🦀Rs](https://doc.rust-lang.org/reference)
-	5. [<img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em>Py](https://docs.python.org/3)
-	6. [POSIX `sh`](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html)
-	7. [Scratch](https://scratch.mit.edu)
-	8. [HTML5](https://html.spec.whatwg.org)
-	9. [SVG1](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
-	10. [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
-	11. [MKSh](http://www.mirbsd.org/htman/i386/man1/mksh.htm)
-	12. [<img src=https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/16x16.svg width=16em height=16em>Bash](https://www.gnu.org/software/bash/manual)
-	13. [<img src=https://gleam.run/images/lucy/lucy.svg width=16em height=16em>Gleam](https://gleam.run/documentation)
-	14. [Go](https://go.dev/doc)
-	15. [BF](https://esolangs.org/wiki/BrainFuck)
+	5. [POSIX `sh`](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html)
+	6. [<img src=https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/16x16.svg width=16em height=16em>Bash](https://www.gnu.org/software/bash/manual)
+	7. [MKSh](http://www.mirbsd.org/htman/i386/man1/mksh.htm)
+	8. [<img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em>Py](https://docs.python.org/3)
+	9. [Scratch](https://scratch.mit.edu)
+	10. [HTML5](https://html.spec.whatwg.org)
+	11. [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+	12. [SVG1](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
+	13. [BF](https://esolangs.org/wiki/BrainFuck)
 
 - 👀Interested
 
@@ -75,31 +75,23 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 
 ## Editors
 0. ❤Fav & fluent: [<img src=https://raw.githubusercontent.com/helix-editor/helix/master/logo.svg width=16em height=16em>`hx`](https://github.com/helix-editor/helix)
-1. past experience: <img src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em>MS VS-code
+1. past experience: <img src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em>MS VS-code/[Monaco](https://github.com/microsoft/monaco-editor)
 2. familiarized: GNU Nano
 
 ## OS
 - ❤Faves
 
-	0. <img src=https://www.debian.org/logos/openlogo-nd.svg width=16em height=16em>Debian
-	1. <img src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em>Android
-	2. <img src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em>MS <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=16em height=16em>Windows
-
-- 🧠Expertise
-
-	0. <img src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em>Android 4 to 8.1, and 12 (0 experience with A\[9, 11])
+	0. <img src=https://www.debian.org/logos/openlogo-nd.svg width=16em height=16em>Debian 12.5 Testing (Bookworm/Trixie)
+	1. <img src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em>Android 12.0
 		- AOSP (without [Gapps](https://en.wikipedia.org/wiki/Google_Mobile_Services))
-		- Samsung Experience
-		- One UI
-	1. <img src=https://www.debian.org/logos/openlogo-nd.svg width=16em height=16em>Debian 12 Testing
-	2. <img src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em>MS <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=16em height=16em>Windows XP, \[7, 11] (I haven't touched Vista 💀)
-		- Despite using it my entire life, this beast is so bloated/complex that I know less than ~20% about it
+		- S One UI
+	2. <img src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em>MS <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=16em height=16em>Windows 10 & 11
+		- Despite using it my entire life, this beast is so bloated/complex that I know less than ~1/8 about it
 
 - 👀Interested
 
 	0. [<img src=https://raw.githubusercontent.com/NixOS/nixos-artwork/f84c13adae08e860a7c3f76ab3a9bef916d276cc/logo/nix-snowflake-colours.svg width=16em height=16em>Nix](https://nixos.org)
 	1. [Redox](https://www.redox-os.org)
-	2. [G Fuchsia](https://fuchsia.dev)
 
 ## Browsers
 - Main: <img src=https://raw.githubusercontent.com/mdn/yari/2720d1f9998be94428a822dcc06946d6a53879d0/client/src/assets/dino.svg width=16em height=16em>Moz <img src=https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg width=16em height=16em>Firefox
