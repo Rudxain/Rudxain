@@ -36,7 +36,7 @@
 	- in theory (idealized):
 	This **only** takes into account the langs [in isolation](https://en.wikipedia.org/wiki/Spherical_cow) (type-system, syntax & grammar, stdlib, etc...):
 	
-		0. 🦀Rust. [For everything](https://github.com/ansuz/RIIR/issues/39#issuecomment-2039122371).
+		0. 🦀Rs. [For everything](https://github.com/ansuz/RIIR/issues/39#issuecomment-2039122371).
 		1. Any lang written in shapes that intuitively correspond to their semantics (such as BF dialects, and modern APL derivatives)
 
 - 🧠Expertise: This takes into account my knowledge of the lang (and everything directly related to it), and my experience making useful, efficient, and correct/safe software in it.
@@ -64,12 +64,12 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 		- RISC-V
 	1. [Bend](https://github.com/HigherOrderCO/Bend) & [Kind](https://github.com/HigherOrderCO/kind2), because of HVM
 	2. 🕊Ada
-		- It statically-checks [ranges](https://learn.adacore.com/courses/intro-to-ada/chapters/strongly_typed_language.html#integers) at the type-system level! something that [Pkl](https://pkl-lang.org/main/current/language-reference/index.html#integers) does, but Rust and TS don't:
+		- It statically-checks [ranges](https://learn.adacore.com/courses/intro-to-ada/chapters/strongly_typed_language.html#integers) at the type-system level! something that [Pkl](https://pkl-lang.org/main/current/language-reference/index.html#integers) does, but Rs and TS don't:
 		```ada
 		-- 32bit target arch
 		type Integer is range -(2 ** 31) .. +(2 ** 31 - 1);
 		-- I love this so much that
-		-- I hate Py and Rust in comparison 😭
+		-- I hate Py and Rs in comparison 😭
 		```
 	3. <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg width=16em height=16em>(Common Lisp)
 
