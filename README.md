@@ -80,13 +80,13 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 2. familiarized: GNU Nano
 
 ## OS
-- ❤Faves
+- Using
 
 	0. <img src=https://www.debian.org/logos/openlogo-nd.svg width=16em height=16em>Debian 12.5 Testing (Bookworm/Trixie)
-	1. <img src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em>Android 12.0
+	1. <img src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em>Android 12.0 (can't update)
 		- AOSP (without [Gapps](https://en.wikipedia.org/wiki/Google_Mobile_Services))
 		- S One UI
-	2. <img src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em>MS <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg width=16em height=16em>Windows 10 & 11
+	2. <img src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em>MS <img src=https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg width=16em height=16em>Windows 11
 		- Despite using it my entire life, this beast is so bloated/complex that I know less than ~1/8 about it
 
 - 👀Interested
