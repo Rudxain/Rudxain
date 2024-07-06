@@ -2,7 +2,7 @@
 
 ## Personal
 - Doing courses listed by [<img src=https://cincinnatus.edu.do/wp-content/uploads/2022/11/cropped-favicon-2-32x32.png width=16em height=16em>CIC](https://cincinnatus.edu.do). After I complete the technical-capacitation phase, I'll get my 1st job!
-- Considering leaving GH, [for many reasons](https://gavinhoward.com/2020/04/i-am-moving-away-from-github).
+- Might consider leaving GH, [for many reasons](https://gavinhoward.com/2020/04/i-am-moving-away-from-github).
 	- The fact that [GL nukes dead accounts](https://about.gitlab.com/privacy/#how-does-gitLab-secure-my-personal-data) is a deal-breaker for me.
 	- I've just learned about [Code-Berg](https://codeberg.org), it seems interesting.
 - If I contribute to any of your repos, I hope you do the same for me and/or other people :)
