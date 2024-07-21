@@ -44,7 +44,7 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 
 	0. [A.R.T. REs](https://developer.android.com/reference/java/util/regex/Pattern), I'm expert at ⚡optimizing them 🚀; [DSV](https://en.wikipedia.org/wiki/Delimiter-separated_values) \(almost any dialect).
 	1. [<img src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em>AM](https://llamalab.com/automate/doc)
-	2. [JS](https://developer.mozilla.org/en-US/docs/Web/javascript)
+	2. [JS](https://tc39.es/ecma262/)
 	3. [TS](https://www.typescriptlang.org/docs)
 	4. [🦀Rs](https://doc.rust-lang.org/reference)
 	5. [POSIX `sh`](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html)
