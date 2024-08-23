@@ -1,7 +1,7 @@
 # Me
 
 ## Personal
-- About to do a [<img src=https://cincinnatus.edu.do/wp-content/uploads/2022/11/cropped-favicon-2-32x32.png width=16em height=16em>CIC](https://cincinnatus.edu.do) "mini-project"
+- Doing [<img src=https://cincinnatus.edu.do/wp-content/uploads/2022/11/cropped-favicon-2-32x32.png width=16em height=16em>CIC](https://cincinnatus.edu.do) "Proyecto Transformación Digital"
 - Might consider leaving GH, [for many reasons](https://gavinhoward.com/2020/04/i-am-moving-away-from-github).
 	- The fact that [GL nukes dead accounts](https://about.gitlab.com/privacy/#how-does-gitLab-secure-my-personal-data) is a deal-breaker for me.
 	- I've heard of [Code-Berg](https://codeberg.org), it seems interesting.
@@ -74,19 +74,16 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 	3. <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg width=16em height=16em>(Common Lisp)
 	4. [Hylo](https://www.hylo-lang.org)
 
-## Editors
+## Editor
 0. ❤Fav & fluent: [<img src=https://raw.githubusercontent.com/helix-editor/helix/master/logo.svg width=16em height=16em>`hx`](https://github.com/helix-editor/helix)
 1. past experience: <img src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em>MS VS-code/[Monaco](https://github.com/microsoft/monaco-editor)
 
 ## OS
 - Using
 
-	0. <img src=https://www.debian.org/logos/openlogo-nd.svg width=16em height=16em>Debian 12.5 Testing (Bookworm/Trixie)
-	1. <img src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em>Android 12.0 (can't update)
-		- AOSP (without [Gapps](https://en.wikipedia.org/wiki/Google_Mobile_Services))
-		- S One UI
-	2. <img src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em>MS <img src=https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg width=16em height=16em>Windows 11
-		- Despite using it my entire life, this beast is so bloated/complex that I know less than ~1/8 about it
+	0. <img src=https://www.debian.org/logos/openlogo-nd.svg width=16em height=16em>Debian Testing
+	1. <img src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em>Android 12.0 (can't update), S One UI 4.1
+- Past experience: <img src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em>MS <img src=https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg width=16em height=16em>Windows \{XP, 7, 8.1, 10, 11}
 
 - 👀Interested
 
@@ -94,11 +91,10 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 	1. [Redox](https://www.redox-os.org)
 	2. [PM](https://postmarketos.org)
 
-## Browsers
-- Main: <img src=https://raw.githubusercontent.com/mdn/yari/2720d1f9998be94428a822dcc06946d6a53879d0/client/src/assets/dino.svg width=16em height=16em>Moz <img src=https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg width=16em height=16em>Firefox
-- Windows: <img src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em>MS <img src=https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Edge_logo_%282019%29.svg width=16em height=16em>Edge
+## Browser
+<img src=https://raw.githubusercontent.com/mdn/yari/2720d1f9998be94428a822dcc06946d6a53879d0/client/src/assets/dino.svg width=16em height=16em>Moz <img src=https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg width=16em height=16em>Firefox
 
-## Terminals
+## Terminal
 - <img src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em>Linux: GNOME [Terminal](https://wiki.gnome.org/Apps/Terminal)
 - 👀Interested
 	- GNOME [Console](https://apps.gnome.org/app/org.gnome.Console)
