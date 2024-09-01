@@ -47,7 +47,7 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 	2. [JS](https://tc39.es/ecma262/)
 	3. [TS](https://www.typescriptlang.org/docs)
 	4. [🦀Rs](https://doc.rust-lang.org/reference)
-	5. [POSIX `sh`](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html)
+	5. [POSIX `sh`](https://pubs.opengroup.org/onlinepubs/9799919799/utilities/V3_chap02.html)
 	6. [<img src=https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/16x16.svg width=16em height=16em>Bash](https://www.gnu.org/software/bash/manual)
 	7. [MKSh](http://www.mirbsd.org/htman/i386/man1/mksh.htm)
 	8. [<img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em>Py](https://docs.python.org/3)
