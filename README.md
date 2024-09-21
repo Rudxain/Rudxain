@@ -51,10 +51,10 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 	6. [<img src=https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/16x16.svg width=16em height=16em>Bash](https://www.gnu.org/software/bash/manual)
 	7. [MKSh](http://www.mirbsd.org/htman/i386/man1/mksh.htm)
 	8. [<img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em>Py](https://docs.python.org/3)
-	9. [Scratch](https://scratch.mit.edu)
-	10. [HTML5](https://html.spec.whatwg.org)
-	11. [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
-	12. [SVG1](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
+	9. [HTML5](https://html.spec.whatwg.org)
+	10. [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+	11. [Scratch](https://scratch.mit.edu)
+ 12. [SVG1](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 	13. [BF](https://esolangs.org/wiki/BrainFuck)
 
 - 👀Interested
