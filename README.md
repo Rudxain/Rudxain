@@ -54,7 +54,7 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 	9. [HTML5](https://html.spec.whatwg.org)
 	10. [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 	11. [Scratch](https://scratch.mit.edu)
- 12. [SVG1](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
+	12. [SVG1](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 	13. [BF](https://esolangs.org/wiki/BrainFuck)
 
 - 👀Interested
