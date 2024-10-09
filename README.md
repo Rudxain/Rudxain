@@ -20,7 +20,7 @@
 	- in practice:
 	This takes into account all the stuff related to the langs (portability, documentation, std+community tools & libraries, ecosystem, etc...):
 	
-		0. JS. I'm ashamed of admitting it 🤦.
+		0. JS. It's [mid](https://www.urbandictionary.com/define.php?term=mid), but ubiquitous.
 		1. Bash & POSIX Shell.
 		2. 🦀Rs
 			- I love its _honesty_: It has abstractions that are **[leaky](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions) by design**.
@@ -35,7 +35,8 @@
 	This **only** takes into account the langs [in isolation](https://en.wikipedia.org/wiki/Spherical_cow) (type-system, syntax & grammar, stdlib, etc...):
 	
 		0. 🦀Rs. [For everything](https://github.com/ansuz/RIIR/issues/39#issuecomment-2039122371).
-		1. Any lang written in shapes that intuitively correspond to their semantics (such as BF dialects, and modern APL derivatives)
+		1. TS
+		2. Any lang written in shapes that intuitively correspond to their semantics (such as BF dialects, and modern APL derivatives)
 
 - 🧠Expertise: This takes into account my knowledge of the lang (and everything directly related to it), and my experience making useful, efficient, and correct/safe software in it.
 This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect), I'll try my best to list in an accurate order:
@@ -93,9 +94,11 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 <img src=https://raw.githubusercontent.com/mdn/yari/2720d1f9998be94428a822dcc06946d6a53879d0/client/src/assets/dino.svg width=16em height=16em>Moz <img src=https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg width=16em height=16em>Firefox
 
 ## Terminal
+- <img src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em>Android: Termux
 - <img src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em>Linux: GNOME [Terminal](https://wiki.gnome.org/Apps/Terminal)
 - 👀Interested
 	- GNOME [Console](https://apps.gnome.org/app/org.gnome.Console)
 	- [Alacri`tty`](https://alacritty.org)
 	- [Ki`tty`](https://sw.kovidgoyal.net/kitty)
-- <img src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em>Android: Termux
+
+
