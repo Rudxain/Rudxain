@@ -21,11 +21,11 @@
 	This takes into account all the stuff related to the langs (portability, documentation, std+community tools & libraries, ecosystem, etc...):
 	
 		0. JS. I'm ashamed of admitting it 🤦.
-		1. Bash & POSIX Shell
+		1. Bash & POSIX Shell.
 		2. 🦀Rs
 			- I love its _honesty_: It has abstractions that are **[leaky](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions) by design**.
 			> [Rust \[is\] both as low-level as C, and as high-level as Lisp, whereas most other popular languages are stuck somewhere in the middle.](https://github.com/0atman/noboilerplate/blob/1eab51863994129b0c31f1d6925c5bd6299f4dc9/scripts/03-rust-turtles-all-the-way-down.md)
-		3. TS. It should be top#3 (mostly because of conditional types), but it sits in an "awkward middle" between "type-safe scripting" (JSDoc) and "amazing dev-xp, requires building" (Rs)
+		3. TS. It sits in an "awkward middle" between "type-safe scripting" (JSDoc) and "amazing dev-xp, requires building" (Rs)
 		4. <img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em>Py.
 			- My fav argument against [Py's colons](https://docs.python.org/3/faq/design.html#why-are-colons-required-for-the-if-while-def-class-statements) is:
 			> > _The colons are an extra visual clue to scanning the blocks. As such, they improve readability, one of Python's main strengths._
