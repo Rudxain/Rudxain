@@ -1,10 +1,8 @@
 # Me
 
 ## Personal
-- Doing [<img src='https://avatars.githubusercontent.com/u/173197237?s=200&v=4' width=16em height=16em>CIC](https://github.com/Cincinnatus-Institute-of-Craftsmanship) "Proyecto Transformación Digital"
-- Might consider leaving GH, [for many reasons](https://gavinhoward.com/2020/04/i-am-moving-away-from-github).
-	- The fact that [GL nukes dead accounts](https://about.gitlab.com/privacy/#how-does-gitLab-secure-my-personal-data) is a deal-breaker for me.
-	- I've heard of [Code-Berg](https://codeberg.org), it seems interesting.
+- Working on [<img src='https://avatars.githubusercontent.com/u/173197237?s=200&v=4' width=16em height=16em>CIC](https://github.com/Cincinnatus-Institute-of-Craftsmanship) "Proyecto Transformación Digital"
+- Might consider leaving GH, [for many reasons](https://giveupgithub.org)
 - If I contribute to any of your repos, I hope you do the same for me and/or other people :)
 
 ## Repos
