@@ -18,7 +18,7 @@
 	- in practice:
 	This takes into account all the stuff related to the langs (portability, documentation, std+community tools & libraries, ecosystem, etc...):
 	
-		0. JS. It's [mid](https://www.urbandictionary.com/define.php?term=mid), but ubiquitous.
+		0. JS. It's bad, but JSDoc+`//@ts-check` makes it [mid](https://www.urbandictionary.com/define.php?term=mid).
 		1. Bash & POSIX Shell.
 		2. 🦀Rs
 			- I love its _honesty_: It has abstractions that are **[leaky](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions) by design**.
@@ -65,6 +65,7 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 		```
 	3. <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg width=16em height=16em>(Common Lisp)
 	4. [Hylo](https://www.hylo-lang.org)
+	5. [Eff](http://www.eff-lang.org)
 
 ## Editor
 0. ❤Fav & fluent: [<img src=https://raw.githubusercontent.com/helix-editor/helix/master/logo.svg width=16em height=16em>`hx`](https://github.com/helix-editor/helix)
