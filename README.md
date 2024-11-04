@@ -16,7 +16,7 @@
 
 - ❤Faves
 	- in practice:
-	This takes into account all the stuff related to the langs (portability, documentation, std+community tools & libraries, ecosystem, etc...):
+	This takes into account all the stuff related to the langs (ubiquity, portability, documentation, std+community tools & libraries, ecosystem, etc...):
 	
 		0. JS. It's bad, but JSDoc+`//@ts-check` makes it [mid](https://www.urbandictionary.com/define.php?term=mid).
 		1. Bash & POSIX Shell.
