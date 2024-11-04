@@ -18,7 +18,7 @@
 	- in practice:
 	This takes into account all the stuff related to the langs (ubiquity, portability, documentation, std+community tools & libraries, ecosystem, etc...):
 	
-		0. JS. It's bad, but JSDoc+`//@ts-check` makes it [mid](https://www.urbandictionary.com/define.php?term=mid).
+		0. JS. It's bad, but JSDoc makes it [mid](https://www.urbandictionary.com/define.php?term=mid).
 		1. Bash & POSIX Shell.
 		2. 🦀Rs
 			- I love its _honesty_: It has abstractions that are **[leaky](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions) by design**.
@@ -45,9 +45,18 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 	8. [<img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em>Py](https://docs.python.org/3)
 	9. [HTML5](https://html.spec.whatwg.org)
 	10. [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
-	11. [Scratch](https://scratch.mit.edu)
-	12. [SVG1](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
+	11. [SVG1](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
+	12. [Go](https://go.dev/ref/spec)
 	13. [BF](https://esolangs.org/wiki/BrainFuck)
+
+- Past experience:
+
+	0. [C](https://en.wikipedia.org/wiki/ANSI_C)
+	1. [Scratch](https://scratch.mit.edu)
+	2. [Google AppSheet](https://www.appsheet.com)
+	3. SQL
+	4. [Geometry Dash Editor 2.2](https://www.boomlings.com/GDEditor)
+	5. PowerShell
 
 - 👀Interested
 
@@ -69,7 +78,7 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 
 ## Editor
 0. ❤Fav & fluent: [<img src=https://raw.githubusercontent.com/helix-editor/helix/master/logo.svg width=16em height=16em>`hx`](https://github.com/helix-editor/helix)
-1. past experience: <img src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em>MS VS-code/[Monaco](https://github.com/microsoft/monaco-editor)
+1. Expertise (secondary): <img src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em>MS VS-code/[Monaco](https://github.com/microsoft/monaco-editor)
 
 ## OS
 - Using
@@ -95,4 +104,15 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 	- [Alacri`tty`](https://alacritty.org)
 	- [Ki`tty`](https://sw.kovidgoyal.net/kitty)
 
-
+## Other tools
+- 🧠Expertise:
+	1. [Node 20](https://nodejs.org/docs/latest-v20.x/api/index.html)
+	2. [ADB](https://developer.android.com/tools/adb)
+	3. JSX & React
+	4. Py Flask
+	5. Iced-Rs
+- Past experience:
+	1. JQuery
+	2. Jest
+- 👀Interested:
+	1. Deno
