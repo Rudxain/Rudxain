@@ -51,12 +51,13 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 
 - Past experience:
 
-	0. [C](https://en.wikipedia.org/wiki/ANSI_C)
-	1. [Scratch](https://scratch.mit.edu)
-	2. [Google AppSheet](https://www.appsheet.com)
-	3. SQL
+	0. [Gleam](https://gleam.run/documentation)
+	1. [C17](https://en.wikipedia.org/wiki/ANSI_C)
+	2. [Scratch](https://scratch.mit.edu)
+	3. [Google AppSheet](https://www.appsheet.com)
 	4. [Geometry Dash Editor 2.2](https://www.boomlings.com/GDEditor)
-	5. PowerShell
+	5. SQL
+	6. PowerShell
 
 - 👀Interested
 
