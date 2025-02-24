@@ -47,7 +47,8 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 	10. [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 	11. [SVG1](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 	12. [Go](https://go.dev/ref/spec)
-	13. [BF](https://esolangs.org/wiki/BrainFuck)
+	13. GLSL v3.0 Fragment Shaders
+	14. [BF](https://esolangs.org/wiki/BrainFuck)
 
 - Past experience:
 
