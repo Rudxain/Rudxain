@@ -41,7 +41,8 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 	4. [🦀Rs](https://doc.rust-lang.org/reference)
 	5. [POSIX `sh`](https://pubs.opengroup.org/onlinepubs/9799919799/utilities/V3_chap02.html)
 	6. [HTML5](https://html.spec.whatwg.org/multipage/)
-	7. [BF](https://esolangs.org/wiki/BrainFuck)
+	7. GLSL v3.0 Fragment Shaders
+	8. [BF](https://esolangs.org/wiki/BrainFuck)
 
 
 - Past experience. The list is biased and non-exhaustive, as it only has langs that are "wildly different" to the ones listed above, for the sake of complement:
