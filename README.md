@@ -67,7 +67,7 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 	3. <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg width=16em height=16em>(Common Lisp)
 	4. [Hylo](https://www.hylo-lang.org)
 	5. [Eff](http://www.eff-lang.org)
-	6. [ReScript](https://rescript-lang.org)
+	6. [🧿 Pipefish](https://github.com/tim-hardcastle/Pipefish). I've found it when searching langs with 1st class support for "rollbacks" (undo internal side-effects)
 
 ## Editor
 0. ❤Fav & fluent: [<img src=https://raw.githubusercontent.com/helix-editor/helix/master/logo.svg width=16em height=16em>`hx`](https://github.com/helix-editor/helix)
