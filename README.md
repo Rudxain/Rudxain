@@ -40,6 +40,9 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 	3. [TS](https://www.typescriptlang.org/docs)
 	4. [🦀Rs](https://doc.rust-lang.org/reference)
 	5. [POSIX `sh`](https://pubs.opengroup.org/onlinepubs/9799919799/utilities/V3_chap02.html)
+	6. [HTML5](https://html.spec.whatwg.org)
+	7. GLSL v3.0 Fragment Shaders
+	8. [BF](https://esolangs.org/wiki/BrainFuck)
 
 - Past experience. The list is biased and non-exhaustive, as it only has langs that are "wildly different" to the ones listed above, for the sake of complement:
 
@@ -74,7 +77,7 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 - Using
 
 	0. <img src=https://www.debian.org/logos/openlogo-nd.svg width=16em height=16em>Debian Testing
-	1. <img src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em>Android 12.0 (can't update), S One UI 4.1
+	1. <img src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em>Android 14
 - Past experience: <img src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em>MS <img src=https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg width=16em height=16em>Windows \{XP, 7, 8.1, 10, 11}
 
 - 👀Interested
