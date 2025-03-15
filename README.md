@@ -99,9 +99,10 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 
 ## Other tools
 - 🧠Expertise:
-	1. [Node 20](https://nodejs.org/docs/latest-v20.x/api/index.html)
-	2. [ADB](https://developer.android.com/tools/adb)
-	3. JSX & React
+	1. [Git](https://git-scm.com/docs)
+	2. [Node 20](https://nodejs.org/docs/latest-v20.x/api/index.html)
+	3. [ADB](https://developer.android.com/tools/adb)
+	4. [JSX](https://facebook.github.io/jsx) & [React](https://react.dev/reference/react)
 - Past experience:
 	1. JQuery
 	2. Py Flask
