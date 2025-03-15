@@ -25,7 +25,7 @@
 			> [Rust \[is\] both as low-level as C, and as high-level as Lisp, whereas most other popular languages are stuck somewhere in the middle.](https://github.com/0atman/noboilerplate/blob/1eab51863994129b0c31f1d6925c5bd6299f4dc9/scripts/03-rust-turtles-all-the-way-down.md)
 		3. TS. It sits in an "awkward middle" between "type-safe scripting" (JSDoc) and "amazing dev-xp, requires building" (Rs)
 	- in theory (idealized):
-	This **only** takes into account the langs [in isolation](https://en.wikipedia.org/wiki/Spherical_cow) (type-system, syntax & grammar, stdlib, etc...):
+	This **only** takes into account the langs [in isolation](https://en.wikipedia.org/wiki/Spherical_cow) (type-system, syntax & grammar, std-lib, etc...):
 	
 		0. 🦀Rs. [For everything](https://github.com/ansuz/RIIR/issues/39#issuecomment-2039122371).
 		1. TS
@@ -34,7 +34,7 @@
 - 🧠Expertise: This takes into account my knowledge of the lang (and everything directly related to it), and my experience making useful, efficient, and correct/safe software in it.
 This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect), I'll try my best to list in an accurate order. The list is non-exhaustive, as it focuses on specialization/fluency:
 
-	0. [A.R.T. REs](https://developer.android.com/reference/java/util/regex/Pattern), I'm expert at ⚡optimizing them 🚀
+	0. [A.R.T. REs](https://developer.android.com/reference/java/util/regex/Pattern). I've even [catched an implementation bug](https://issuetracker.google.com/issues/239189096) (non-compliant with the Java spec) 🗿
 	1. [<img src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em>AM](https://llamalab.com/automate/doc)
 	2. [JS](https://tc39.es/ecma262/)
 	3. [TS](https://www.typescriptlang.org/docs)
@@ -102,10 +102,8 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 	1. [Node 20](https://nodejs.org/docs/latest-v20.x/api/index.html)
 	2. [ADB](https://developer.android.com/tools/adb)
 	3. JSX & React
-	4. Py Flask
-	5. Iced-Rs
 - Past experience:
 	1. JQuery
-	2. Jest
+	2. Py Flask
 - 👀Interested:
 	1. Deno
