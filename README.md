@@ -32,33 +32,23 @@
 		2. Any lang written in shapes that intuitively correspond to their semantics (such as BF dialects, and modern APL derivatives)
 
 - 🧠Expertise: This takes into account my knowledge of the lang (and everything directly related to it), and my experience making useful, efficient, and correct/safe software in it.
-This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect), I'll try my best to list in an accurate order:
+This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect), I'll try my best to list in an accurate order. The list is non-exhaustive, as it focuses on specialization/fluency:
 
-	0. [A.R.T. REs](https://developer.android.com/reference/java/util/regex/Pattern), I'm expert at ⚡optimizing them 🚀; [DSV](https://en.wikipedia.org/wiki/Delimiter-separated_values) \(almost any dialect).
+	0. [A.R.T. REs](https://developer.android.com/reference/java/util/regex/Pattern), I'm expert at ⚡optimizing them 🚀
 	1. [<img src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em>AM](https://llamalab.com/automate/doc)
 	2. [JS](https://tc39.es/ecma262/)
 	3. [TS](https://www.typescriptlang.org/docs)
 	4. [🦀Rs](https://doc.rust-lang.org/reference)
-	5. [POSIX `sh`](https://pubs.opengroup.org/onlinepubs/9799919799/utilities/V3_chap02.html)
-	6. [<img src=https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/16x16.svg width=16em height=16em>Bash](https://www.gnu.org/software/bash/manual)
-	7. [MKSh](http://www.mirbsd.org/htman/i386/man1/mksh.htm)
-	8. [<img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg width=16em height=16em>Py](https://docs.python.org/3)
-	9. [HTML5](https://html.spec.whatwg.org)
-	10. [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
-	11. [SVG1](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
-	12. [Go](https://go.dev/ref/spec)
-	13. GLSL v3.0 Fragment Shaders
-	14. [BF](https://esolangs.org/wiki/BrainFuck)
+	5. [POSIX `sh`](https://pubs.opengroup.org/onlinepubs/9799919799/utilities/V3_chap02.html) (implies basic Bash and MirBSD Korn shell)
+	6. [HTML5](https://html.spec.whatwg.org)
+	7. GLSL v3.0 Fragment Shaders
+	8. [BF](https://esolangs.org/wiki/BrainFuck)
 
-- Past experience:
+- Past experience. The list is biased and non-exhaustive, as it only has langs that are "wildly different" to the ones listed above, for the sake of complement:
 
-	0. [Gleam](https://gleam.run/documentation)
-	1. [C17](https://en.wikipedia.org/wiki/ANSI_C)
-	2. [Scratch](https://scratch.mit.edu)
-	3. [Google AppSheet](https://www.appsheet.com)
-	4. [Geometry Dash Editor 2.2](https://www.boomlings.com/GDEditor)
-	5. SQL
-	6. PowerShell
+	1. [Scratch](https://scratch.mit.edu)
+	2. [Google AppSheet](https://www.appsheet.com)
+	3. [Geometry Dash Editor 2.2](https://www.boomlings.com/GDEditor)
 
 - 👀Interested
 
