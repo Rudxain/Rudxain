@@ -92,10 +92,7 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 ## Terminal
 - <img src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em>Android: [Termux](https://github.com/termux/termux-app/actions/workflows/debug_build.yml?query=branch%3Amaster+event%3Apush)
 - <img src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em>Linux: GNOME [Terminal](https://wiki.gnome.org/Apps/Terminal)
-- 👀Interested
-	- [Alacri`tty`](https://alacritty.org)
-	- [Ki`tty`](https://sw.kovidgoyal.net/kitty)
-	- [Ghos`tty`](https://ghostty.org)
+- 👀Interested: [Ghos`tty`](https://ghostty.org)
 
 ## Other tools
 - 🧠Expertise:
