@@ -17,7 +17,7 @@
 - ❤️ Faves
 	- in practice:
 	This takes into account all the stuff related to the langs (ubiquity, portability, documentation, std+community tools & libraries, ecosystem, etc...):
-	
+
 		0. JS. It's bad, but JSDoc makes it [mid](https://www.urbandictionary.com/define.php?term=mid).
 		1. Bash & POSIX Shell.
 		2. 🦀 Rs
@@ -26,7 +26,7 @@
 		3. TS. It sits in an "awkward middle" between "type-safe scripting" (JSDoc) and "amazing dev-xp, requires building" (Rs)
 	- in theory (idealized):
 	This **only** takes into account the langs [in isolation](https://en.wikipedia.org/wiki/Spherical_cow) (type-system, syntax & grammar, std-lib, etc...):
-	
+
 		0. 🦀 Rs. [For everything](https://github.com/ansuz/RIIR/issues/39#issuecomment-2039122371).
 		1. TS
 		2. Any lang written in shapes that intuitively correspond to their semantics (such as BF dialects, and modern APL derivatives)
@@ -101,5 +101,5 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 	1. GNOME Characters
 	2. `nuke` (`rm -rf --`)
 	3. `command-not-found`
-	4. `busybox nc` (NetCat). Better than LocalSend, for my use-cases
+	4. NetCat: Better than LocalSend, for my use-cases
 	5. GNOME `baobab` ("Disk Usage Analyzer")
