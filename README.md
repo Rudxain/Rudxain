@@ -11,9 +11,6 @@
 - I may **delete any of [my Gists](https://gist.github.com/Rudxain) without warning**. The most likely reason is due to moving its contents to an actual repo.
 
 ## Langs
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=rudxain&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=rudxain&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
 - ❤️ Faves
 	- in practice:
 	This takes into account all the stuff related to the langs (ubiquity, portability, documentation, std+community tools & libraries, ecosystem, etc...):
