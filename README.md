@@ -13,14 +13,11 @@
 ## Langs
 - ❤️ Faves
 	- in practice:
-	This takes into account all the stuff related to the langs (ubiquity, portability, documentation, std+community tools & libraries, ecosystem, etc...):
+	This takes into account all the stuff related to the langs (ubiquity, portability, docs, std+community tools & libs, etc...):
 
-		0. JS. It's bad, but JSDoc makes it [mid](https://www.urbandictionary.com/define.php?term=mid).
-		1. Bash & POSIX Shell.
-		2. 🦀 Rs
-			- I love its _honesty_: It has abstractions that are **[leaky](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions) by design**.
-			> [Rust \[is\] both as low-level as C, and as high-level as Lisp, whereas most other popular languages are stuck somewhere in the middle.](https://github.com/0atman/noboilerplate/blob/1eab51863994129b0c31f1d6925c5bd6299f4dc9/scripts/03-rust-turtles-all-the-way-down.md)
-		3. TS. It sits in an "awkward middle" between "type-safe scripting" (JSDoc) and "amazing dev-xp, requires building" (Rs)
+		0. JS+`ts-check`+JSDoc / TS
+		1. 🦀 Rs. See [FireFlowers](https://brson.github.io/fireflowers) to understand why.
+		2. Bash & POSIX Shell
 	- in theory (idealized):
 	This **only** takes into account the langs [in isolation](https://en.wikipedia.org/wiki/Spherical_cow) (type-system, syntax & grammar, std-lib, etc...):
 
