@@ -20,7 +20,7 @@
 		1. 🦀 Rs. See [FireFlowers](https://brson.github.io/fireflowers) to understand why.
 		2. Bash & POSIX Shell
 	- in theory (idealized):
-	This **only** takes into account the langs [in isolation](https://en.wikipedia.org/wiki/Spherical_cow) (type-system, syntax & grammar, std-lib, etc...):
+	This **only** takes into account the langs [in isolation](https://en.wikipedia.org/wiki/Spherical_cow) (semantics, type-system, syntax & grammar, std-lib, etc...):
 
 		0. 🦀 Rs. [For everything](https://github.com/ansuz/RIIR/issues/39#issuecomment-2039122371).
 		1. TS
