@@ -90,8 +90,8 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 - 🧠 Expertise:
 	1. [uBO](https://github.com/gorhill/uBlock/wiki)
 	2. [`coreutils`](https://www.gnu.org/software/coreutils/manual/), [`busybox`](https://www.busybox.net/downloads/BusyBox.html), [`toybox`](https://www.landley.net/toybox/help.html)
-	3. [Git](https://git-scm.com/docs)
-	4. [ADB](https://developer.android.com/tools/adb)
+	3. [ADB](https://android.googlesource.com/platform/packages/modules/adb/+/refs/heads/main/docs/)
+	4. [Git](https://git-scm.com/docs)
 	5. [JSX](https://facebook.github.io/jsx) & [React](https://react.dev/reference/react)
 - ❤️ Faves
 	1. GNOME Characters
