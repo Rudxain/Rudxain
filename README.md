@@ -64,8 +64,7 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 	7. [🧿 Pipefish](https://github.com/tim-hardcastle/Pipefish). I've found it when searching langs with first-class support for "rollbacks" (undo internal side-effects)
 
 ## Editor
-0. ❤️ Fav & ⭐ fluent: [<img src=https://raw.githubusercontent.com/helix-editor/helix/master/logo.svg width=16em height=16em> `hx`](https://docs.helix-editor.com/master/)
-1. Expertise (secondary): <img src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em> MS VS-code/[Monaco](https://github.com/microsoft/monaco-editor)
+❤️ Fav & ⭐ fluent: [<img src=https://raw.githubusercontent.com/helix-editor/helix/master/logo.svg width=16em height=16em> `hx`](https://docs.helix-editor.com/master/)
 
 ## OS
 - Using
