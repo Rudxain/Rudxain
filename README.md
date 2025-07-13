@@ -84,10 +84,10 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 - <img src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em> Linux: GNOME [Terminal](https://wiki.gnome.org/Apps/Terminal)
 
 ## Other tools
-- 🧠 Expertise:
-	1. [uBO](https://github.com/gorhill/uBlock/wiki)
-	2. [`coreutils`](https://www.gnu.org/software/coreutils/manual/), [`busybox`](https://www.busybox.net/downloads/BusyBox.html), [`toybox`](https://www.landley.net/toybox/help.html)
-	3. [ADB](https://android.googlesource.com/platform/packages/modules/adb/+/refs/heads/main/docs/)
+- 🧠 Expertise (relatively):
+	1. [ADB](https://android.googlesource.com/platform/packages/modules/adb/+/refs/heads/main/docs/)
+	2. [uBO](https://github.com/gorhill/uBlock/wiki)
+	3. [`coreutils`](https://www.gnu.org/software/coreutils/manual/), [`busybox`](https://www.busybox.net/downloads/BusyBox.html), [`toybox`](https://www.landley.net/toybox/help.html)
 	4. [Git](https://git-scm.com/docs)
 	5. [JSX](https://facebook.github.io/jsx) & [React](https://react.dev/reference/react)
 - ❤️ Faves
