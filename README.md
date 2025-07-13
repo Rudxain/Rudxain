@@ -49,17 +49,10 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 		- RISC-V
 	2. [Bend](https://github.com/HigherOrderCO/Bend) & [Kind](https://github.com/HigherOrderCO/kind2), because of HVM
 	3. 🕊️ Ada
-		- It statically-checks [ranges](https://learn.adacore.com/courses/intro-to-ada/chapters/strongly_typed_language.html#integers) at the type-system level! something that [Pkl](https://pkl-lang.org/main/current/language-reference/index.html#integers) does, but Rs and TS don't:
-		```ada
-		-- 32bit target arch
-		type Integer is range -(2 ** 31) .. +(2 ** 31 - 1);
-		-- I love this so much that
-		-- I hate Py and Rs in comparison 😭
-		```
 	4. <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg width=16em height=16em> (Common Lisp)
 	5. [Hylo](https://www.hylo-lang.org)
 	6. [Koka](https://koka-lang.github.io/koka/doc/index.html) & [Eff](http://www.eff-lang.org)
-	7. [🧿 Pipefish](https://github.com/tim-hardcastle/Pipefish). I've found it when searching langs with first-class support for "rollbacks" (undo internal side-effects)
+	7. [🧿 Pipefish](https://github.com/tim-hardcastle/Pipefish)
 
 ## Editor
 ❤️ Fav & ⭐ fluent: [<img src=https://raw.githubusercontent.com/helix-editor/helix/master/logo.svg width=16em height=16em> `hx`](https://docs.helix-editor.com/master/)
