@@ -54,6 +54,8 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 	6. [Koka](https://koka-lang.github.io/koka/doc/index.html) & [Eff](http://www.eff-lang.org)
 	7. [🧿 Pipefish](https://github.com/tim-hardcastle/Pipefish)
 
+Despite my love for langs like Rust, I still respect langs like C and Go, for the same reason why I respect λ-Calculus and Gleam: simplicity. This is why [**C++ is an abomination that must be exterminated**](https://mikelui.io/2019/01/03/seriously-bonkers).
+
 ## Editor
 ❤️ Fav & ⭐ fluent: [<img src=https://raw.githubusercontent.com/helix-editor/helix/master/logo.svg width=16em height=16em> `hx`](https://docs.helix-editor.com/master/)
 
