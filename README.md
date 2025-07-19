@@ -57,7 +57,7 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 Despite my love for langs like Rust, I still respect langs like C and Go, for the same reason why I respect λ-Calculus and Gleam: simplicity. This is why [**C++ is an abomination that must be exterminated**](https://mikelui.io/2019/01/03/seriously-bonkers). See also ["There is No Best Programming Language (but some are still better than others)"](https://www.thecodedmessage.com/posts/best-programming-language)
 
 ## Editor
-❤️ Fav & ⭐ fluent: [<img src=https://raw.githubusercontent.com/helix-editor/helix/master/logo.svg width=16em height=16em> `hx`](https://docs.helix-editor.com/master/)
+❤️ Fav & ⭐ fluent: [<img src=https://raw.githubusercontent.com/helix-editor/helix/master/logo.svg width=32em height=32em> `hx`](https://docs.helix-editor.com/master/)
 
 ## OS
 - Using
