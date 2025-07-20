@@ -40,8 +40,8 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 	8. [BF](https://esolangs.org/wiki/BrainFuck)
 
 - 📖 Learning
-	- 💾 Assembly x86
-	- Godot Scene Editor & GDScript
+	- 💾 Assembly x86. Only for reading, not writing
+	- [Kristal](https://kristal.cc/wiki/) & [Lua](https://www.lua.org/)
 
 - 👀 Interested
 	1. 💾 Assembly
