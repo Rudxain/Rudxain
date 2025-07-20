@@ -1,8 +1,10 @@
 # Me
 
 ## Personal
-- Working on [<img src='https://avatars.githubusercontent.com/u/173197237?s=200&v=4' width=16em height=16em> CIC](https://github.com/Cincinnatus-Institute-of-Craftsmanship) "Proyecto Transformación Digital"
 - Might consider leaving GH, [for many reasons](https://giveupgithub.org)
+- Working on [deltarune FATE](https://gamejolt.com/games/drFATE/975648). [More info here](https://youtube.com/post/Ugkx3m2OCbbsRuw2FCyQdlJ838JoT9zOixni).
+	- I feel like every other team-member did more work than me (as of now), even the new ones (such as BrutalSword). Props to them! They inspire me.
+- Working on [<img src='https://avatars.githubusercontent.com/u/173197237?s=200&v=4' width=16em height=16em> CIC](https://github.com/Cincinnatus-Institute-of-Craftsmanship) "Proyecto Transformación Digital"
 - If I contribute to any of your repos, I hope you do the same for me and/or other people :) . Isn't that the spirit of open-source?
 - I strive to make tools that are accessible to everyone (majority and minorities, abled and disabled), but that's sometimes impossible. I typically focus on visual accessibility; but I know there's auditive, motion, and cognitive impairments.
 
@@ -35,14 +37,14 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 	3. [TS](https://www.typescriptlang.org/docs)
 	4. [🦀 Rs](https://doc.rust-lang.org/reference)
 	5. [POSIX `sh`](https://pubs.opengroup.org/onlinepubs/9799919799/utilities/V3_chap02.html) (implies basic Bash and MirBSD Korn shell)
-	6. [HTML5](https://html.spec.whatwg.org/multipage/)
-	7. GLSL v3.0 Fragment Shaders
-	8. [BF](https://esolangs.org/wiki/BrainFuck)
+	6. [Lua](https://www.lua.org/manual/)
+	7. [HTML5](https://html.spec.whatwg.org/multipage/)
+	8. GLSL v3.0 Fragment Shaders
+	9. [BF](https://esolangs.org/wiki/BrainFuck)
 
 
 - 📖 Learning
-	- 💾 Assembly x86
-	- Godot Scene Editor & GDScript
+	- 💾 Assembly x86. Only reading, not writing
 
 - 👀 Interested
 	1. 💾 Assembly
@@ -81,15 +83,18 @@ Despite my love for langs like Rust, I still respect langs like C and Go, for th
 - <img src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em> Linux: GNOME [Terminal](https://wiki.gnome.org/Apps/Terminal)
 
 ## Other tools
-- 🧠 Expertise (relatively):
-	1. [ADB](https://android.googlesource.com/platform/packages/modules/adb/+/refs/heads/main/docs/)
-	2. [uBO](https://github.com/gorhill/uBlock/wiki)
-	3. [`coreutils`](https://www.gnu.org/software/coreutils/manual/), [`busybox`](https://www.busybox.net/downloads/BusyBox.html), [`toybox`](https://www.landley.net/toybox/help.html)
-	4. [Git](https://git-scm.com/docs)
-	5. [JSX](https://facebook.github.io/jsx) & [React](https://react.dev/reference/react)
 - ❤️ Faves
 	1. GNOME Characters
 	2. `nuke` (`rm -rf --`)
 	3. `command-not-found`
 	4. NetCat: Better than LocalSend, for my use-cases
 	5. GNOME `baobab` ("Disk Usage Analyzer")
+- 🧠 Expertise (relatively):
+	1. [ADB](https://android.googlesource.com/platform/packages/modules/adb/+/refs/heads/main/docs/)
+	2. [uBO](https://github.com/gorhill/uBlock/wiki)
+	3. [`coreutils`](https://www.gnu.org/software/coreutils/manual/), [`busybox`](https://www.busybox.net/downloads/BusyBox.html), [`toybox`](https://www.landley.net/toybox/help.html)
+	4. [Git](https://git-scm.com/docs)
+	5. [JSX](https://facebook.github.io/jsx) & [React](https://react.dev/reference/react)
+- 📖 Learning
+	- [Kristal](https://kristal.cc/wiki/)
+	- [LÖVE](https://love2d.org/wiki/Main_Page)
