@@ -35,13 +35,14 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 	3. [TS](https://www.typescriptlang.org/docs)
 	4. [🦀 Rs](https://doc.rust-lang.org/reference)
 	5. [POSIX `sh`](https://pubs.opengroup.org/onlinepubs/9799919799/utilities/V3_chap02.html) (implies basic Bash and MirBSD Korn shell)
-	6. [HTML5](https://html.spec.whatwg.org)
-	7. GLSL v3.0 Fragment Shaders
-	8. [BF](https://esolangs.org/wiki/BrainFuck)
+	6. [Lua](https://www.lua.org/manual/)
+	7. [HTML5](https://html.spec.whatwg.org)
+	8. GLSL v3.0 Fragment Shaders
+	9. [BF](https://esolangs.org/wiki/BrainFuck)
 
 - 📖 Learning
 	- 💾 Assembly x86. Only for reading, not writing
-	- [Kristal](https://kristal.cc/wiki/) & [Lua](https://www.lua.org/)
+	- [Kristal](https://kristal.cc/wiki/)
 
 - 👀 Interested
 	1. 💾 Assembly
