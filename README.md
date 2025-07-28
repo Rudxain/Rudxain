@@ -43,8 +43,7 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 	9. [BF](https://esolangs.org/wiki/BrainFuck)
 
 - 📖 Learning
-	- 💾 Assembly x86. Only for reading, not writing
-	- [Kristal](https://kristal.cc/wiki/)
+	- 💾 Assembly x86. Only reading, not writing
 
 - 👀 Interested
 	1. 💾 Assembly
@@ -83,15 +82,18 @@ Despite my love for langs like Rust, I still respect langs like C and Go, for th
 - <img src=https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg width=16em height=16em> Linux: GNOME [Terminal](https://wiki.gnome.org/Apps/Terminal)
 
 ## Other tools
-- 🧠 Expertise (relatively):
-	1. [ADB](https://android.googlesource.com/platform/packages/modules/adb/+/refs/heads/main/docs/)
-	2. [uBO](https://github.com/gorhill/uBlock/wiki)
-	3. [`coreutils`](https://www.gnu.org/software/coreutils/manual/), [`busybox`](https://www.busybox.net/downloads/BusyBox.html), [`toybox`](https://www.landley.net/toybox/help.html)
-	4. [Git](https://git-scm.com/docs)
-	5. [JSX](https://facebook.github.io/jsx) & [React](https://react.dev/reference/react)
 - ❤️ Faves
 	1. GNOME Characters
 	2. `nuke` (`rm -rf --`)
 	3. `command-not-found`
 	4. NetCat: Better than LocalSend, for my use-cases
 	5. GNOME `baobab` ("Disk Usage Analyzer")
+- 🧠 Expertise (relatively):
+	1. [ADB](https://android.googlesource.com/platform/packages/modules/adb/+/refs/heads/main/docs/)
+	2. [uBO](https://github.com/gorhill/uBlock/wiki)
+	3. [`coreutils`](https://www.gnu.org/software/coreutils/manual/), [`busybox`](https://www.busybox.net/downloads/BusyBox.html), [`toybox`](https://www.landley.net/toybox/help.html)
+	4. [Git](https://git-scm.com/docs)
+	5. [JSX](https://facebook.github.io/jsx) & [React](https://react.dev/reference/react)
+- 📖 Learning
+	- [Kristal](https://kristal.cc/wiki/)
+	- [LÖVE](https://love2d.org/wiki/Main_Page)
