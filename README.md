@@ -1,8 +1,10 @@
 # Me
 
 ## Personal
-- Working on [<img src='https://avatars.githubusercontent.com/u/173197237?s=200&v=4' width=16em height=16em> CIC](https://github.com/Cincinnatus-Institute-of-Craftsmanship) "Proyecto Transformación Digital"
 - Might consider leaving GH, [for many reasons](https://giveupgithub.org)
+- Working on [deltarune FATE](https://gamejolt.com/games/drFATE/975648). [More info here](https://youtube.com/post/Ugkx3m2OCbbsRuw2FCyQdlJ838JoT9zOixni).
+	- I feel like every other team-member did more work than me (as of now), even the new ones (such as BrutalSword). Props to them! They inspire me.
+- Working on [<img src='https://avatars.githubusercontent.com/u/173197237?s=200&v=4' width=16em height=16em> CIC](https://github.com/Cincinnatus-Institute-of-Craftsmanship) "Proyecto Transformación Digital"
 - If I contribute to any of your repos, I hope you do the same for me and/or other people :) . Isn't that the spirit of open-source?
 - I strive to make tools that are accessible to everyone (majority and minorities, abled and disabled), but that's sometimes impossible. I typically focus on visual accessibility; but I know there's auditive, motion, and cognitive impairments.
 
