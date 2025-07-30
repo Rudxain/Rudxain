@@ -8,6 +8,7 @@
 - If I contribute to any of your repos, I hope you do the same for me and/or other people :) . Isn't that the spirit of open-source?
 - Recently, I'm prioritizing code-quality over features. However, I strive to make useful apps and entertaining art (all media types)
 - I strive to make tools that are accessible to everyone (majority and minorities, abled and disabled), but that's sometimes impossible. I typically focus on visual accessibility; but I know there's auditive, motion, and cognitive impairments.
+- I'm practicing implementing parsers, to avoid regexes, and to learn about optimizing state-machines.
 
 ## Repos
 - I'll **delete any fork** that has 0 ["Yours"](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/viewing-branches-in-your-repository)(from my POV) branches. Therefore, links to such forks may become [broken](https://en.wikipedia.org/wiki/Link_rot) (not dead, because it's not permanent).
