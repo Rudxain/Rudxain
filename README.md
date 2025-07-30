@@ -6,7 +6,7 @@
 	- I feel like every other team-member did more work than me (as of now), even the new ones (such as BrutalSword). Props to them! They inspire me.
 - Working on [<img src='https://avatars.githubusercontent.com/u/173197237?s=200&v=4' width=16em height=16em> CIC](https://github.com/Cincinnatus-Institute-of-Craftsmanship) "Proyecto Transformación Digital"
 - If I contribute to any of your repos, I hope you do the same for me and/or other people :) . Isn't that the spirit of open-source?
-- Recently, I'm prioritizing code-quality over features. However, I strive to make useful apps and entertaining art (all media types)
+- Recently, I've been prioritizing code-quality and documentation over features. However, I strive to make useful apps and entertaining art (all media types)
 - I strive to make tools that are accessible to everyone (majority and minorities, abled and disabled), but that's sometimes impossible. I typically focus on visual accessibility; but I know there's auditive, motion, and cognitive impairments.
 - I'm practicing implementing parsers, to avoid regexes, and to learn about optimizing state-machines.
 
