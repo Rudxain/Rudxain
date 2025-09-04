@@ -2,13 +2,12 @@
 
 ## Personal
 - Might consider leaving GH, [for many reasons](https://giveupgithub.org)
+- Studying for a diploma in cyber-security.
 - Working temporarily as an assistant, mostly being a digitizer and receptionist (includes customer service), at a college/university. It's not official, so I don't have a title.
 - Working on [deltarune FATE](https://gamejolt.com/games/drFATE/975648). [More info here](https://youtube.com/post/Ugkx3m2OCbbsRuw2FCyQdlJ838JoT9zOixni).
 - Working on [<img src='https://avatars.githubusercontent.com/u/173197237?s=200&v=4' width=16em height=16em> CIC](https://github.com/Cincinnatus-Institute-of-Craftsmanship) "Proyecto Transformación Digital"
-- If I contribute to any of your repos, I hope you do the same for me and/or other people :) . Isn't that the spirit of open-source?
-- Recently, I've been prioritizing code-quality and documentation over features. However, I strive to make useful apps and entertaining art (all media types)
-- I strive to make tools that are accessible to everyone (majority and minorities, abled and disabled), but that's sometimes impossible. I typically focus on visual accessibility; but I know there's auditive, motion, and cognitive impairments.
-- I'm practicing implementing parsers, to avoid regexes, and to learn about optimizing state-machines.
+- I strive to make useful apps and entertaining art (all media types), despite my focus on code-quality and documentation.
+- I strive to make tools that provive good UX and are accessible to everyone (majority and minorities, abled and disabled), but that's sometimes impossible. I typically focus on visual accessibility; but I know there's auditive, motion, and cognitive impairments.
 
 ## Repos
 - I'll **delete any fork** that has 0 ["Yours"](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/viewing-branches-in-your-repository)(from my POV) branches. Therefore, links to such forks may become [broken](https://en.wikipedia.org/wiki/Link_rot) (not dead, because it's not permanent).
