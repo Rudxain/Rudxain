@@ -97,8 +97,7 @@ That doesn't mean JS is exempted from scrutiny:
 	1. [ADB](https://android.googlesource.com/platform/packages/modules/adb/+/refs/heads/main/docs/)
 	2. [uBO](https://github.com/gorhill/uBlock/wiki)
 	3. [`coreutils`](https://www.gnu.org/software/coreutils/manual/), [`busybox`](https://www.busybox.net/downloads/BusyBox.html), [`toybox`](https://www.landley.net/toybox/help.html)
-	4. [Git](https://git-scm.com/docs)
+	4. [<img src=https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg width=16em height=16em> Git](https://git-scm.com/docs)
 	5. [JSX](https://facebook.github.io/jsx) & [React](https://react.dev/reference/react)
 - 📖 Learning
-	- [Kristal](https://kristal.cc/wiki/)
-	- [LÖVE](https://love2d.org/wiki/Main_Page)
+	- [<img src=https://raw.githubusercontent.com/KristalTeam/Kristal/bbda70bc1469f8cd6e1d8a5b79350024865cb3e7/icon.png width=16em height=16em> Kristal](https://kristal.cc/wiki/)
