@@ -71,7 +71,7 @@ That doesn't mean JS is exempted from scrutiny:
 
 	0. <img src=https://www.debian.org/logos/openlogo-nd.svg width=16em height=16em> Debian Testing
 	1. <img src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em> Android 14
-- Past experience: <img src=https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg width=16em height=16em> M$ <img src=https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg width=16em height=16em> Winbloat \{XP, 7, 8.1, 10, 11}
+- Past experience: [M$](https://consumerrights.wiki/Microsoft) [Winbloat](https://www.gnu.org/philosophy/why-call-it-the-swindle) \{XP, 7, 8.1, 10, 11}
 
 - 👀 Interested
 	1. [<img src=https://raw.githubusercontent.com/NixOS/nixos-artwork/f84c13adae08e860a7c3f76ab3a9bef916d276cc/logo/nix-snowflake-colours.svg width=16em height=16em> Nix](https://nixos.org)
