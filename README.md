@@ -30,7 +30,7 @@
 		2. Any lang written in shapes that intuitively correspond to their semantics (such as BF dialects, and modern APL derivatives)
 
 - 🧠 Expertise: This takes into account my knowledge of the lang (and everything directly related to it), and my experience making useful, efficient, and correct/safe software in it.
-This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect), I'll try my best to list in an accurate order. The list is non-exhaustive, as it focuses on specialization/fluency:
+This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect), I'll try my best to list in an accurate order. The list is non-exhaustive, as it focuses on specialization and fluency:
 
 	0. [A.R.T. REs](https://developer.android.com/reference/java/util/regex/Pattern). I've even [catched an implementation bug](https://issuetracker.google.com/issues/239189096) (non-compliant with the Java spec) 🗿
 	1. [<img src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em> AM](https://llamalab.com/automate/doc)
@@ -38,10 +38,10 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 	3. [TS](https://www.typescriptlang.org/docs)
 	4. [🦀 Rs](https://doc.rust-lang.org/reference)
 	5. [POSIX `sh`](https://pubs.opengroup.org/onlinepubs/9799919799/utilities/V3_chap02.html) (implies basic Bash and MirBSD Korn shell)
-	6. [Lua](https://www.lua.org/manual/)
+	6. [BF](https://esolangs.org/wiki/BrainFuck). [Proof](https://github.com/baris-inandi/bfgo/pull/3).
 	7. [HTML5](https://html.spec.whatwg.org)
-	8. GLSL v3.0 Fragment Shaders
-	9. [BF](https://esolangs.org/wiki/BrainFuck)
+	8. [Lua](https://www.lua.org/manual/)
+	9. GLSL v3.0 Fragment Shaders
 
 - 📖 Learning
 	- 💾 Assembly x86. Only reading, not writing
