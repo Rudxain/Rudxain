@@ -62,6 +62,8 @@ That doesn't mean JS is exempted from scrutiny:
 - [`/denysdovhan/WTFJS/`](https://github.com/denysdovhan/wtfjs)
 - [`/brianleroux/WTFJS/`](https://github.com/brianleroux/wtfjs)
 
+BTW, [Bash is almost as insane as PHP](https://mywiki.wooledge.org/BashProgramming/05#Arithmetic_Expansion). See [this SC issue](https://github.com/koalaman/shellcheck/issues/3067).
+
 ## Editor
 ❤️ Fav & ⭐ fluent: [<img src=https://raw.githubusercontent.com/helix-editor/helix/master/logo.svg width=32em height=32em> `hx`](https://docs.helix-editor.com/master/)
 
