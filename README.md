@@ -17,10 +17,9 @@
 - ❤️ Faves
 	- in practice:
 	This takes into account all the stuff related to the langs (ubiquity, portability, docs, std+community tools & libs, etc...):
-
-		0. JS+`ts-check`+JSDoc / TS
-		1. 🦀 Rs. See [FireFlowers](https://brson.github.io/fireflowers) to understand why.
-		2. Bash & POSIX Shell
+		- Bash & POSIX Shell
+		- JS+`ts-check`+JSDoc / TS
+		- 🦀 Rs. See [FireFlowers](https://brson.github.io/fireflowers) to understand why.
 	- in theory (idealized):
 	This **only** takes into account the langs [in isolation](https://en.wikipedia.org/wiki/Spherical_cow) (semantics, type-system, syntax & grammar, std-lib, etc...):
 
