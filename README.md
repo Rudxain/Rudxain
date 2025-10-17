@@ -81,6 +81,7 @@ BTW, [Bash is almost as insane as PHP](https://mywiki.wooledge.org/BashProgrammi
 ## Browser
 - <img src=https://raw.githubusercontent.com/mdn/yari/2720d1f9998be94428a822dcc06946d6a53879d0/client/src/assets/dino.svg width=16em height=16em> Moz <img src=https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg width=16em height=16em> Firefox
 - [Lynx](https://lynx.invisible-island.net/)
+- [ELinks](https://github.com/rkd77/elinks)
 
 ## Terminal
 - <img src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg width=16em height=16em> Android: [Termux](https://github.com/termux/termux-app/actions/workflows/debug_build.yml?query=branch%3Amaster+event%3Apush)
