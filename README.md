@@ -31,11 +31,11 @@
 This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect), I'll try my best to list in an accurate order. The list is non-exhaustive, as it focuses on specialization and fluency:
 
 	0. [A.R.T. REs](https://developer.android.com/reference/java/util/regex/Pattern). I've even [catched an implementation bug](https://issuetracker.google.com/issues/239189096) (non-compliant with the Java spec) 🗿
-	1. [<img src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em> AM](https://llamalab.com/automate/doc)
-	2. [JS](https://tc39.es/ecma262/)
-	3. [TS](https://www.typescriptlang.org/docs)
-	4. [🦀 Rs](https://doc.rust-lang.org/reference)
-	5. [POSIX `sh`](https://pubs.opengroup.org/onlinepubs/9799919799/utilities/V3_chap02.html) (implies basic Bash and MirBSD Korn shell)
+	1. [POSIX `sh`](https://pubs.opengroup.org/onlinepubs/9799919799/utilities/V3_chap02.html) (implies basic Bash and MirBSD Korn shell)
+	2. [<img src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em> AM](https://llamalab.com/automate/doc)
+	3. [JS](https://tc39.es/ecma262/)
+	4. [TS](https://www.typescriptlang.org/docs)
+	5. [🦀 Rs](https://doc.rust-lang.org/reference)
 	6. [BF](https://esolangs.org/wiki/BrainFuck). [Proof](https://github.com/baris-inandi/bfgo/pull/3).
 	7. [HTML5](https://html.spec.whatwg.org)
 	8. [Lua](https://www.lua.org/manual/)
