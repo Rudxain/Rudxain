@@ -30,28 +30,28 @@
 - 🧠 Expertise: This takes into account my knowledge of the lang (and everything directly related to it), and my experience making useful, efficient, and correct/safe software in it.
 This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect), I'll try my best to list in an accurate order. The list is non-exhaustive, as it focuses on specialization and fluency:
 
-	0. [A.R.T. REs](https://developer.android.com/reference/java/util/regex/Pattern). I've even [catched an implementation bug](https://issuetracker.google.com/issues/239189096) (non-compliant with the Java spec) 🗿
+	1. [A.R.T. REs](https://developer.android.com/reference/java/util/regex/Pattern). I've even [catched an implementation bug](https://issuetracker.google.com/issues/239189096) (non-compliant with the Java spec) 🗿
 	1. [POSIX `sh`](https://pubs.opengroup.org/onlinepubs/9799919799/utilities/V3_chap02.html) (implies basic Bash and MirBSD Korn shell)
-	2. [<img src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em> AM](https://llamalab.com/automate/doc)
-	3. [JS](https://tc39.es/ecma262/)
-	4. [TS](https://www.typescriptlang.org/docs)
-	5. [🦀 Rs](https://doc.rust-lang.org/reference)
-	6. [BF](https://esolangs.org/wiki/BrainFuck). [Proof](https://github.com/baris-inandi/bfgo/pull/3).
-	7. [HTML5](https://html.spec.whatwg.org)
+	1. [<img src=https://llamalab.com/img/automate/ic_launcher-128.png width=16em height=16em> AM](https://llamalab.com/automate/doc)
+	1. [JS](https://tc39.es/ecma262/)
+	1. [TS](https://www.typescriptlang.org/docs)
+	1. [🦀 Rs](https://doc.rust-lang.org/reference)
+	1. [BF](https://esolangs.org/wiki/BrainFuck). [Proof](https://github.com/baris-inandi/bfgo/pull/3).
+	1. [HTML5](https://html.spec.whatwg.org)
 
 - 📖 Learning
 	- 💾 Assembly x86. Only reading, not writing
 
 - 👀 Interested
-	1. 💾 Assembly
+	- 💾 Assembly
 		- [UVM](https://github.com/maximecb/uvm)
 		- RISC-V
-	2. [Bend](https://github.com/HigherOrderCO/Bend) & [Kind](https://github.com/HigherOrderCO/kind2), because of HVM
-	3. 🕊️ Ada
-	4. <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg width=16em height=16em> (Common Lisp)
-	5. [Hylo](https://www.hylo-lang.org)
-	6. [Koka](https://koka-lang.github.io/koka/doc/index.html) & [Eff](http://www.eff-lang.org)
-	7. [🧿 Pipefish](https://github.com/tim-hardcastle/Pipefish)
+	- [Bend](https://github.com/HigherOrderCO/Bend) & [Kind](https://github.com/HigherOrderCO/kind2), because of HVM
+	- 🕊️ Ada
+	- <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg width=16em height=16em> (Common Lisp)
+	- [Hylo](https://www.hylo-lang.org)
+	- [Koka](https://koka-lang.github.io/koka/doc/index.html) & [Eff](http://www.eff-lang.org)
+	- [🧿 Pipefish](https://github.com/tim-hardcastle/Pipefish)
 
 Despite my love for langs like Rust, I still respect langs like C and Go, for the same reason why I respect λ-Calculus and Gleam: simplicity. This is why [**C++ is an abomination that must be exterminated**](https://mikelui.io/2019/01/03/seriously-bonkers). See also ["There is No Best Programming Language (but some are still better than others)"](https://www.thecodedmessage.com/posts/best-programming-language)
 
@@ -72,9 +72,9 @@ BTW, [Bash is almost as insane as PHP](https://mywiki.wooledge.org/BashProgrammi
 - Past experience: [M$](https://consumerrights.wiki/Microsoft) [Winbloat](https://www.gnu.org/philosophy/why-call-it-the-swindle) \{XP, 7, 8.1, 10, 11}
 
 - 👀 Interested
-	1. [<img src=https://raw.githubusercontent.com/NixOS/nixos-artwork/f84c13adae08e860a7c3f76ab3a9bef916d276cc/logo/nix-snowflake-colours.svg width=16em height=16em> Nix](https://nixos.org)
-	2. [Redox](https://www.redox-os.org)
-	3. [PM](https://postmarketos.org)
+	- [<img src=https://raw.githubusercontent.com/NixOS/nixos-artwork/f84c13adae08e860a7c3f76ab3a9bef916d276cc/logo/nix-snowflake-colours.svg width=16em height=16em> Nix](https://nixos.org)
+	- [Redox](https://www.redox-os.org)
+	- [PM](https://postmarketos.org)
 
 ## Browser
 - <img src=https://raw.githubusercontent.com/mdn/yari/2720d1f9998be94428a822dcc06946d6a53879d0/client/src/assets/dino.svg width=16em height=16em> Moz <img src=https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg width=16em height=16em> Firefox
@@ -87,15 +87,15 @@ BTW, [Bash is almost as insane as PHP](https://mywiki.wooledge.org/BashProgrammi
 
 ## Other tools
 - ❤️ Faves
-	1. GNOME Characters
-	2. `nuke` (`rm -rf --`)
-	3. `command-not-found`
-	4. NetCat: Better than LocalSend, for my use-cases
-	5. GNOME `baobab` ("Disk Usage Analyzer")
+	- GNOME Characters
+	- `nuke` (`rm -rf --`)
+	- `command-not-found`
+	- NetCat: Better than LocalSend, for my use-cases
+	- GNOME `baobab` ("Disk Usage Analyzer")
 - 🧠 Expertise (relatively):
 	1. [ADB](https://android.googlesource.com/platform/packages/modules/adb/+/refs/heads/main/docs/)
-	2. [uBO](https://github.com/gorhill/uBlock/wiki)
-	3. [`coreutils`](https://www.gnu.org/software/coreutils/manual/), [`busybox`](https://www.busybox.net/downloads/BusyBox.html), [`toybox`](https://www.landley.net/toybox/help.html)
-	4. [<img src=https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg width=16em height=16em> Git](https://git-scm.com/docs)
-	5. [<img src=https://raw.githubusercontent.com/KristalTeam/Kristal/bbda70bc1469f8cd6e1d8a5b79350024865cb3e7/icon.png width=16em height=16em> Kristal](https://kristal.cc/wiki/)
-	6. [JSX](https://facebook.github.io/jsx) & [React](https://react.dev/reference/react)
+	1. [uBO](https://github.com/gorhill/uBlock/wiki)
+	1. [`coreutils`](https://www.gnu.org/software/coreutils/manual/), [`busybox`](https://www.busybox.net/downloads/BusyBox.html), [`toybox`](https://www.landley.net/toybox/help.html)
+	1. [<img src=https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg width=16em height=16em> Git](https://git-scm.com/docs)
+	1. [<img src=https://raw.githubusercontent.com/KristalTeam/Kristal/bbda70bc1469f8cd6e1d8a5b79350024865cb3e7/icon.png width=16em height=16em> Kristal](https://kristal.cc/wiki/)
+	1. [JSX](https://facebook.github.io/jsx) & [React](https://react.dev/reference/react)
