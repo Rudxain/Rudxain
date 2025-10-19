@@ -38,8 +38,6 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 	5. [🦀 Rs](https://doc.rust-lang.org/reference)
 	6. [BF](https://esolangs.org/wiki/BrainFuck). [Proof](https://github.com/baris-inandi/bfgo/pull/3).
 	7. [HTML5](https://html.spec.whatwg.org/multipage/)
-	8. [Lua](https://www.lua.org/manual/)
-	9. GLSL v3.0 Fragment Shaders
 
 - 📖 Learning
 	- 💾 Assembly x86. Only reading, not writing
