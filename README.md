@@ -37,7 +37,7 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 	1. [TS](https://www.typescriptlang.org/docs)
 	1. [🦀 Rs](https://doc.rust-lang.org/reference)
 	1. [BF](https://esolangs.org/wiki/BrainFuck). [Proof](https://github.com/baris-inandi/bfgo/pull/3).
-	1. [HTML5](https://html.spec.whatwg.org)
+	1. [HTML5](https://html.spec.whatwg.org/multipage/)
 
 - 📖 Learning
 	- 💾 Assembly x86. Only reading, not writing
