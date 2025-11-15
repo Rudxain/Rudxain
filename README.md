@@ -74,7 +74,7 @@ BTW, [Bash is almost as insane as PHP](https://mywiki.wooledge.org/BashProgrammi
 - 👀 Interested
 	- [<img src=https://raw.githubusercontent.com/NixOS/nixos-artwork/f84c13adae08e860a7c3f76ab3a9bef916d276cc/logo/nix-snowflake-colours.svg width=16em height=16em> Nix](https://nixos.org)
 	- [Redox](https://www.redox-os.org)
-	- [PM](https://postmarketos.org)
+	- [Android alts](https://github.com/keepandroidopen/keepandroidopen.github.io/blob/f9bb5ef49e6f85b96efc9201e546b94ed916dbee/index.md?plain=1#L206-L219)
 
 ## Browser
 - <img src=https://raw.githubusercontent.com/mdn/yari/2720d1f9998be94428a822dcc06946d6a53879d0/client/src/assets/dino.svg width=16em height=16em> Moz <img src=https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg width=16em height=16em> Firefox
