@@ -5,8 +5,6 @@
 - Studying for a diploma in cyber-security.
 - Working on [deltarune FATE](https://gamejolt.com/games/fateFestival/975648). [More info here](https://youtube.com/post/Ugkx3m2OCbbsRuw2FCyQdlJ838JoT9zOixni).
 - Working on [<img src='https://avatars.githubusercontent.com/u/173197237?s=200&v=4' width=16em height=16em> CIC](https://github.com/Cincinnatus-Institute-of-Craftsmanship) "Proyecto Transformación Digital".
-- I strive to make useful apps and entertaining art (all media types), despite my focus on code-quality and documentation.
-- I strive to make tools that provide good [UX](https://en.wikipedia.org/wiki/User_experience) and are accessible to everyone (majority and minorities, abled and disabled), but that's sometimes impossible. I typically focus on visual accessibility; but I know there's auditive, motion, and cognitive impairments.
 
 ## Repos
 - I'll **delete any fork** that has 0 ["Yours"](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/viewing-branches-in-your-repository)(from my POV) branches. Therefore, links to such forks may become [broken](https://en.wikipedia.org/wiki/Link_rot) (not dead, because it's not permanent).
