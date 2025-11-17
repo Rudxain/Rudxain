@@ -2,7 +2,7 @@
 
 ## Personal
 - Might consider leaving [GH](https://consumerrights.wiki/GitHub), [for many reasons](https://giveupgithub.org).
-- Studying for a diploma in cyber-security.
+- Studying cyber-security.
 - Working on [deltarune FATE](https://gamejolt.com/games/fateFestival/975648). [More info here](https://youtube.com/post/Ugkx3m2OCbbsRuw2FCyQdlJ838JoT9zOixni).
 - Working on [<img src='https://avatars.githubusercontent.com/u/173197237?s=200&v=4' width=16em height=16em> CIC](https://github.com/Cincinnatus-Institute-of-Craftsmanship) "Proyecto Transformación Digital".
 
