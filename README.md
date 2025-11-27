@@ -10,6 +10,7 @@
 - I'll **delete any fork** that has 0 ["Yours"](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/viewing-branches-in-your-repository)(from my POV) branches. Therefore, links to such forks may become [broken](https://en.wikipedia.org/wiki/Link_rot) (not dead, because it's not permanent).
 	- I may delete "Yours" branches if their corresponding pull-request is merged/closed.
 - I may **delete any of [my Gists](https://gist.github.com/Rudxain) without warning**. The most likely reason is due to moving its contents to an actual repo.
+- Archives are considered for deletion
 
 ## Langs
 - ❤️ Faves
