@@ -1,4 +1,8 @@
 # Me
+> [!important]
+> [I'm preparing to unify most of my GH-pages repos into one](https://github.com/Rudxain/Rudxain.github.io/issues/17). Some **links will break**. You have been warned!
+>
+> Also please let me know of any links that I should update
 
 ## Personal
 - Might consider leaving [GH](https://consumerrights.wiki/GitHub), [for many reasons](https://giveupgithub.org).
