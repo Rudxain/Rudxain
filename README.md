@@ -56,13 +56,9 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 	- [Koka](https://koka-lang.github.io/koka/doc/index.html) & [Eff](http://www.eff-lang.org)
 	- [🧿 Pipefish](https://github.com/tim-hardcastle/Pipefish)
 
-Despite my love for langs like Rust, I still respect langs like C and Go, for the same reason why I respect λ-Calculus and Gleam: simplicity. This is why [**C++ is an abomination that must be exterminated**](https://mikelui.io/2019/01/03/seriously-bonkers). See also ["There is No Best Programming Language (but some are still better than others)"](https://www.thecodedmessage.com/posts/best-programming-language)
+Despite my love for langs like Rust, I still respect langs like C and Go, for the same reason why I respect λ-Calculus and Gleam: simplicity. This is why [**C++ is an abomination that must be exterminated**](https://mikelui.io/2019/01/03/seriously-bonkers) (see also ["There is No Best Programming Language (but some are still better than others)"](https://www.thecodedmessage.com/posts/best-programming-language)). And [Bash is almost as insane as PHP](https://mywiki.wooledge.org/BashProgramming/05#Arithmetic_Expansion), see [this SC issue](https://github.com/koalaman/shellcheck/issues/3067).
 
-That doesn't mean JS is exempted from scrutiny:
-- [`/denysdovhan/WTFJS/`](https://github.com/denysdovhan/wtfjs)
-- [`/brianleroux/WTFJS/`](https://github.com/brianleroux/wtfjs)
-
-BTW, [Bash is almost as insane as PHP](https://mywiki.wooledge.org/BashProgramming/05#Arithmetic_Expansion). See [this SC issue](https://github.com/koalaman/shellcheck/issues/3067).
+BTW, [I **really** hate when JS is abused](https://github.com/Rudxain/blog/blob/main/post/js-abuse.md).
 
 ## Editor
 ❤️ Fav & ⭐ fluent: [<img src=https://raw.githubusercontent.com/helix-editor/helix/master/logo.svg width=32em height=32em> `hx`](https://docs.helix-editor.com/master/)
