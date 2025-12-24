@@ -28,7 +28,6 @@
 
 		0. 🦀 Rs. [For everything](https://github.com/ansuz/RIIR/issues/39#issuecomment-2039122371).
 		1. TS
-		2. Any lang written in shapes that intuitively correspond to their semantics (such as BF dialects, and modern APL derivatives)
 
 - 🧠 Expertise: This takes into account my knowledge of the lang (and everything directly related to it), and my experience making useful, efficient, and correct/safe software in it.
 This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect), I'll try my best to list in an accurate order. The list is non-exhaustive, as it focuses on specialization and fluency:
@@ -45,16 +44,13 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 - 📖 Learning
 	- 💾 Assembly x86. Only reading, not writing
 
-- 👀 Interested
-	- 💾 Assembly
-		- [UVM](https://github.com/maximecb/uvm)
-		- RISC-V
-	- [Bend](https://github.com/HigherOrderCO/Bend) & [Kind](https://github.com/HigherOrderCO/kind2), because of HVM
-	- 🕊️ Ada
-	- <img src=https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg width=16em height=16em> (Common Lisp)
-	- [Hylo](https://www.hylo-lang.org)
-	- [Koka](https://koka-lang.github.io/koka/doc/index.html) & [Eff](http://www.eff-lang.org)
-	- [🧿 Pipefish](https://github.com/tim-hardcastle/Pipefish)
+👀 Interested in these characteristics:
+- Low-level, both in the physical sense (such as 💾 assembly, both for real and virtual (VM) CPUs), and the theoretical sense (such as λ-Calculus). I do like hi-level stuff, but with "humble" abstractions.
+- Type sys: I prefer static rather than dynamic, and **absolutely prefer strong** rather than weak ([I'm PHP-phobic](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design)). IOW, I prefer strong+dyn over weak+static.
+- [Effect sys](https://en.wikipedia.org/wiki/Effect_system).
+- Stuff like [Hylo](https://www.hylo-lang.org) and [Granule](https://granule-project.github.io)
+- [Interaction nets](https://en.wikipedia.org/wiki/Interaction_nets), such as [HVM](https://github.com/HigherOrderCO/HVM)
+- Shape-based syntax that intuitively corresponds to semantics, such as BF dialects and modern APL derivatives
 
 Despite my love for langs like Rust, I still respect langs like C and Go, for the same reason why I respect λ-Calculus and Gleam: simplicity. This is why [**C++ is an abomination that must be exterminated**](https://mikelui.io/2019/01/03/seriously-bonkers) (see also ["There is No Best Programming Language (but some are still better than others)"](https://www.thecodedmessage.com/posts/best-programming-language)). And [Bash is almost as insane as PHP](https://mywiki.wooledge.org/BashProgramming/05#Arithmetic_Expansion), see [this SC issue](https://github.com/koalaman/shellcheck/issues/3067).
 
