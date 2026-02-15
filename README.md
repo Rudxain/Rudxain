@@ -52,7 +52,12 @@ This is subject to [D.K.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 - [Interaction nets](https://en.wikipedia.org/wiki/Interaction_nets), such as [HVM](https://github.com/HigherOrderCO/HVM)
 - Shape-based syntax that intuitively corresponds to semantics, such as BF dialects and modern APL derivatives
 
-Despite my love for langs like Rust, I still respect langs like C and Go, for the same reason why I respect λ-Calculus and Gleam: simplicity. This is why [**C++ is an abomination that must be exterminated**](https://mikelui.io/2019/01/03/seriously-bonkers) (see also ["There is No Best Programming Language (but some are still better than others)"](https://www.thecodedmessage.com/posts/best-programming-language)). And [Bash is almost as insane as PHP](https://mywiki.wooledge.org/BashProgramming/05#Arithmetic_Expansion), see [this SC issue](https://github.com/koalaman/shellcheck/issues/3067).
+Despite my love for langs like Rust, I still respect langs like C and Go, for the same reason why I respect λ-Calculus and Gleam: simplicity. That's why **C++ should go extinct**:
+- ["There is No Best Programming Language (but some are still better than others)"](https://www.thecodedmessage.com/posts/best-programming-language)
+- [FQA](https://yosefk.com/c++fqa)
+- ["Initialization is Seriously Bonkers"](https://mikelui.io/2019/01/03/seriously-bonkers)
+
+And [Bash is almost as insane as PHP](https://mywiki.wooledge.org/BashProgramming/05#Arithmetic_Expansion), see [this SC issue](https://github.com/koalaman/shellcheck/issues/3067).
 
 BTW, [I **really** hate when JS is abused](https://github.com/Rudxain/blog/blob/main/post/js-abuse.md).
 
