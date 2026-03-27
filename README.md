@@ -6,9 +6,9 @@
 
 ## Personal
 - Might consider leaving [GH](https://consumerrights.wiki/GitHub), [for many reasons](https://giveupgithub.org).
-- Studying cyber-security.
-- Working on [deltarune FATE](https://gamejolt.com/games/fateFestival/975648). [More info here](https://youtube.com/post/Ugkx3m2OCbbsRuw2FCyQdlJ838JoT9zOixni).
-- Working on [<img src='https://avatars.githubusercontent.com/u/173197237?s=200&v=4' width=16em height=16em> CIC](https://github.com/Cincinnatus-Institute-of-Craftsmanship) "Proyecto Transformación Digital".
+- Studying many things.
+- Part of [deltarune FATE](https://gamejolt.com/games/fateFestival/975648) team. [More info here](https://youtube.com/post/Ugkx3m2OCbbsRuw2FCyQdlJ838JoT9zOixni).
+- Part of [<img src='https://avatars.githubusercontent.com/u/173197237?s=200&v=4' width=16em height=16em> CIC](https://github.com/Cincinnatus-Institute-of-Craftsmanship) "Proyecto Transformación Digital".
 
 ## Repos
 - I'll **delete any fork** that has 0 ["Yours"](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/viewing-branches-in-your-repository)(from my POV) branches. Therefore, links to such forks may become [broken](https://en.wikipedia.org/wiki/Link_rot) (not dead, because it's not permanent).
