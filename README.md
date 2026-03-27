@@ -89,8 +89,6 @@ BTW, [I **really** hate when JS is abused](https://github.com/Rudxain/blog/blob/
 	- GNOME Characters
 	- `nuke` (`rm -rf --`)
 	- `command-not-found`
-	- NetCat: Better than LocalSend, for my use-cases
-	- GNOME `baobab` ("Disk Usage Analyzer")
 - 🧠 Expertise (relatively):
 	1. [ADB](https://android.googlesource.com/platform/packages/modules/adb/+/refs/heads/main/docs/)
 	1. [uBO](https://github.com/gorhill/uBlock/wiki)
