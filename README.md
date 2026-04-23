@@ -15,6 +15,7 @@
 	- I may delete "Yours" branches if their corresponding pull-request is merged/closed.
 - I may **delete any of [my Gists](https://gist.github.com/Rudxain) without warning**. The most likely reason is due to moving its contents to an actual repo.
 - Archives are considered for deletion
+- Expect Git history rewrites and force-pushes. I want to keep my `log`s tidy. I'll try not to rewrite tags and/or popular repos. To recover old logs, [GH has a `reflog`](https://docs.github.com/en/repositories/viewing-activity-and-data-for-your-repository/using-the-activity-view-to-see-changes-to-a-repository).
 
 ## Langs
 - ❤️ Faves
