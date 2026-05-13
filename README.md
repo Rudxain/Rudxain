@@ -5,7 +5,7 @@
 > Also please let me know of any links that I should update
 
 ## Personal
-- Might consider leaving [GH](https://consumerrights.wiki/w/GitHub), [for many reasons](https://giveupgithub.org).
+- Considering leaving [GH](https://consumerrights.wiki/w/GitHub), [for many reasons](https://giveupgithub.org).
 - Studying many things.
 - Part of [deltarune FATE](https://gamejolt.com/games/fateFestival/975648) team. [More info here](https://youtube.com/post/Ugkx3m2OCbbsRuw2FCyQdlJ838JoT9zOixni).
 - Part of [<img src='https://avatars.githubusercontent.com/u/173197237?s=200&v=4' width=16em height=16em> CIC](https://github.com/Cincinnatus-Institute-of-Craftsmanship) "Proyecto Transformación Digital".
